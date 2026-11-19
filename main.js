@@ -29,6 +29,20 @@ d3.csv("data.csv", d3.autoType).then(raw => {
   const data = raw.filter(d => d.sticker_cost && d.median_earnings_10yr);
   d3.select("#schools").selectAll("option").data(data.map(d => d.name).sort()).join("option").attr("value", d => d);
 
+  // precompute ranks among all schools that report each measure (#1 = best value, most expensive, highest earnings)
+  function rankBy(key, accessor, desc = true) {
+    const v = data.filter(d => accessor(d) != null && isFinite(accessor(d)))
+      .sort((a, b) => desc ? accessor(b) - accessor(a) : accessor(a) - accessor(b));
+    v.forEach((d, i) => d[key] = i + 1);
+    data[key + "_n"] = v.length;
+  }
+  rankBy("r_val_sticker", d => d.median_earnings_10yr / d.sticker_cost);
+  rankBy("r_val_net", d => d.net_price ? d.median_earnings_10yr / d.net_price : null);
+  rankBy("r_cost_sticker", d => d.sticker_cost);
+  rankBy("r_cost_net", d => d.net_price || null);
+  rankBy("r_earn", d => d.median_earnings_10yr);
+  const rk = (d, key) => d[key] ? `#${d[key].toLocaleString()} of ${data[key + "_n"].toLocaleString()}` : "n/a";
+
   y.domain([0, d3.max(data, d => d.median_earnings_10yr) * 1.05]).nice();
   yAxis.call(d3.axisLeft(y).tickFormat(d => "$" + d / 1000 + "K"));
   gridY.call(d3.axisLeft(y).tickSize(-(W - M.left - M.right)).tickFormat(""));
@@ -43,7 +57,11 @@ d3.csv("data.csv", d3.autoType).then(raw => {
         `Net price: ${d.net_price ? fmtK(d.net_price) + "/yr" : "n/a"}<br>` +
         `Earnings (10 yr): ${fmtK(d.median_earnings_10yr)}<br>` +
         `Median debt: ${d.median_debt ? fmtK(d.median_debt) : "n/a"}<br>` +
-        `Grad rate: ${d.grad_rate != null ? Math.round(d.grad_rate * 100) + "%" : "n/a"}`)
+        `Grad rate: ${d.grad_rate != null ? Math.round(d.grad_rate * 100) + "%" : "n/a"}` +
+        `<hr><span class="tip-h">Rankings (${mode === "sticker" ? "sticker price" : "net price"})</span>` +
+        `Value (earnings ÷ cost): ${rk(d, mode === "sticker" ? "r_val_sticker" : "r_val_net")}<br>` +
+        `Cost (most expensive): ${rk(d, mode === "sticker" ? "r_cost_sticker" : "r_cost_net")}<br>` +
+        `Earnings (highest): ${rk(d, "r_earn")}`)
         .style("left", Math.min(e.clientX + 14, window.innerWidth - 270) + "px")
         .style("top", (e.clientY + 14) + "px");
     })

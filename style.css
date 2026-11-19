@@ -71,3 +71,5 @@ footer { color: var(--muted); font: 13px/1.5 system-ui, sans-serif; padding: 40p
   .hook p { font-size: 18px; }
   .search input { width: 100%; }
 }
+.tooltip hr { border: 0; border-top: 1px solid var(--line); margin: 6px 0; }
+.tip-h { display: block; font-weight: 600; font-size: 12px; text-transform: uppercase; letter-spacing: .04em; color: var(--muted); margin-bottom: 2px; }
