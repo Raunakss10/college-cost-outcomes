@@ -1,0 +1,1683 @@
+name,state,type,sticker_cost,net_price,median_earnings_10yr,median_debt,grad_rate,undergrads
+Alabama A & M University,AL,Public,27732.0,18255.0,41266.0,27204.0,0.2771,6124.0
+University of Alabama at Birmingham,AL,Public,27987.0,15630.0,59631.0,21250.0,0.6612,11635.0
+University of Alabama in Huntsville,AL,Public,32089.0,22758.0,72098.0,20550.0,0.6246,6591.0
+Alabama State University,AL,Public,23655.0,9775.0,40585.0,28197.0,0.307,3477.0
+The University of Alabama,AL,Public,33924.0,20202.0,66081.0,21500.0,0.7366,33227.0
+Auburn University at Montgomery,AL,Public,23049.0,13789.0,51305.0,25094.0,0.3488,2542.0
+Auburn University,AL,Public,36285.0,25424.0,73273.0,19500.0,0.8206,26816.0
+South University-Montgomery,AL,Private for-profit,36009.0,23872.0,39314.0,26417.0,0.1176,299.0
+Faulkner University,AL,Private nonprofit,37209.0,23416.0,48627.0,23275.0,0.3707,1549.0
+Huntingdon College,AL,Private nonprofit,40933.0,21852.0,54423.0,27000.0,0.4766,879.0
+Heritage Christian University,AL,Private nonprofit,28765.0,18974.0,47059.0,,,75.0
+Jacksonville State University,AL,Public,28418.0,17111.0,51004.0,21767.0,0.4752,7036.0
+University of West Alabama,AL,Public,22639.0,11531.0,47856.0,23250.0,0.3489,2974.0
+Miles College,AL,Private nonprofit,23527.0,16497.0,38127.0,25500.0,0.1941,1155.0
+University of Mobile,AL,Private nonprofit,42637.0,23931.0,48418.0,25000.0,0.5677,1307.0
+University of Montevallo,AL,Public,29520.0,18760.0,46010.0,22500.0,0.556,2151.0
+University of North Alabama,AL,Public,28880.0,17850.0,50557.0,19933.0,0.5556,5811.0
+Oakwood University,AL,Private nonprofit,40707.0,26827.0,47707.0,27000.0,0.4716,1153.0
+Samford University,AL,Private nonprofit,59741.0,32950.0,66982.0,19500.0,0.7781,4206.0
+University of South Alabama,AL,Public,25443.0,16801.0,53069.0,22000.0,0.5456,8879.0
+Spring Hill College,AL,Private nonprofit,41358.0,21545.0,58881.0,23500.0,0.6138,782.0
+Stillman College,AL,Private nonprofit,27266.0,14781.0,40800.0,25099.0,0.3247,706.0
+Talladega College,AL,Private nonprofit,25654.0,13528.0,38238.0,30297.0,0.4386,701.0
+Troy University,AL,Public,23521.0,13943.0,49010.0,25000.0,0.5032,9805.0
+Tuskegee University,AL,Private nonprofit,46052.0,40141.0,57833.0,25795.0,0.5456,2630.0
+United States Sports University,AL,Private nonprofit,17720.0,5316.0,56044.0,,,228.0
+University of Alaska Anchorage,AK,Public,24783.0,13077.0,53994.0,20687.0,0.3069,7212.0
+University of Alaska Fairbanks,AK,Public,20938.0,7570.0,52180.0,19375.0,0.3692,4207.0
+Arizona State University Campus Immersion,AZ,Public,30823.0,14694.0,69111.0,19151.0,0.6716,64674.0
+University of Arizona,AZ,Public,31018.0,17125.0,67414.0,18000.0,0.7092,42537.0
+Embry-Riddle Aeronautical University-Prescott,AZ,Private nonprofit,62688.0,38102.0,92069.0,22000.0,0.6902,3218.0
+Grand Canyon University,AZ,Private nonprofit,33674.0,21509.0,50609.0,24000.0,0.5419,73371.0
+Northern Arizona University,AZ,Public,33423.0,17265.0,59083.0,17500.0,0.5854,22903.0
+Prescott College,AZ,Private nonprofit,49872.0,24724.0,47260.0,20000.0,0.3333,219.0
+Arizona Christian University,AZ,Private nonprofit,58328.0,36720.0,55315.0,21500.0,0.3394,1165.0
+University of Arkansas at Little Rock,AR,Public,22590.0,16882.0,50640.0,21604.0,0.4139,4949.0
+Arkansas Baptist College,AR,Private nonprofit,23060.0,12951.0,35793.0,28753.0,0.0722,342.0
+Lyon College,AR,Private nonprofit,43986.0,14400.0,49833.0,23250.0,0.4483,648.0
+University of Arkansas,AR,Public,28924.0,17571.0,63588.0,20500.0,0.709,28677.0
+University of Arkansas at Pine Bluff,AR,Public,22388.0,11528.0,40307.0,24656.0,0.3938,1807.0
+Arkansas State University,AR,Public,26511.0,15441.0,47220.0,19498.0,0.5767,9110.0
+University of Central Arkansas,AR,Public,27784.0,16423.0,49756.0,19500.0,0.5392,7762.0
+Central Baptist College,AR,Private nonprofit,33610.0,20276.0,49734.0,21750.0,0.413,484.0
+Crowley's Ridge College,AR,Private nonprofit,29329.0,18918.0,44146.0,24037.0,0.4762,165.0
+Harding University,AR,Private nonprofit,39651.0,19786.0,56146.0,24329.0,0.71,3382.0
+Henderson State University,AR,Public,25573.0,21843.0,46244.0,20500.0,0.361,1456.0
+Hendrix College,AR,Private nonprofit,57101.0,23177.0,59310.0,23250.0,0.7174,1100.0
+John Brown University,AR,Private nonprofit,45418.0,22476.0,58769.0,23250.0,0.7673,1471.0
+Ouachita Baptist University,AR,Private nonprofit,50212.0,25343.0,52333.0,19500.0,0.6644,1602.0
+University of the Ozarks,AR,Private nonprofit,38466.0,17192.0,44113.0,15000.0,0.4833,767.0
+Philander Smith University,AR,Private nonprofit,28340.0,22153.0,40195.0,29375.0,0.36,751.0
+Williams Baptist University,AR,Private nonprofit,42550.0,17814.0,47042.0,19930.0,0.3604,478.0
+Southern Arkansas University Main Campus,AR,Public,25195.0,16015.0,46635.0,18750.0,0.4591,2708.0
+Academy of Art University,CA,Private for-profit,51328.0,41747.0,44567.0,31000.0,0.3341,3587.0
+Art Center College of Design,CA,Private nonprofit,77990.0,48389.0,75975.0,27651.0,0.8088,2017.0
+Azusa Pacific University,CA,Private nonprofit,57174.0,22597.0,71595.0,22000.0,0.6304,2759.0
+Bethesda University,CA,Private nonprofit,16262.0,10963.0,51202.0,12250.0,0.1897,205.0
+Biola University,CA,Private nonprofit,65258.0,32530.0,64126.0,22250.0,0.6849,3474.0
+California Baptist University,CA,Private nonprofit,54370.0,24138.0,67633.0,25000.0,0.5992,8179.0
+California College of the Arts,CA,Private nonprofit,84786.0,41109.0,58957.0,23917.0,0.6371,990.0
+California Institute of Technology,CA,Private nonprofit,90822.0,8509.0,166642.0,7500.0,0.8979,987.0
+California Lutheran University,CA,Private nonprofit,70795.0,26445.0,77620.0,21000.0,0.6935,2296.0
+California Polytechnic State University-San Luis Obispo,CA,Public,36515.0,18832.0,96304.0,16500.0,0.8657,21996.0
+California State University-Bakersfield,CA,Public,18458.0,4001.0,62381.0,13246.0,0.4822,8577.0
+California State University-Stanislaus,CA,Public,17570.0,3565.0,65560.0,13000.0,0.5223,8385.0
+California State University-San Bernardino,CA,Public,16968.0,3946.0,61951.0,14625.0,0.5299,15023.0
+California State Polytechnic University-Pomona,CA,Public,22633.0,9404.0,77464.0,15500.0,0.6783,25042.0
+California State University-Chico,CA,Public,26798.0,14157.0,70012.0,14259.0,0.6026,13631.0
+California State University-Dominguez Hills,CA,Public,22839.0,7244.0,62587.0,15000.0,0.4167,12538.0
+California State University-Fresno,CA,Public,19585.0,5418.0,62756.0,13156.0,0.5819,21605.0
+California State University-Fullerton,CA,Public,17787.0,5115.0,69015.0,13594.0,0.6792,38546.0
+California State University-East Bay,CA,Public,20807.0,6858.0,73868.0,16500.0,0.4902,9809.0
+California State University-Long Beach,CA,Public,22926.0,9426.0,69554.0,14195.0,0.7033,35924.0
+California State University-Los Angeles,CA,Public,17767.0,2385.0,62555.0,14576.0,0.5457,19562.0
+California State University-Northridge,CA,Public,20014.0,6346.0,63721.0,15000.0,0.568,32691.0
+California State University-Sacramento,CA,Public,25925.0,11186.0,69014.0,15000.0,0.5442,28350.0
+University of California-Berkeley,CA,Public,47842.0,14538.0,100212.0,12416.0,0.9368,33068.0
+University of California-Davis,CA,Public,43191.0,14318.0,86999.0,12038.0,0.8568,32253.0
+University of California-Irvine,CA,Public,39170.0,13866.0,83432.0,12821.0,0.8659,30197.0
+University of California-Los Angeles,CA,Public,41373.0,14659.0,88581.0,13750.0,0.9284,33475.0
+University of California-Riverside,CA,Public,38424.0,12672.0,72974.0,16368.0,0.7514,22593.0
+University of California-San Diego,CA,Public,41664.0,14794.0,96197.0,13000.0,0.8596,34948.0
+University of California-Santa Barbara,CA,Public,44833.0,16807.0,82568.0,11776.0,0.8358,23113.0
+University of California-Santa Cruz,CA,Public,43867.0,18549.0,73362.0,15000.0,0.7372,17940.0
+California Institute of the Arts,CA,Private nonprofit,81346.0,49996.0,45380.0,24000.0,0.6245,860.0
+Cal Poly Maritime Academy,CA,Public,30866.0,17793.0,105475.0,23644.0,0.5842,804.0
+Chapman University,CA,Private nonprofit,85323.0,46708.0,80694.0,19500.0,0.8289,7478.0
+Charles R Drew University of Medicine and Science,CA,Private nonprofit,44630.0,31400.0,79596.0,23750.0,0.3636,282.0
+Concordia University-Irvine,CA,Private nonprofit,60683.0,29761.0,72184.0,21500.0,0.4737,1536.0
+San Diego Christian College,CA,Private nonprofit,38392.0,31898.0,50007.0,19750.0,0.2698,87.0
+Claremont McKenna College,CA,Private nonprofit,91510.0,26039.0,127532.0,13450.0,0.8991,1388.0
+University of Silicon Valley,CA,Private for-profit,44563.0,34100.0,59124.0,31000.0,0.5263,455.0
+California College of ASU,CA,Private nonprofit,32098.0,24465.0,53226.0,27000.0,0.3375,71.0
+Design Institute of San Diego,CA,Private for-profit,36212.0,32832.0,52715.0,29973.0,0.5714,77.0
+Dominican University of California,CA,Private nonprofit,73552.0,35567.0,90053.0,23250.0,0.7323,1114.0
+Fresno Pacific University,CA,Private nonprofit,45834.0,17491.0,66140.0,24250.0,0.4943,1544.0
+Harvey Mudd College,CA,Private nonprofit,93131.0,39347.0,164248.0,25000.0,0.933,921.0
+California State Polytechnic University-Humboldt,CA,Public,27011.0,13751.0,54882.0,17297.0,0.4368,5612.0
+Humphreys University,CA,Private nonprofit,20412.0,13473.0,45846.0,32451.0,0.6667,149.0
+Life Pacific University,CA,Private nonprofit,38892.0,26892.0,43561.0,21500.0,0.4865,456.0
+University of La Verne,CA,Private nonprofit,62637.0,20523.0,74115.0,23250.0,0.6121,3050.0
+Laguna College of Art and Design,CA,Private nonprofit,63823.0,50349.0,49168.0,27000.0,0.6045,746.0
+La Sierra University,CA,Private nonprofit,52192.0,22767.0,65403.0,25500.0,0.519,1116.0
+Loma Linda University,CA,Private nonprofit,39397.0,25018.0,99540.0,21500.0,,909.0
+The Master's University and Seminary,CA,Private nonprofit,58982.0,33777.0,58794.0,20500.0,0.5837,1622.0
+Loyola Marymount University,CA,Private nonprofit,88656.0,50518.0,86034.0,19500.0,0.7879,7094.0
+Menlo College,CA,Private nonprofit,76640.0,32324.0,76858.0,21063.0,0.5161,752.0
+Northeastern University Oakland,CA,Private nonprofit,90001.0,27275.0,99371.0,20000.0,,464.0
+Mount Saint Mary's University,CA,Private nonprofit,69109.0,27235.0,78572.0,25000.0,0.5636,1719.0
+National University,CA,Private nonprofit,31068.0,24008.0,73988.0,25000.0,0.4286,10794.0
+Newschool of Architecture and Design,CA,Private for-profit,58842.0,51582.0,75045.0,30332.0,0.5625,182.0
+Occidental College,CA,Private nonprofit,88656.0,37470.0,79660.0,21500.0,0.7918,1877.0
+Otis College of Art and Design,CA,Private nonprofit,78063.0,50943.0,70469.0,26500.0,0.5803,1223.0
+Hope International University,CA,Private nonprofit,53509.0,31029.0,51254.0,19500.0,0.5321,564.0
+University of the Pacific,CA,Private nonprofit,73184.0,24186.0,88053.0,18500.0,0.7302,3204.0
+Pepperdine University,CA,Private nonprofit,95168.0,48065.0,89410.0,21500.0,0.7839,3553.0
+Pitzer College,CA,Private nonprofit,89742.0,36135.0,72270.0,15625.0,0.8327,1227.0
+Point Loma Nazarene University,CA,Private nonprofit,64950.0,40555.0,68713.0,21895.0,0.7709,3188.0
+Pomona College,CA,Private nonprofit,89414.0,18978.0,84281.0,14000.0,0.9207,1666.0
+University of Redlands,CA,Private nonprofit,80199.0,30924.0,80659.0,25000.0,0.6453,2049.0
+San Diego State University,CA,Public,26045.0,13243.0,73494.0,14500.0,0.7805,35377.0
+University of San Diego,CA,Private nonprofit,83503.0,29539.0,93069.0,21250.0,0.8107,5671.0
+San Francisco Conservatory of Music,CA,Private nonprofit,88844.0,48678.0,47172.0,25000.0,0.5968,226.0
+San Francisco State University,CA,Public,25244.0,9803.0,73299.0,15000.0,0.503,18639.0
+University of San Francisco,CA,Private nonprofit,81835.0,30496.0,94613.0,22956.0,0.6623,5287.0
+William Jessup University,CA,Private nonprofit,52793.0,26418.0,60855.0,20450.0,0.4789,1294.0
+San Jose State University,CA,Public,28920.0,14241.0,83493.0,14750.0,0.677,27601.0
+Santa Clara University,CA,Private nonprofit,84261.0,36116.0,117193.0,19500.0,0.8729,6552.0
+Scripps College,CA,Private nonprofit,90886.0,29998.0,84025.0,13500.0,0.8445,1113.0
+Shasta Bible College and Graduate School,CA,Private nonprofit,24302.0,15245.0,52967.0,,1.0,21.0
+Simpson University,CA,Private nonprofit,54614.0,28219.0,62250.0,18250.0,0.3458,809.0
+Saint Mary's College of California,CA,Private nonprofit,80742.0,32200.0,83501.0,22500.0,0.666,1947.0
+Sonoma State University,CA,Public,24931.0,10759.0,71264.0,15000.0,0.5526,5166.0
+Vanguard University of Southern California,CA,Private nonprofit,56063.0,23231.0,62456.0,20500.0,0.5509,1933.0
+Southern California Institute of Architecture,CA,Private nonprofit,73311.0,28753.0,73810.0,31500.0,0.8621,236.0
+University of Southern California,CA,Private nonprofit,95048.0,33056.0,103420.0,17000.0,0.9022,20443.0
+Thomas Aquinas College,CA,Private nonprofit,45920.0,30972.0,59595.0,19000.0,0.8348,566.0
+Walden University,MN,Private for-profit,36522.0,29899.0,54715.0,20834.0,1.0,9136.0
+Westmont College,CA,Private nonprofit,73544.0,29343.0,70327.0,21609.0,0.679,1302.0
+Whittier College,CA,Private nonprofit,64712.0,24940.0,68254.0,20000.0,0.5538,764.0
+Woodbury University,CA,Private nonprofit,71778.0,44337.0,65896.0,27000.0,0.4455,779.0
+Yeshiva Ohr Elchonon Chabad West Coast Talmudical Seminary,CA,Private nonprofit,31504.0,15235.0,35665.0,,0.2727,163.0
+Adams State University,CO,Public,25204.0,8585.0,51295.0,18000.0,0.3671,1250.0
+University of Colorado Denver/Anschutz Medical Campus,CO,Public,22834.0,10217.0,69387.0,18650.0,0.4893,10519.0
+University of Colorado Colorado Springs,CO,Public,25521.0,14954.0,61386.0,20500.0,0.459,8697.0
+University of Colorado Boulder,CO,Public,37189.0,23708.0,77574.0,18500.0,0.7426,31939.0
+Colorado Christian University,CO,Private nonprofit,57322.0,28605.0,52025.0,27835.0,0.6905,5549.0
+Colorado College,CO,Private nonprofit,90929.0,27951.0,70914.0,19500.0,0.8617,2014.0
+Colorado School of Mines,CO,Public,43745.0,32901.0,102077.0,21287.0,0.821,6155.0
+Colorado State University-Fort Collins,CO,Public,34684.0,22247.0,66947.0,18750.0,0.6762,25538.0
+Colorado Technical University-Colorado Springs,CO,Private for-profit,25237.0,17860.0,44720.0,29971.0,0.1932,28086.0
+University of Denver,CO,Private nonprofit,80467.0,31961.0,77205.0,19500.0,0.7421,6025.0
+Fort Lewis College,CO,Public,27581.0,20090.0,49164.0,16591.0,0.357,3079.0
+Metropolitan State University of Denver,CO,Public,24176.0,13803.0,57612.0,21550.0,0.3148,15002.0
+Naropa University,CO,Private nonprofit,58714.0,31713.0,36917.0,25000.0,0.1481,339.0
+University of Northern Colorado,CO,Public,30741.0,18711.0,56980.0,19500.0,0.4925,5598.0
+Regis University,CO,Private nonprofit,57064.0,18133.0,79971.0,23450.0,0.55,2627.0
+Rocky Mountain College of Art and Design,CO,Private for-profit,39446.0,32562.0,45764.0,31061.0,0.3654,2050.0
+Colorado State University Pueblo,CO,Public,23079.0,8851.0,58700.0,20307.0,0.4152,3042.0
+Western Colorado University,CO,Public,26610.0,16756.0,53355.0,20151.0,0.48,1586.0
+Albertus Magnus College,CT,Private nonprofit,58797.0,31731.0,62459.0,27750.0,0.4837,991.0
+University of Bridgeport,CT,Private nonprofit,53961.0,28356.0,56082.0,26074.0,0.3693,1534.0
+Central Connecticut State University,CT,Public,25348.0,15537.0,65779.0,20500.0,0.4974,7822.0
+Charter Oak State College,CT,Public,21926.0,14594.0,65844.0,18610.0,0.0,1821.0
+Connecticut College,CT,Private nonprofit,87800.0,35960.0,82225.0,24250.0,0.8169,1937.0
+University of Connecticut,CT,Public,40744.0,24342.0,82098.0,20313.0,0.835,19835.0
+Eastern Connecticut State University,CT,Public,33017.0,20502.0,60748.0,20988.0,0.5439,3418.0
+Fairfield University,CT,Private nonprofit,80799.0,49906.0,101587.0,25000.0,0.8532,5373.0
+University of Hartford,CT,Private nonprofit,65347.0,28928.0,66020.0,26981.0,0.5677,4146.0
+Mitchell College,CT,Private nonprofit,58128.0,32206.0,49631.0,26000.0,0.4597,377.0
+University of New Haven,CT,Private nonprofit,66498.0,32994.0,69320.0,26000.0,0.6361,4841.0
+Post University,CT,Private for-profit,28261.0,20694.0,44639.0,31125.0,0.3356,13603.0
+Quinnipiac University,CT,Private nonprofit,75254.0,41729.0,87596.0,23250.0,0.786,6531.0
+Sacred Heart University,CT,Private nonprofit,71445.0,45827.0,80896.0,25000.0,0.7679,7087.0
+University of Saint Joseph,CT,Private nonprofit,61050.0,28249.0,67897.0,27000.0,0.6176,838.0
+Southern Connecticut State University,CT,Public,31315.0,21029.0,59695.0,21500.0,0.4993,6295.0
+Trinity College,CT,Private nonprofit,91994.0,37004.0,103089.0,24000.0,0.831,2146.0
+Wesleyan University,CT,Private nonprofit,92964.0,23014.0,86811.0,14000.0,0.8999,3067.0
+Western Connecticut State University,CT,Public,26298.0,16754.0,62010.0,23250.0,0.5115,3511.0
+Yale University,CT,Private nonprofit,91950.0,11340.0,118356.0,11982.0,0.9632,6758.0
+Delaware State University,DE,Public,33669.0,19832.0,51864.0,25000.0,0.4237,4398.0
+University of Delaware,DE,Public,30294.0,16337.0,83800.0,25000.0,0.7828,19071.0
+Goldey-Beacom College,DE,Private nonprofit,28893.0,17045.0,56160.0,19953.0,0.5806,691.0
+Wilmington University,DE,Private nonprofit,24630.0,20210.0,60391.0,20832.0,0.2484,7906.0
+American University,DC,Private nonprofit,79369.0,41302.0,85458.0,22250.0,0.7479,7266.0
+The Catholic University of America,DC,Private nonprofit,77564.0,32543.0,81308.0,25469.0,0.7586,3154.0
+Gallaudet University,DC,Private nonprofit,42398.0,27398.0,49334.0,18781.0,0.5191,812.0
+George Washington University,DC,Private nonprofit,87253.0,35760.0,96691.0,19857.0,0.8253,11182.0
+Georgetown University,DC,Private nonprofit,92563.0,33661.0,110516.0,14746.0,0.943,7569.0
+Howard University,DC,Private nonprofit,58032.0,33002.0,69682.0,23750.0,0.7351,10108.0
+Trinity Washington University,DC,Private nonprofit,33126.0,12820.0,57561.0,25000.0,0.5517,1414.0
+Baptist University of Florida,FL,Private nonprofit,26368.0,21817.0,42284.0,11594.0,0.4,360.0
+Barry University,FL,Private nonprofit,50991.0,22902.0,64837.0,27000.0,0.385,2212.0
+Bethune-Cookman University,FL,Private nonprofit,29512.0,13059.0,42476.0,28025.0,0.3417,2732.0
+Lynn University,FL,Private nonprofit,70109.0,43806.0,58891.0,19500.0,0.5738,2859.0
+Albizu University-Miami,FL,Private nonprofit,57481.0,50399.0,48006.0,5500.0,0.8,287.0
+University of Central Florida,FL,Public,24965.0,11516.0,63483.0,17065.0,0.7785,59146.0
+South University-West Palm Beach,FL,Private for-profit,33876.0,21165.0,39314.0,26417.0,0.1429,251.0
+Eckerd College,FL,Private nonprofit,71068.0,42037.0,57875.0,23125.0,0.6897,1888.0
+Edward Waters University,FL,Private nonprofit,28873.0,13748.0,37946.0,25801.0,0.2344,1087.0
+Embry-Riddle Aeronautical University-Daytona Beach,FL,Private nonprofit,64963.0,40539.0,92069.0,22000.0,0.6757,7860.0
+Florida Agricultural and Mechanical University,FL,Public,25045.0,15220.0,52104.0,17500.0,0.6148,7582.0
+Florida Atlantic University,FL,Public,24554.0,10394.0,61062.0,17500.0,0.6436,23757.0
+Flagler College,FL,Private nonprofit,49742.0,31717.0,54606.0,23250.0,0.518,2391.0
+Florida College,FL,Private nonprofit,36169.0,25840.0,52207.0,15000.0,0.6131,588.0
+AdventHealth University,FL,Private nonprofit,40148.0,30906.0,74765.0,20778.0,0.525,1361.0
+Florida Institute of Technology,FL,Private nonprofit,64812.0,36511.0,50557.0,25498.0,0.593,3404.0
+Florida International University,FL,Public,23604.0,11462.0,65722.0,15547.0,0.7762,39508.0
+Florida Memorial University,FL,Private nonprofit,37199.0,24377.0,40290.0,23125.0,0.2962,1183.0
+Florida Southern College,FL,Private nonprofit,61399.0,26211.0,60802.0,25500.0,0.6784,2656.0
+Florida State University,FL,Public,25144.0,8605.0,68225.0,13000.0,0.8581,32212.0
+University of Florida,FL,Public,23197.0,5969.0,78456.0,13496.0,0.9211,35629.0
+Full Sail University,FL,Private for-profit,47115.0,37401.0,40548.0,27000.0,0.4181,25777.0
+Hobe Sound Bible College,FL,Private nonprofit,19528.0,14419.0,41247.0,,0.6667,112.0
+Jacksonville University,FL,Private nonprofit,68756.0,28424.0,77598.0,22000.0,0.4891,2930.0
+Luther Rice College & Seminary,GA,Private nonprofit,14888.0,7293.0,49305.0,33655.0,,165.0
+University of Miami,FL,Private nonprofit,90646.0,36483.0,84093.0,18433.0,0.8358,12913.0
+University of North Florida,FL,Public,24528.0,11689.0,59626.0,14174.0,0.6851,13359.0
+Nova Southeastern University,FL,Private nonprofit,55277.0,27714.0,66144.0,21103.0,0.6179,7240.0
+Palm Beach Atlantic University,FL,Private nonprofit,60207.0,28724.0,55772.0,21960.0,0.5324,2603.0
+Ringling College of Art and Design,FL,Private nonprofit,83739.0,63679.0,55053.0,27000.0,0.7182,1662.0
+Rollins College,FL,Private nonprofit,77916.0,36204.0,64156.0,25500.0,0.7776,2631.0
+Saint Leo University,FL,Private nonprofit,52024.0,24658.0,53366.0,25000.0,0.4218,6721.0
+St. John Vianney College Seminary,FL,Private nonprofit,44800.0,35556.0,54335.0,,1.0,77.0
+University of South Florida,FL,Public,22086.0,8648.0,63660.0,16250.0,0.7791,37207.0
+St. Thomas University,FL,Private nonprofit,51577.0,26153.0,58912.0,17750.0,0.282,2214.0
+Stetson University,FL,Private nonprofit,75714.0,22521.0,59422.0,21500.0,0.6045,2297.0
+Southeastern University,FL,Private nonprofit,51996.0,34297.0,49323.0,21500.0,0.4329,4813.0
+Talmudic College of Florida,FL,Private nonprofit,33000.0,20222.0,48840.0,,0.6364,27.0
+The University of Tampa,FL,Private nonprofit,59457.0,40584.0,69272.0,21500.0,0.6942,10572.0
+Trinity College of Jacksonville,FL,Private nonprofit,25792.0,17952.0,41985.0,20645.0,0.3151,386.0
+Trinity College of Florida,FL,Private nonprofit,25850.0,15479.0,41724.0,27125.0,0.2647,148.0
+Warner University,FL,Private nonprofit,46035.0,19778.0,46512.0,19500.0,0.3092,756.0
+Webber International University,FL,Private nonprofit,53656.0,34035.0,51590.0,25449.0,0.3103,813.0
+University of West Florida,FL,Public,19692.0,9443.0,52902.0,15139.0,0.595,9330.0
+Abraham Baldwin Agricultural College,GA,Public,14514.0,6874.0,41999.0,18363.0,0.3993,3208.0
+Agnes Scott College,GA,Private nonprofit,66455.0,24648.0,60457.0,25000.0,0.6846,836.0
+Albany State University,GA,Public,22301.0,14511.0,44975.0,21750.0,0.3033,5956.0
+Point University,GA,Private nonprofit,36842.0,24955.0,46450.0,26000.0,0.596,1996.0
+Clark Atlanta University,GA,Private nonprofit,46270.0,38626.0,46867.0,26000.0,0.387,3603.0
+Berry College,GA,Private nonprofit,58457.0,21964.0,57984.0,20500.0,0.7123,2245.0
+Beulah Heights University,GA,Private nonprofit,15842.0,12432.0,39665.0,50350.0,0.2105,138.0
+Brenau University,GA,Private nonprofit,46493.0,17968.0,54638.0,28000.0,0.3368,1029.0
+Clayton  State University,GA,Public,18397.0,8868.0,54701.0,25250.0,0.3755,4348.0
+Columbus State University,GA,Public,24545.0,15711.0,49706.0,23968.0,0.4198,5625.0
+Covenant College,GA,Private nonprofit,59925.0,23147.0,53280.0,22944.0,0.6864,939.0
+Dalton State College,GA,Public,10444.0,2353.0,46083.0,13419.0,0.2943,4553.0
+South University-Savannah,GA,Private for-profit,35037.0,26704.0,39314.0,26417.0,0.0833,270.0
+Emmanuel University,GA,Private nonprofit,39055.0,12898.0,48171.0,21500.0,0.4065,775.0
+Emory University,GA,Private nonprofit,88414.0,16754.0,93897.0,12000.0,0.9103,7298.0
+Fort Valley State University,GA,Public,22406.0,12421.0,41857.0,26738.0,0.389,2684.0
+Georgia Institute of Technology-Main Campus,GA,Public,29041.0,12028.0,114210.0,19500.0,0.9366,18785.0
+Georgia Southwestern State University,GA,Public,18893.0,10170.0,55890.0,18250.0,0.3325,2424.0
+Georgia College & State University,GA,Public,31194.0,20803.0,64452.0,21500.0,0.6014,5947.0
+Georgia Southern University,GA,Public,26248.0,16785.0,59167.0,20568.0,0.5363,21790.0
+Georgia State University,GA,Public,25504.0,12365.0,51903.0,21500.0,0.5099,26623.0
+University of Georgia,GA,Public,28728.0,13636.0,77246.0,15623.0,0.8907,32137.0
+Gordon State College,GA,Public,15728.0,8779.0,46001.0,17008.0,0.2215,2544.0
+LaGrange College,GA,Private nonprofit,49979.0,17700.0,60301.0,26000.0,0.352,636.0
+Life University,GA,Private nonprofit,42321.0,29594.0,48303.0,18669.0,0.4277,893.0
+Herzing University-Atlanta,GA,Private nonprofit,28444.0,22436.0,44255.0,17676.0,0.1892,387.0
+Mercer University,GA,Private nonprofit,60018.0,24778.0,63469.0,24427.0,0.7229,4500.0
+Morehouse College,GA,Private nonprofit,52456.0,38655.0,62169.0,24500.0,0.5719,2844.0
+Oglethorpe University,GA,Private nonprofit,63729.0,20156.0,60002.0,23000.0,0.5475,1352.0
+Paine College,GA,Private nonprofit,27558.0,16407.0,37183.0,32026.0,0.0588,388.0
+Piedmont University,GA,Private nonprofit,48775.0,22075.0,56724.0,25000.0,0.5184,1117.0
+Reinhardt University,GA,Private nonprofit,48808.0,29893.0,53450.0,23250.0,0.3798,1066.0
+Savannah College of Art and Design,GA,Private nonprofit,66008.0,50165.0,51635.0,22167.0,0.7013,15243.0
+Savannah State University,GA,Public,17031.0,7542.0,44180.0,26000.0,0.3461,2833.0
+Shorter University,GA,Private nonprofit,36822.0,18008.0,51757.0,25000.0,0.4475,1028.0
+Spelman College,GA,Private nonprofit,55733.0,46089.0,65773.0,20500.0,0.7665,3414.0
+Thomas University,GA,Private nonprofit,23980.0,16111.0,59055.0,21000.0,0.2791,998.0
+Toccoa Falls College,GA,Private nonprofit,37504.0,21229.0,44698.0,22601.0,0.4292,875.0
+Truett McConnell University,GA,Private nonprofit,40444.0,22436.0,47390.0,23250.0,0.5628,744.0
+Valdosta State University,GA,Public,21232.0,10804.0,52334.0,23000.0,0.4463,6622.0
+Wesleyan College,GA,Private nonprofit,40104.0,12113.0,44623.0,24738.0,0.4286,400.0
+University of West Georgia,GA,Public,21319.0,11787.0,54320.0,20750.0,0.4373,7520.0
+Young Harris College,GA,Private nonprofit,46819.0,12549.0,50776.0,27000.0,0.3811,755.0
+Chaminade University of Honolulu,HI,Private nonprofit,46048.0,24793.0,56938.0,22000.0,0.5348,1672.0
+University of Hawaii at Hilo,HI,Public,21689.0,10599.0,51003.0,19300.0,0.4018,2160.0
+University of Hawaii at Manoa,HI,Public,25270.0,11122.0,62422.0,18750.0,0.6159,15029.0
+Hawaii Pacific University,HI,Private nonprofit,58714.0,34758.0,64656.0,19500.0,0.428,2392.0
+University of Hawaii-West Oahu,HI,Public,15686.0,8144.0,56319.0,16500.0,0.4844,2519.0
+Boise Bible College,ID,Private nonprofit,25892.0,17863.0,40668.0,,0.6,93.0
+Boise State University,ID,Public,25661.0,16035.0,60091.0,19678.0,0.6097,17674.0
+Idaho State University,ID,Public,21499.0,8910.0,50919.0,18500.0,0.4102,7583.0
+University of Idaho,ID,Public,26883.0,15321.0,58095.0,19250.0,0.6036,7747.0
+The College of Idaho,ID,Private nonprofit,53648.0,19602.0,57623.0,20944.0,0.6798,1041.0
+Lewis-Clark State College,ID,Public,22863.0,13632.0,52487.0,17000.0,0.3901,2385.0
+Northwest Nazarene University,ID,Private nonprofit,56861.0,25262.0,60370.0,24246.0,0.5978,1024.0
+School of the Art Institute of Chicago,IL,Private nonprofit,80950.0,53331.0,47612.0,26567.0,0.6786,2805.0
+Augustana College,IL,Private nonprofit,66320.0,21153.0,67144.0,27000.0,0.7257,2490.0
+Aurora University,IL,Private nonprofit,42013.0,19385.0,64180.0,18500.0,0.6052,3974.0
+Blackburn College,IL,Private nonprofit,40502.0,25577.0,48794.0,21857.0,0.4505,471.0
+Bradley University,IL,Private nonprofit,57751.0,22469.0,76013.0,27000.0,0.7347,3574.0
+Chicago State University,IL,Public,23493.0,7273.0,48395.0,29308.0,0.1492,1384.0
+University of Chicago,IL,Private nonprofit,94971.0,16776.0,103872.0,12000.0,0.9501,7569.0
+Columbia College Chicago,IL,Private nonprofit,58050.0,36529.0,48427.0,25000.0,0.4729,5368.0
+Concordia University-Chicago,IL,Private nonprofit,46836.0,17217.0,56714.0,22000.0,0.4672,1323.0
+DePaul University,IL,Private nonprofit,62681.0,27308.0,75602.0,21787.0,0.6724,14090.0
+East-West University,IL,Private nonprofit,32053.0,18499.0,34926.0,25000.0,0.1805,468.0
+Eastern Illinois University,IL,Public,26962.0,12717.0,55885.0,19623.0,0.4951,4188.0
+Elmhurst University,IL,Private nonprofit,57818.0,23165.0,67398.0,18750.0,0.6362,3006.0
+Eureka College,IL,Private nonprofit,41434.0,16360.0,51381.0,19000.0,0.3551,522.0
+Governors State University,IL,Public,28740.0,15833.0,61863.0,18750.0,0.2294,2556.0
+Greenville University,IL,Private nonprofit,48136.0,20905.0,49304.0,24000.0,0.5221,955.0
+Hebrew Theological College,IL,Private nonprofit,23184.0,12583.0,41318.0,,0.7667,90.0
+University of Illinois Chicago,IL,Public,25887.0,9540.0,73666.0,14500.0,0.6148,22170.0
+Benedictine University,IL,Private nonprofit,46513.0,18910.0,67314.0,20976.0,0.4273,1942.0
+University of Illinois Urbana-Champaign,IL,Public,34226.0,13042.0,87599.0,17750.0,0.863,36258.0
+Illinois Wesleyan University,IL,Private nonprofit,73189.0,27863.0,76193.0,26000.0,0.7264,1582.0
+Illinois College,IL,Private nonprofit,51827.0,18763.0,57546.0,26000.0,0.6094,930.0
+Illinois Institute of Technology,IL,Private nonprofit,69234.0,22443.0,90804.0,22000.0,0.7103,2833.0
+Illinois State University,IL,Public,34602.0,17829.0,67557.0,17000.0,0.673,19057.0
+Judson University,IL,Private nonprofit,44090.0,19224.0,59095.0,22944.0,0.339,708.0
+Knox College,IL,Private nonprofit,70855.0,19292.0,56244.0,26961.0,0.7344,1127.0
+Lake Forest College,IL,Private nonprofit,70968.0,24987.0,70470.0,26250.0,0.7275,1813.0
+Lewis University,IL,Private nonprofit,47616.0,17318.0,59389.0,19082.0,0.5695,4015.0
+Loyola University Chicago,IL,Private nonprofit,70688.0,36340.0,78431.0,23750.0,0.7208,11737.0
+McKendree University,IL,Private nonprofit,50105.0,18457.0,63391.0,17593.0,0.5065,1752.0
+Methodist College,IL,Private nonprofit,47007.0,41238.0,71324.0,30250.0,0.3,245.0
+Millikin University,IL,Private nonprofit,40285.0,16652.0,57738.0,25000.0,0.5103,1382.0
+Monmouth College,IL,Private nonprofit,58967.0,17612.0,54098.0,26250.0,0.5843,702.0
+Moody Bible Institute,IL,Private nonprofit,35530.0,19426.0,49594.0,19500.0,0.6278,1510.0
+National Louis University,IL,Private nonprofit,21785.0,10364.0,52883.0,15708.0,0.3212,4406.0
+North Central College,IL,Private nonprofit,59508.0,22836.0,65646.0,22984.0,0.6158,2428.0
+North Park University,IL,Private nonprofit,45761.0,15949.0,61717.0,25000.0,0.5243,1818.0
+Northern Illinois University,IL,Public,29642.0,14505.0,61351.0,19555.0,0.4848,11301.0
+Northwestern University,IL,Private nonprofit,94854.0,34420.0,104255.0,17017.0,0.9611,9201.0
+Northeastern Illinois University,IL,Public,23570.0,9377.0,56278.0,15000.0,0.2523,3982.0
+Olivet Nazarene University,IL,Private nonprofit,54914.0,19978.0,58865.0,25000.0,0.5957,2603.0
+Quincy University,IL,Private nonprofit,52057.0,22711.0,55330.0,21500.0,0.4393,1010.0
+Rockford University,IL,Private nonprofit,49977.0,22581.0,58999.0,24250.0,0.443,972.0
+Roosevelt University,IL,Private nonprofit,37118.0,21512.0,56800.0,20000.0,0.3403,2849.0
+Dominican University,IL,Private nonprofit,45684.0,14013.0,66693.0,22250.0,0.6077,2561.0
+University of St Francis,IL,Private nonprofit,47285.0,15961.0,69137.0,20521.0,0.641,1223.0
+Saint Xavier University,IL,Private nonprofit,44271.0,10171.0,64661.0,19500.0,0.5479,3096.0
+University of Illinois Springfield,IL,Public,24774.0,7528.0,64479.0,17750.0,0.5339,2263.0
+Southern Illinois University-Carbondale,IL,Public,28511.0,12554.0,57388.0,19500.0,0.5929,8494.0
+Southern Illinois University Edwardsville,IL,Public,27314.0,13111.0,59436.0,19000.0,0.5646,8750.0
+Trinity Christian College,IL,Private nonprofit,34441.0,15155.0,60507.0,,0.6438,820.0
+VanderCook College of Music,IL,Private nonprofit,45228.0,21556.0,54590.0,,0.2667,76.0
+Western Illinois University,IL,Public,28915.0,10018.0,57175.0,20168.0,0.4937,4410.0
+Wheaton College,IL,Private nonprofit,61593.0,26059.0,68390.0,24000.0,0.8208,2121.0
+Anderson University,IN,Private nonprofit,53175.0,24890.0,52590.0,24832.0,0.5606,1057.0
+Ball State University,IN,Public,26787.0,13877.0,56674.0,20500.0,0.6156,13988.0
+Bethel University,IN,Private nonprofit,46091.0,19971.0,54006.0,24000.0,0.596,1008.0
+Butler University,IN,Private nonprofit,68403.0,37499.0,83535.0,22500.0,0.7736,4317.0
+Calumet College of Saint Joseph,IN,Private nonprofit,31724.0,18778.0,50059.0,23323.0,0.2727,529.0
+DePauw University,IN,Private nonprofit,77800.0,19916.0,77170.0,27000.0,0.7801,1905.0
+Earlham College,IN,Private nonprofit,69266.0,23002.0,49427.0,21500.0,0.75,670.0
+University of Evansville,IN,Private nonprofit,58793.0,18984.0,58943.0,23250.0,0.6854,1539.0
+Franklin College,IN,Private nonprofit,56433.0,24343.0,61877.0,22678.0,0.5821,900.0
+Goshen College,IN,Private nonprofit,49981.0,13404.0,61420.0,23250.0,0.5938,773.0
+Grace College and Theological Seminary,IN,Private nonprofit,43458.0,18473.0,49160.0,20500.0,0.5976,1464.0
+Hanover College,IN,Private nonprofit,60338.0,20095.0,59112.0,27000.0,0.6851,1031.0
+Holy Cross College,IN,Private nonprofit,51743.0,24547.0,58101.0,19675.0,0.7219,639.0
+Huntington University,IN,Private nonprofit,44140.0,18258.0,46983.0,23250.0,0.5907,1082.0
+Purdue University Fort Wayne,IN,Public,22568.0,12471.0,51617.0,19537.0,0.4001,5484.0
+Indiana University-Indianapolis,IN,Public,23997.0,9479.0,58990.0,18750.0,0.543,13830.0
+University of Indianapolis,IN,Private nonprofit,52443.0,19513.0,58791.0,23250.0,0.5741,3005.0
+Indiana Institute of Technology,IN,Private nonprofit,47555.0,22171.0,47076.0,26007.0,0.4395,1441.0
+Indiana State University,IN,Public,25226.0,10103.0,52316.0,21500.0,0.4447,6188.0
+Indiana University-Kokomo,IN,Public,15280.0,5707.0,52440.0,17750.0,0.4647,2352.0
+Indiana University-South Bend,IN,Public,18320.0,8607.0,50051.0,19500.0,0.3472,3933.0
+Indiana University-Bloomington,IN,Public,30517.0,16003.0,70105.0,19000.0,0.8004,37806.0
+Indiana University-Northwest,IN,Public,15430.0,5567.0,48764.0,19884.0,0.3608,2661.0
+Indiana University-Southeast,IN,Public,19232.0,10026.0,52768.0,17278.0,0.3884,3170.0
+Indiana University-East,IN,Public,17654.0,9117.0,52038.0,19469.0,0.4125,2589.0
+Manchester University,IN,Private nonprofit,51507.0,20763.0,60682.0,25000.0,0.4849,936.0
+Marian University,IN,Private nonprofit,57189.0,23459.0,64806.0,25964.0,0.6501,2266.0
+Indiana Wesleyan University-Marion,IN,Private nonprofit,46326.0,22440.0,65692.0,23375.0,0.6831,1974.0
+University of Notre Dame,IN,Private nonprofit,86125.0,25339.0,113124.0,19000.0,0.9536,8818.0
+Oakland City University,IN,Private nonprofit,43412.0,15557.0,53253.0,17750.0,0.6964,499.0
+Rose-Hulman Institute of Technology,IN,Private nonprofit,82580.0,43360.0,107683.0,25000.0,0.7419,2309.0
+University of Saint Francis-Fort Wayne,IN,Private nonprofit,48022.0,18211.0,56484.0,24026.0,0.5596,1567.0
+Saint Mary-of-the-Woods College,IN,Private nonprofit,51847.0,22507.0,47279.0,19500.0,0.4895,853.0
+Saint Mary's College,IN,Private nonprofit,68589.0,25741.0,69044.0,26000.0,0.748,1458.0
+Taylor University,IN,Private nonprofit,56342.0,26508.0,58997.0,19500.0,0.7778,2025.0
+Trine University,IN,Private nonprofit,52579.0,19748.0,65360.0,25500.0,0.6985,2324.0
+Valparaiso University,IN,Private nonprofit,60499.0,21657.0,69661.0,25000.0,0.6796,2083.0
+Wabash College,IN,Private nonprofit,67902.0,23532.0,71578.0,27000.0,0.7269,866.0
+Briar Cliff University,IA,Private nonprofit,58112.0,27472.0,59643.0,20792.0,0.4559,624.0
+Buena Vista University,IA,Private nonprofit,56872.0,18855.0,51626.0,23250.0,0.5783,1366.0
+Central College,IA,Private nonprofit,37773.0,22894.0,57387.0,25125.0,0.5905,1070.0
+Clarke University,IA,Private nonprofit,56056.0,26095.0,58625.0,25000.0,0.5224,742.0
+Coe College,IA,Private nonprofit,70325.0,18647.0,60502.0,27000.0,0.5963,1164.0
+Cornell College,IA,Private nonprofit,68934.0,25297.0,57224.0,27000.0,0.6,1086.0
+Dordt University,IA,Private nonprofit,53336.0,25944.0,57576.0,19500.0,0.7249,1597.0
+Drake University,IA,Private nonprofit,65475.0,29415.0,78855.0,21500.0,0.7073,2543.0
+University of Dubuque,IA,Private nonprofit,55110.0,25171.0,60869.0,24513.0,0.4477,1440.0
+Faith Baptist Bible College and Theological Seminary,IA,Private nonprofit,34016.0,16517.0,41000.0,10900.0,0.561,405.0
+Graceland University-Lamoni,IA,Private nonprofit,36250.0,19899.0,53979.0,21628.0,0.4404,798.0
+Grand View University,IA,Private nonprofit,49220.0,21705.0,58718.0,22500.0,0.4939,1486.0
+Grinnell College,IA,Private nonprofit,87598.0,15203.0,72106.0,8750.0,0.8649,1729.0
+Iowa State University,IA,Public,24539.0,18517.0,67568.0,21250.0,0.7673,25367.0
+University of Iowa,IA,Public,29219.0,22508.0,70727.0,21262.0,0.7582,22264.0
+Loras College,IA,Private nonprofit,54674.0,22910.0,63900.0,27000.0,0.6369,1083.0
+Luther College,IA,Private nonprofit,67611.0,23945.0,61821.0,27000.0,0.649,1379.0
+Maharishi International University,IA,Private nonprofit,29280.0,16579.0,38786.0,25000.0,0.2667,922.0
+Mercy College of Health Sciences,IA,Private nonprofit,36014.0,25670.0,63983.0,12500.0,0.5532,867.0
+Morningside University,IA,Private nonprofit,54848.0,23505.0,58902.0,25000.0,0.5232,1163.0
+Mount Mercy University,IA,Private nonprofit,57202.0,23935.0,59669.0,22708.0,0.5179,1107.0
+The University of Arizona Global Campus,AZ,Public,34801.0,28679.0,39232.0,29813.0,0.1191,20152.0
+University of Northern Iowa,IA,Public,22977.0,16038.0,57187.0,18039.0,0.6862,7529.0
+Northwestern College,IA,Private nonprofit,51568.0,24716.0,57028.0,23249.0,0.6588,1175.0
+Saint Ambrose University,IA,Private nonprofit,53069.0,23689.0,66659.0,23308.0,0.6962,1916.0
+Simpson College,IA,Private nonprofit,63127.0,20460.0,57816.0,26000.0,0.6336,1227.0
+Upper Iowa University,IA,Private nonprofit,35133.0,21119.0,57736.0,23105.0,0.3088,1994.0
+Waldorf University,IA,Private nonprofit,45052.0,24003.0,58667.0,22500.0,0.4337,1827.0
+Wartburg College,IA,Private nonprofit,42796.0,23374.0,60035.0,27000.0,0.6835,1452.0
+William Penn University,IA,Private nonprofit,44104.0,23749.0,52106.0,25000.0,0.3838,1301.0
+Baker University,KS,Private nonprofit,51908.0,25038.0,69658.0,24490.0,0.5451,1100.0
+Benedictine College,KS,Private nonprofit,54090.0,24687.0,58102.0,23625.0,0.6489,2272.0
+Bethany College,KS,Private nonprofit,56086.0,28538.0,56377.0,25000.0,0.3102,569.0
+Bethel College-North Newton,KS,Private nonprofit,54055.0,31503.0,58029.0,25250.0,0.5032,504.0
+Central Christian College of Kansas,KS,Private nonprofit,35025.0,14036.0,46855.0,27000.0,0.3185,380.0
+Emporia State University,KS,Public,22887.0,14364.0,50860.0,17728.0,0.5727,2239.0
+Fort Hays State University,KS,Public,20455.0,16333.0,53030.0,19500.0,0.5273,9733.0
+Barclay College,KS,Private nonprofit,39790.0,15864.0,40829.0,,0.5625,168.0
+Friends University,KS,Private nonprofit,52025.0,26384.0,54046.0,22750.0,0.5114,1048.0
+University of Kansas,KS,Public,29237.0,20004.0,67963.0,20000.0,0.7033,21217.0
+Newman University,KS,Private nonprofit,46846.0,17430.0,55478.0,19000.0,0.533,851.0
+Kansas State University,KS,Public,27073.0,18210.0,61473.0,19200.0,0.7128,15142.0
+Kansas Wesleyan University,KS,Private nonprofit,48987.0,22165.0,57332.0,23250.0,0.4184,956.0
+Manhattan Christian College,KS,Private nonprofit,41190.0,27504.0,47738.0,22000.0,0.4667,146.0
+McPherson College,KS,Private nonprofit,54174.0,28431.0,51560.0,23250.0,0.433,872.0
+MidAmerica Nazarene University,KS,Private nonprofit,58548.0,30947.0,70804.0,22396.0,0.4225,983.0
+Ottawa University-Ottawa,KS,Private nonprofit,55441.0,27572.0,59897.0,22000.0,0.2642,870.0
+Pittsburg State University,KS,Public,22736.0,14291.0,53785.0,17113.0,0.4838,4210.0
+University of Saint Mary,KS,Private nonprofit,48738.0,20881.0,66336.0,22250.0,0.4631,925.0
+Southwestern College,KS,Private nonprofit,60096.0,30086.0,58452.0,25750.0,0.3875,924.0
+Sterling College,KS,Private nonprofit,49063.0,24297.0,50326.0,25000.0,0.3885,538.0
+Tabor College,KS,Private nonprofit,51500.0,19034.0,58789.0,21500.0,0.3203,494.0
+Washburn University,KS,Public,21099.0,11023.0,53102.0,16253.0,0.5203,4562.0
+Wichita State University,KS,Public,19966.0,10307.0,56003.0,19120.0,0.524,10780.0
+Alice Lloyd College,KY,Private nonprofit,31878.0,18367.0,47366.0,17125.0,0.4121,558.0
+Asbury University,KY,Private nonprofit,48456.0,21061.0,49862.0,22804.0,0.654,1420.0
+Bellarmine University,KY,Private nonprofit,60872.0,17991.0,64121.0,24750.0,0.711,2161.0
+Berea College,KY,Private nonprofit,63512.0,5836.0,48071.0,5500.0,0.6634,1513.0
+Brescia University,KY,Private nonprofit,46853.0,14909.0,49034.0,25000.0,0.4933,545.0
+Campbellsville University,KY,Private nonprofit,43646.0,17734.0,44606.0,14750.0,0.3399,2840.0
+Centre College,KY,Private nonprofit,70693.0,19980.0,66582.0,27000.0,0.7915,1400.0
+Clear Creek Baptist Bible College,KY,Private nonprofit,24044.0,14560.0,38211.0,,0.5294,159.0
+University of the Cumberlands,KY,Private nonprofit,28711.0,13885.0,47477.0,14827.0,0.5007,6941.0
+Eastern Kentucky University,KY,Public,25132.0,11925.0,50885.0,20500.0,0.5094,12318.0
+Georgetown College,KY,Private nonprofit,57846.0,13270.0,55880.0,20500.0,0.4904,1097.0
+Kentucky Mountain Bible College,KY,Private nonprofit,16542.0,6392.0,39068.0,,0.6154,69.0
+Kentucky State University,KY,Public,24233.0,17637.0,42650.0,27000.0,0.2968,1309.0
+Kentucky Wesleyan College,KY,Private nonprofit,50189.0,19409.0,52218.0,23250.0,0.4571,842.0
+University of Kentucky,KY,Public,35083.0,18868.0,63924.0,19500.0,0.717,24763.0
+Kentucky Christian University,KY,Private nonprofit,42017.0,25469.0,47183.0,22375.0,0.2474,429.0
+Lindsey Wilson University,KY,Private nonprofit,41076.0,14300.0,45750.0,16250.0,0.4086,1585.0
+University of Louisville,KY,Public,30975.0,14960.0,60032.0,19500.0,0.6008,14727.0
+Midway University,KY,Private nonprofit,51000.0,29981.0,47169.0,20903.0,0.447,1262.0
+Morehead State University,KY,Public,24067.0,9912.0,47134.0,18750.0,0.4824,4578.0
+Murray State University,KY,Public,22404.0,7350.0,48482.0,19500.0,0.5987,6688.0
+Northern Kentucky University,KY,Public,19772.0,8976.0,55024.0,20750.0,0.544,8246.0
+University of Pikeville,KY,Private nonprofit,41482.0,19224.0,47890.0,20847.0,0.4098,1135.0
+Spalding University,KY,Private nonprofit,45951.0,24262.0,55738.0,23000.0,0.4519,583.0
+Thomas More University,KY,Private nonprofit,51576.0,22723.0,63897.0,25000.0,0.4944,1293.0
+Transylvania University,KY,Private nonprofit,63444.0,21954.0,57381.0,26000.0,0.653,1005.0
+Union Commonwealth University,KY,Private nonprofit,44272.0,11010.0,46405.0,21744.0,0.3989,746.0
+Western Kentucky University,KY,Public,24535.0,11789.0,48408.0,19500.0,0.5585,12155.0
+Centenary College of Louisiana,LA,Private nonprofit,62350.0,25053.0,59034.0,26000.0,0.6163,685.0
+Dillard University,LA,Private nonprofit,43538.0,26363.0,43728.0,27000.0,0.5068,1063.0
+Grambling State University,LA,Public,25465.0,19214.0,41535.0,34500.0,0.3602,4164.0
+Louisiana State University at Alexandria,LA,Public,18580.0,12105.0,46481.0,18841.0,0.2916,5632.0
+Louisiana State University and Agricultural & Mechanical College,LA,Public,35774.0,19286.0,64338.0,19500.0,0.6799,30594.0
+Louisiana State University-Shreveport,LA,Public,24190.0,11101.0,49677.0,21369.0,0.3263,2153.0
+Louisiana Christian University,LA,Private nonprofit,35000.0,20268.0,49573.0,23250.0,0.3968,672.0
+Louisiana Tech University,LA,Public,24510.0,11959.0,58121.0,22246.0,0.6057,8312.0
+Loyola University New Orleans,LA,Private nonprofit,65407.0,21888.0,59326.0,25000.0,0.6127,2812.0
+McNeese State University,LA,Public,21410.0,11228.0,50152.0,21383.0,0.4738,5005.0
+University of New Orleans,LA,Public,17816.0,7761.0,53518.0,19018.0,0.3758,4638.0
+Nicholls State University,LA,Public,23775.0,13357.0,49144.0,22536.0,0.5122,4737.0
+University of Louisiana at Monroe,LA,Public,24514.0,12218.0,49742.0,20500.0,0.5085,5022.0
+Northwestern State University of Louisiana,LA,Public,25426.0,12842.0,51238.0,24875.0,0.4356,5519.0
+University of Holy Cross,LA,Private nonprofit,22329.0,8705.0,53531.0,26000.0,0.4286,471.0
+Franciscan Missionaries of Our Lady University,LA,Private nonprofit,27935.0,12807.0,63092.0,23375.0,0.4118,821.0
+Saint Joseph Seminary College,LA,Private nonprofit,52272.0,52272.0,35921.0,,0.5385,93.0
+Southeastern Louisiana University,LA,Public,23701.0,12468.0,49502.0,20787.0,0.4636,9514.0
+Southern University and A & M College,LA,Public,26742.0,18631.0,47186.0,28750.0,0.2789,5519.0
+Southern University at New Orleans,LA,Public,22236.0,12086.0,42300.0,,0.1483,1055.0
+University of Louisiana at Lafayette,LA,Public,25959.0,14924.0,52638.0,23422.0,0.5208,12428.0
+Tulane University of Louisiana,LA,Private nonprofit,91156.0,40693.0,68226.0,19500.0,0.869,7767.0
+Xavier University of Louisiana,LA,Private nonprofit,42425.0,19722.0,59737.0,23870.0,0.5466,2628.0
+College of the Atlantic,ME,Private nonprofit,60387.0,24465.0,47967.0,21500.0,0.7333,353.0
+Bates College,ME,Private nonprofit,87520.0,27390.0,98373.0,12250.0,0.8813,1760.0
+Bowdoin College,ME,Private nonprofit,88820.0,15595.0,90153.0,15000.0,0.9277,1873.0
+Colby College,ME,Private nonprofit,89190.0,19835.0,88776.0,18000.0,0.8697,2407.0
+University of Maine at Augusta,ME,Public,18165.0,9721.0,44543.0,22000.0,0.2549,2659.0
+University of Maine at Farmington,ME,Public,26906.0,17158.0,47674.0,21269.0,0.4987,1140.0
+University of Maine at Fort Kent,ME,Public,20834.0,11167.0,56874.0,16795.0,0.3492,599.0
+University of Maine,ME,Public,29162.0,17224.0,59140.0,21500.0,0.5727,8496.0
+Maine Maritime Academy,ME,Public,31940.0,21078.0,101511.0,27000.0,0.583,942.0
+University of Maine at Presque Isle,ME,Public,20351.0,10972.0,47161.0,5714.0,0.3941,1913.0
+University of New England,ME,Private nonprofit,65747.0,38617.0,68670.0,26000.0,0.6178,2135.0
+Maine College of Art & Design,ME,Private nonprofit,63150.0,40801.0,38062.0,27000.0,0.5085,415.0
+Saint Joseph's College of Maine,ME,Private nonprofit,62003.0,29029.0,69579.0,26615.0,0.5639,964.0
+University of Southern Maine,ME,Public,25685.0,14927.0,57989.0,20399.0,0.4322,4222.0
+Thomas College,ME,Private nonprofit,48823.0,23739.0,53206.0,21000.0,0.5841,647.0
+Unity Environmental University,ME,Private nonprofit,23572.0,20750.0,46894.0,24446.0,0.2018,6483.0
+University of Baltimore,MD,Public,19966.0,6270.0,65666.0,22750.0,0.45,1133.0
+Bowie State University,MD,Public,22321.0,17835.0,61890.0,20550.0,0.3658,5043.0
+Capitol Technology University,MD,Private nonprofit,43559.0,19881.0,100085.0,26000.0,0.6351,315.0
+Washington Adventist University,MD,Private nonprofit,40225.0,23303.0,61426.0,28685.0,0.4206,452.0
+Coppin State University,MD,Public,24640.0,12632.0,53198.0,23750.0,0.2103,1844.0
+Frostburg State University,MD,Public,27708.0,16768.0,60300.0,17959.0,0.4493,2909.0
+Goucher College,MD,Private nonprofit,73110.0,23169.0,59069.0,24991.0,0.5625,964.0
+Hood College,MD,Private nonprofit,64766.0,21548.0,60061.0,25000.0,0.5406,1194.0
+Johns Hopkins University,MD,Private nonprofit,88834.0,18431.0,104590.0,12000.0,0.9343,5693.0
+Loyola University Maryland,MD,Private nonprofit,76694.0,34082.0,90179.0,25000.0,0.7516,3869.0
+University of Maryland Global Campus,MD,Public,28488.0,23144.0,68110.0,19000.0,0.343,49664.0
+University of Maryland-Baltimore County,MD,Public,29390.0,25203.0,74881.0,18500.0,0.6797,10701.0
+University of Maryland-College Park,MD,Public,29816.0,14296.0,89228.0,16000.0,0.8837,30760.0
+Maryland Institute College of Art,MD,Private nonprofit,80272.0,42075.0,49751.0,24500.0,0.7139,1189.0
+University of Maryland Eastern Shore,MD,Public,26131.0,17378.0,52085.0,22960.0,0.3465,2391.0
+Morgan State University,MD,Public,27114.0,14653.0,56585.0,25500.0,0.4157,9019.0
+Mount St. Mary's University,MD,Private nonprofit,65861.0,19294.0,69690.0,24943.0,0.6133,1768.0
+Ner Israel Rabbinical College,MD,Private nonprofit,19920.0,3524.0,68364.0,,0.4839,280.0
+Notre Dame of Maryland University,MD,Private nonprofit,59219.0,17297.0,69464.0,18750.0,0.4419,709.0
+Salisbury University,MD,Public,28740.0,17445.0,68206.0,19500.0,0.6126,6057.0
+St. Mary's College of Maryland,MD,Public,33931.0,20956.0,66796.0,21500.0,0.6531,1603.0
+St. John's College,MD,Private nonprofit,57914.0,32917.0,52985.0,27000.0,0.7087,471.0
+Towson University,MD,Public,29884.0,18120.0,70158.0,18363.0,0.6699,16136.0
+Stevenson University,MD,Private nonprofit,56664.0,24904.0,69703.0,22000.0,0.6705,3102.0
+Washington College,MD,Private nonprofit,76812.0,27993.0,74001.0,25000.0,0.6585,891.0
+McDaniel College,MD,Private nonprofit,68105.0,22980.0,62070.0,23850.0,0.561,1617.0
+American International College,MA,Private nonprofit,60555.0,24178.0,66151.0,27000.0,0.3836,1017.0
+Amherst College,MA,Private nonprofit,90670.0,19536.0,95161.0,13250.0,0.9255,1911.0
+Anna Maria College,MA,Private nonprofit,63504.0,26309.0,67751.0,25625.0,0.4572,906.0
+Assumption University,MA,Private nonprofit,66847.0,28788.0,73712.0,27000.0,0.73,1669.0
+Babson College,MA,Private nonprofit,82076.0,34096.0,138950.0,18293.0,0.915,2728.0
+Boston Baptist College,MA,Private nonprofit,29195.0,16125.0,42516.0,,0.6364,19.0
+Bay Path University,MA,Private nonprofit,49627.0,16390.0,57958.0,25000.0,0.4194,1108.0
+Bentley University,MA,Private nonprofit,83072.0,38969.0,126427.0,24250.0,0.8791,4474.0
+Berklee College of Music,MA,Private nonprofit,75678.0,47587.0,43451.0,25000.0,0.7298,7468.0
+Boston College,MA,Private nonprofit,93039.0,38930.0,112178.0,19000.0,0.8981,10085.0
+Boston University,MA,Private nonprofit,90106.0,36503.0,89087.0,17500.0,0.8954,18248.0
+Brandeis University,MA,Private nonprofit,90169.0,30606.0,85519.0,18338.0,0.81,3618.0
+Bridgewater State University,MA,Public,28736.0,18061.0,61441.0,23465.0,0.5206,7829.0
+Cambridge College,MA,Private nonprofit,34578.0,31462.0,58665.0,23042.0,1.0,532.0
+Clark University,MA,Private nonprofit,72489.0,29446.0,67223.0,27000.0,0.7654,2214.0
+Curry College,MA,Private nonprofit,66355.0,30155.0,69321.0,26000.0,0.5009,1780.0
+Dean College,MA,Private nonprofit,68042.0,32629.0,47982.0,26500.0,0.5323,1089.0
+Emerson College,MA,Private nonprofit,82669.0,49215.0,67317.0,23250.0,0.8041,3870.0
+Emmanuel College,MA,Private nonprofit,66314.0,27196.0,73794.0,27000.0,0.6392,1854.0
+Endicott College,MA,Private nonprofit,61060.0,39219.0,77059.0,27000.0,0.7376,3125.0
+Fisher College,MA,Private nonprofit,50888.0,22042.0,52749.0,23000.0,0.3966,1167.0
+Fitchburg State University,MA,Public,26437.0,13803.0,63428.0,20615.0,0.5276,2752.0
+Framingham State University,MA,Public,28878.0,15951.0,63249.0,24000.0,0.4565,2566.0
+Gordon College,MA,Private nonprofit,45497.0,25227.0,59863.0,23750.0,0.7062,1278.0
+Hampshire College,MA,Private nonprofit,77250.0,23030.0,47422.0,22869.0,0.5789,839.0
+Harvard University,MA,Private nonprofit,89279.0,19148.0,121957.0,17559.0,0.9708,7601.0
+Hellenic College-Holy Cross Greek Orthodox School of Theology,MA,Private nonprofit,41282.0,19821.0,62251.0,,0.3846,64.0
+College of the Holy Cross,MA,Private nonprofit,84988.0,38829.0,100485.0,21500.0,0.8637,3106.0
+Lasell University,MA,Private nonprofit,44041.0,26341.0,64330.0,26500.0,0.6446,1226.0
+Lesley University,MA,Private nonprofit,54152.0,31777.0,57844.0,22000.0,0.4182,1122.0
+University of Massachusetts-Lowell,MA,Public,31226.0,17362.0,77989.0,23250.0,0.6871,11434.0
+University of Massachusetts-Amherst,MA,Public,36842.0,22857.0,80486.0,21500.0,0.8121,23671.0
+University of Massachusetts-Boston,MA,Public,36898.0,22548.0,70597.0,22089.0,0.5113,11512.0
+Massachusetts College of Pharmacy and Health Sciences,MA,Private nonprofit,68004.0,43891.0,103156.0,25000.0,0.6134,3451.0
+Massachusetts College of Art and Design,MA,Public,35893.0,26397.0,52923.0,23607.0,0.5873,1831.0
+Massachusetts Institute of Technology,MA,Private nonprofit,85960.0,14815.0,152553.0,14000.0,0.9573,4535.0
+Massachusetts Maritime Academy,MA,Public,37397.0,23759.0,104098.0,25000.0,0.7345,1395.0
+Merrimack College,MA,Private nonprofit,73750.0,39219.0,74412.0,27000.0,0.691,3916.0
+Montserrat College of Art,MA,Private nonprofit,62372.0,35385.0,40733.0,27000.0,0.6311,226.0
+Mount Holyoke College,MA,Private nonprofit,88644.0,30861.0,66117.0,20984.0,0.8226,2169.0
+The New England Conservatory of Music,MA,Private nonprofit,84200.0,50840.0,40481.0,21750.0,0.7436,393.0
+Nichols College,MA,Private nonprofit,61425.0,31983.0,66716.0,26046.0,0.5351,1163.0
+Massachusetts College of Liberal Arts,MA,Public,23524.0,11402.0,52507.0,21500.0,0.4664,713.0
+Northeastern University,MA,Private nonprofit,88412.0,17850.0,99371.0,20000.0,0.9067,17326.0
+College of Our Lady of the Elms,MA,Private nonprofit,53037.0,16237.0,64534.0,23000.0,0.6348,949.0
+Regis College,MA,Private nonprofit,66335.0,25506.0,69534.0,25000.0,0.7103,956.0
+Salem State University,MA,Public,26037.0,12921.0,62762.0,22250.0,0.4885,4291.0
+Simmons University,MA,Private nonprofit,64601.0,23444.0,79784.0,23335.0,0.7714,1670.0
+Smith College,MA,Private nonprofit,91062.0,25519.0,69936.0,8000.0,0.8578,2544.0
+Springfield College,MA,Private nonprofit,62210.0,28053.0,59623.0,27000.0,0.7081,1751.0
+University of Massachusetts-Dartmouth,MA,Public,34295.0,20319.0,68878.0,25000.0,0.4923,5221.0
+Stonehill College,MA,Private nonprofit,76631.0,36082.0,84633.0,25000.0,0.7377,2528.0
+Suffolk University,MA,Private nonprofit,69359.0,40008.0,75345.0,26976.0,0.5854,4268.0
+Tufts University,MA,Private nonprofit,92054.0,38797.0,89187.0,16250.0,0.9361,7061.0
+Wellesley College,MA,Private nonprofit,90250.0,23995.0,90458.0,9788.0,0.9085,2300.0
+Wentworth Institute of Technology,MA,Private nonprofit,61915.0,30134.0,94995.0,25000.0,0.6307,3747.0
+Western New England University,MA,Private nonprofit,61896.0,27077.0,81107.0,25000.0,0.6368,2603.0
+Westfield State University,MA,Public,28223.0,16484.0,63082.0,20510.0,0.486,3615.0
+Wheaton College (Massachusetts),MA,Private nonprofit,81287.0,31147.0,71967.0,23750.0,0.7238,1773.0
+Williams College,MA,Private nonprofit,89520.0,15157.0,95954.0,8000.0,0.9525,2076.0
+Worcester Polytechnic Institute,MA,Private nonprofit,80569.0,43885.0,113513.0,27000.0,0.8997,5447.0
+Worcester State University,MA,Public,23740.0,13866.0,65784.0,19223.0,0.5711,3930.0
+Adrian College,MI,Private nonprofit,63085.0,31986.0,56860.0,27000.0,0.5129,1604.0
+Albion College,MI,Private nonprofit,71101.0,14673.0,64083.0,27000.0,0.5714,1300.0
+Alma College,MI,Private nonprofit,68659.0,24918.0,59874.0,27000.0,0.6797,1148.0
+Andrews University,MI,Private nonprofit,52688.0,29164.0,59582.0,24500.0,0.7117,1224.0
+Aquinas College,MI,Private nonprofit,53310.0,19678.0,53667.0,20000.0,0.5586,1083.0
+Baker College,MI,Private nonprofit,24526.0,10115.0,41297.0,25500.0,0.4617,3026.0
+Calvin University,MI,Private nonprofit,54389.0,21122.0,60411.0,19500.0,0.7677,3193.0
+Central Michigan University,MI,Public,31335.0,17201.0,59879.0,25000.0,0.591,10035.0
+Cleary University,MI,Private nonprofit,43754.0,19651.0,64883.0,10502.0,0.6848,738.0
+Concordia University Ann Arbor,MI,Private nonprofit,54873.0,29819.0,61992.0,24656.0,0.4753,702.0
+College for Creative Studies,MI,Private nonprofit,69614.0,32332.0,54082.0,25000.0,0.554,1230.0
+Davenport University,MI,Private nonprofit,38747.0,17623.0,52260.0,24702.0,0.531,3134.0
+University of Detroit Mercy,MI,Private nonprofit,42754.0,13469.0,74106.0,20103.0,0.7374,2438.0
+Eastern Michigan University,MI,Public,32365.0,16628.0,55390.0,24738.0,0.4555,10055.0
+Ferris State University,MI,Public,28646.0,8402.0,60457.0,19500.0,0.4415,8106.0
+Kettering University,MI,Private nonprofit,64286.0,29797.0,96136.0,24500.0,0.7391,1205.0
+Grace Christian University,MI,Private nonprofit,29910.0,17500.0,41951.0,26750.0,0.367,716.0
+Cornerstone University,MI,Private nonprofit,36687.0,18028.0,52119.0,23627.0,0.6228,1298.0
+Grand Valley State University,MI,Public,28770.0,16495.0,60120.0,22500.0,0.6462,18854.0
+Great Lakes Christian College,MI,Private nonprofit,31203.0,18057.0,36738.0,16739.0,0.3158,197.0
+Hope College,MI,Private nonprofit,57570.0,26392.0,65961.0,23250.0,0.7773,3288.0
+Kalamazoo College,MI,Private nonprofit,76959.0,20784.0,66766.0,25000.0,0.7443,1149.0
+Lake Superior State University,MI,Public,27419.0,9782.0,55573.0,20500.0,0.4952,1325.0
+Lawrence Technological University,MI,Private nonprofit,61454.0,33466.0,78800.0,27000.0,0.5977,1668.0
+Madonna University,MI,Private nonprofit,41561.0,14792.0,60349.0,23092.0,0.5358,1632.0
+Rochester Christian University,MI,Private nonprofit,41391.0,18100.0,50729.0,25000.0,0.4191,792.0
+University of Michigan-Ann Arbor,MI,Public,36613.0,14362.0,92832.0,18515.0,0.9319,34177.0
+Michigan State University,MI,Public,33710.0,21322.0,74168.0,20000.0,0.803,40922.0
+Michigan Technological University,MI,Public,35364.0,13446.0,84681.0,23000.0,0.6995,5955.0
+University of Michigan-Dearborn,MI,Public,22714.0,7863.0,66897.0,18750.0,0.6053,5952.0
+University of Michigan-Flint,MI,Public,22022.0,8320.0,58635.0,21875.0,0.4288,4411.0
+Northern Michigan University,MI,Public,29226.0,12759.0,51936.0,19500.0,0.5401,6556.0
+Northwood University,MI,Private nonprofit,50610.0,25908.0,68112.0,19500.0,0.6439,1974.0
+Oakland University,MI,Public,25449.0,11815.0,63565.0,20500.0,0.5798,12351.0
+The University of Olivet,MI,Private nonprofit,49402.0,19506.0,54181.0,26000.0,0.3669,892.0
+Kuyper College,MI,Private nonprofit,40599.0,24540.0,43326.0,20780.0,0.6667,145.0
+Saginaw Valley State University,MI,Public,27690.0,12147.0,55838.0,23706.0,0.5065,5989.0
+Siena Heights University,MI,Private nonprofit,45866.0,18630.0,61544.0,20380.0,0.589,1495.0
+Spring Arbor University,MI,Private nonprofit,47417.0,19227.0,56715.0,25000.0,0.6204,1010.0
+Wayne State University,MI,Public,26709.0,11212.0,59525.0,19500.0,0.5973,15587.0
+Western Michigan University,MI,Public,30098.0,13902.0,57828.0,25000.0,0.5858,12568.0
+Academy College,MN,Private for-profit,38571.0,29853.0,55715.0,,0.7143,56.0
+Augsburg University,MN,Private nonprofit,62342.0,23390.0,63332.0,25000.0,0.548,2494.0
+Bemidji State University,MN,Public,24789.0,16327.0,58173.0,18827.0,0.5113,3139.0
+Bethany Lutheran College,MN,Private nonprofit,42662.0,21589.0,50975.0,21000.0,0.5843,669.0
+Bethel University,MN,Private nonprofit,60066.0,30995.0,69827.0,21500.0,0.7207,1871.0
+Carleton College,MN,Private nonprofit,89204.0,25295.0,82742.0,18000.0,0.8857,2086.0
+Concordia College at Moorhead,MN,Private nonprofit,47621.0,22280.0,62622.0,25594.0,0.6977,1829.0
+Concordia University-Saint Paul,MN,Private nonprofit,37892.0,16222.0,65009.0,18024.0,0.5014,3018.0
+Martin Luther College,MN,Private nonprofit,29950.0,18652.0,47683.0,19500.0,0.7515,725.0
+Gustavus Adolphus College,MN,Private nonprofit,69838.0,24148.0,67649.0,27000.0,0.7726,1878.0
+Hamline University,MN,Private nonprofit,61822.0,22756.0,64996.0,22103.0,0.5338,1776.0
+Macalester College,MN,Private nonprofit,86134.0,27851.0,69951.0,21500.0,0.9084,2131.0
+Minnesota State University-Mankato,MN,Public,25448.0,19702.0,61916.0,19500.0,0.5568,11703.0
+Metropolitan State University,MN,Public,36268.0,26556.0,66336.0,18172.0,0.4591,5616.0
+University of Minnesota-Twin Cities,MN,Public,32137.0,17330.0,74314.0,19350.0,0.852,31855.0
+University of Minnesota-Crookston,MN,Public,27636.0,11170.0,64132.0,18862.0,0.4417,1729.0
+Minneapolis College of Art and Design,MN,Private nonprofit,63802.0,26849.0,50254.0,27000.0,0.5393,705.0
+Herzing University-Minneapolis,MN,Private nonprofit,28444.0,19744.0,44255.0,17676.0,0.5714,740.0
+University of Minnesota-Duluth,MN,Public,28445.0,17395.0,67944.0,20000.0,0.6381,7336.0
+University of Minnesota-Morris,MN,Public,28542.0,10989.0,55010.0,20318.0,0.5804,936.0
+Minnesota State University Moorhead,MN,Public,26316.0,17601.0,55234.0,19763.0,0.5283,3072.0
+North Central University,MN,Private nonprofit,46390.0,26221.0,45958.0,20500.0,0.5872,709.0
+University of Northwestern-St Paul,MN,Private nonprofit,51208.0,23688.0,56687.0,19500.0,0.745,1442.0
+Oak Hills Christian College,MN,Private nonprofit,35733.0,19483.0,40204.0,9943.0,0.5385,75.0
+College of Saint Benedict,MN,Private nonprofit,71206.0,25301.0,66967.0,27000.0,0.8311,1370.0
+Saint Cloud State University,MN,Public,24841.0,16062.0,59509.0,19500.0,0.4446,5088.0
+Saint Johns University,MN,Private nonprofit,71146.0,26748.0,79644.0,26000.0,0.7077,1395.0
+Saint Mary's University of Minnesota,MN,Private nonprofit,59500.0,20422.0,68708.0,20500.0,0.6445,1073.0
+St Olaf College,MN,Private nonprofit,75290.0,21546.0,68656.0,25000.0,0.8323,3093.0
+Crown College,MN,Private nonprofit,47520.0,25963.0,50003.0,21600.0,0.4696,796.0
+The College of Saint Scholastica,MN,Private nonprofit,56458.0,26830.0,72044.0,19510.0,0.6704,1765.0
+University of St Thomas,MN,Private nonprofit,69662.0,31532.0,82322.0,21500.0,0.7373,6245.0
+St Catherine University,MN,Private nonprofit,62306.0,19090.0,64729.0,21501.0,0.6727,2473.0
+Southwest Minnesota State University,MN,Public,26241.0,16501.0,52551.0,18750.0,0.4846,2315.0
+Winona State University,MN,Public,23730.0,17413.0,63354.0,19500.0,0.59,5144.0
+Alcorn State University,MS,Public,23732.0,14791.0,40721.0,27500.0,0.4882,2363.0
+Belhaven University,MS,Private nonprofit,42952.0,18078.0,50101.0,25000.0,0.6069,1471.0
+Blue Mountain Christian University,MS,Private nonprofit,35487.0,26306.0,42093.0,19110.0,0.4248,498.0
+Delta State University,MS,Public,22372.0,12677.0,44639.0,19487.0,0.4946,1620.0
+Jackson State University,MS,Public,43352.0,34119.0,42075.0,27000.0,0.43,4600.0
+Millsaps College,MS,Private nonprofit,61332.0,25728.0,65503.0,27000.0,0.5813,549.0
+University of Mississippi,MS,Public,29845.0,13752.0,59112.0,18750.0,0.7027,21473.0
+Mississippi University for Women,MS,Public,22603.0,11452.0,52685.0,14000.0,0.5294,1605.0
+Mississippi Valley State University,MS,Public,22448.0,11844.0,36621.0,27000.0,0.2323,1439.0
+Mississippi Christian University,MS,Private nonprofit,46671.0,21034.0,54122.0,19500.0,0.636,2518.0
+Mississippi State University,MS,Public,30713.0,18781.0,54296.0,20500.0,0.6857,18397.0
+Rust College,MS,Private nonprofit,23559.0,13314.0,35151.0,29000.0,0.1061,467.0
+University of Southern Mississippi,MS,Public,26527.0,21172.0,47355.0,19687.0,0.5422,10075.0
+Tougaloo College,MS,Private nonprofit,27020.0,20702.0,41624.0,21131.0,0.584,639.0
+William Carey University,MS,Private nonprofit,29931.0,13507.0,46286.0,20000.0,0.5722,2201.0
+Avila University,MO,Private nonprofit,50678.0,16675.0,59717.0,24192.0,0.4379,1312.0
+Mission University,MO,Private nonprofit,30811.0,20431.0,39622.0,20500.0,0.3864,381.0
+Calvary University,MO,Private nonprofit,23930.0,16756.0,45535.0,16320.0,0.3913,154.0
+Central Christian College of the Bible,MO,Private nonprofit,27053.0,11336.0,37446.0,19157.0,0.3409,154.0
+Central Methodist University-College of Liberal Arts and Sciences,MO,Private nonprofit,46657.0,21697.0,53620.0,18500.0,0.4937,1040.0
+University of Central Missouri,MO,Public,24483.0,15554.0,52739.0,19000.0,0.5192,5648.0
+Cleveland University-Kansas City,KS,Private nonprofit,42082.0,37185.0,55666.0,17385.0,1.0,95.0
+Columbia College,MO,Private nonprofit,41106.0,25982.0,48161.0,23786.0,0.5076,4950.0
+Cottey College,MO,Private nonprofit,40491.0,21347.0,46543.0,20500.0,0.5824,254.0
+Culver-Stockton College,MO,Private nonprofit,45695.0,22277.0,52791.0,23250.0,0.4542,807.0
+Drury University,MO,Private nonprofit,51838.0,23078.0,45136.0,22581.0,0.6111,1383.0
+Evangel University,MO,Private nonprofit,41377.0,19152.0,47597.0,21516.0,0.5984,1229.0
+Hannibal-LaGrange University,MO,Private nonprofit,41358.0,21546.0,48798.0,17050.0,0.5645,410.0
+Harris-Stowe State University,MO,Public,22809.0,11182.0,39919.0,23328.0,0.3316,960.0
+Kansas City Art Institute,MO,Private nonprofit,63262.0,31165.0,40314.0,27000.0,0.5137,812.0
+Lincoln University,MO,Public,24086.0,13788.0,41642.0,18217.0,0.243,1392.0
+Lindenwood University,MO,Private nonprofit,36897.0,21443.0,58321.0,23750.0,0.5564,4624.0
+Logan University,MO,Private nonprofit,34144.0,26582.0,59488.0,14000.0,0.3,229.0
+Maryville University of Saint Louis,MO,Private nonprofit,41176.0,20199.0,67386.0,23250.0,0.6186,5658.0
+Midwestern Baptist Theological Seminary,MO,Private nonprofit,27780.0,21440.0,47104.0,22666.0,0.3077,747.0
+Missouri Baptist University,MO,Private nonprofit,52617.0,27032.0,49360.0,23250.0,0.4982,1488.0
+Missouri Southern State University,MO,Public,19981.0,10836.0,48193.0,18000.0,0.3868,3019.0
+Missouri Valley College,MO,Private nonprofit,38894.0,24230.0,50364.0,22934.0,0.2523,1443.0
+Missouri Western State University,MO,Public,26554.0,16379.0,47624.0,19560.0,0.3478,2219.0
+University of Missouri-Columbia,MO,Public,32790.0,21142.0,69958.0,18743.0,0.7657,23929.0
+University of Missouri-Kansas City,MO,Public,27095.0,13778.0,63110.0,17000.0,0.5642,6817.0
+Missouri University of Science and Technology,MO,Public,29590.0,15772.0,85917.0,21500.0,0.6699,5521.0
+University of Missouri-St Louis,MO,Public,30509.0,14990.0,59899.0,20000.0,0.6221,5024.0
+Truman State University,MO,Public,26727.0,12317.0,57751.0,19429.0,0.7407,2513.0
+Northwest Missouri State University,MO,Public,25869.0,16120.0,52028.0,19500.0,0.52,4378.0
+Ozark Christian College,MO,Private nonprofit,28986.0,18732.0,40203.0,18500.0,0.5193,602.0
+College of the Ozarks,MO,Private nonprofit,35102.0,13114.0,47246.0,,0.6324,1444.0
+Park University,MO,Private nonprofit,28780.0,19119.0,62154.0,21500.0,0.3573,4555.0
+Stevens-The Institute of Business & Arts,MO,Private for-profit,23914.0,14120.0,34531.0,30500.0,0.625,89.0
+Rockhurst University,MO,Private nonprofit,61240.0,24702.0,73697.0,19000.0,0.7208,1580.0
+Saint Louis University,MO,Private nonprofit,74345.0,29674.0,75998.0,21000.0,0.7899,7267.0
+University of Health Sciences and Pharmacy in St. Louis,MO,Private nonprofit,55998.0,28540.0,130161.0,19000.0,0.5556,337.0
+Southwest Baptist University,MO,Private nonprofit,43607.0,21174.0,50155.0,19500.0,0.4292,1341.0
+Stephens College,MO,Private nonprofit,47772.0,19741.0,46625.0,23000.0,0.5676,391.0
+Southeast Missouri State University,MO,Public,27192.0,17110.0,48748.0,19500.0,0.6076,6373.0
+Missouri State University-Springfield,MO,Public,25632.0,17270.0,52782.0,20400.0,0.5909,13313.0
+Washington University in St Louis,MO,Private nonprofit,92523.0,13360.0,91497.0,15250.0,0.9275,7857.0
+Webster University,MO,Private nonprofit,50816.0,26955.0,56096.0,21000.0,0.5791,2304.0
+Westminster College,MO,Private nonprofit,53109.0,23913.0,57881.0,22943.0,0.5493,638.0
+William Jewell College,MO,Private nonprofit,36731.0,19678.0,63955.0,22750.0,0.631,924.0
+William Woods University,MO,Private nonprofit,51331.0,26458.0,48405.0,19000.0,0.471,1300.0
+Carroll College,MT,Private nonprofit,56907.0,26295.0,66371.0,21500.0,0.6752,1092.0
+Montana State University Billings,MT,Public,19195.0,15630.0,48199.0,17750.0,0.311,2626.0
+University of Providence,MT,Private nonprofit,45423.0,21492.0,51419.0,19500.0,0.2828,528.0
+Montana Technological University,MT,Public,24567.0,17205.0,59491.0,15789.0,0.6103,1480.0
+Montana State University,MT,Public,26943.0,23106.0,59536.0,19500.0,0.5926,14451.0
+The University of Montana,MT,Public,26512.0,21302.0,48823.0,21500.0,0.4867,7488.0
+Montana State University-Northern,MT,Public,19380.0,14686.0,52907.0,14068.0,0.3913,761.0
+Rocky Mountain College,MT,Private nonprofit,49348.0,21679.0,54124.0,23250.0,0.449,840.0
+The University of Montana-Western,MT,Public,23297.0,19481.0,47501.0,19250.0,0.4577,1198.0
+Bellevue University,NE,Private nonprofit,22688.0,11743.0,65909.0,19750.0,0.2857,10220.0
+Clarkson College,NE,Private nonprofit,36961.0,25603.0,70928.0,25006.0,0.6296,622.0
+Bryan College of Health Sciences,NE,Private nonprofit,34291.0,29626.0,73322.0,25000.0,0.6176,553.0
+Chadron State College,NE,Public,21753.0,12662.0,51365.0,18574.0,0.4795,1540.0
+Concordia University-Nebraska,NE,Private nonprofit,55197.0,24521.0,53522.0,24375.0,0.6048,1283.0
+Creighton University,NE,Private nonprofit,65398.0,32456.0,80642.0,22500.0,0.8318,4348.0
+Doane University,NE,Private nonprofit,61919.0,28885.0,57009.0,25000.0,0.5924,978.0
+Hastings College,NE,Private nonprofit,53739.0,22320.0,56094.0,25407.0,0.538,891.0
+University of Nebraska at Kearney,NE,Public,27218.0,17891.0,55176.0,17500.0,0.6159,4088.0
+Nebraska Methodist College of Nursing & Allied Health,NE,Private nonprofit,30624.0,17577.0,70914.0,21875.0,0.7561,781.0
+Midland University,NE,Private nonprofit,58689.0,24320.0,57914.0,26000.0,0.4371,1159.0
+University of Nebraska at Omaha,NE,Public,20712.0,12898.0,59749.0,18500.0,0.5116,11488.0
+Nebraska Wesleyan University,NE,Private nonprofit,57378.0,20647.0,62637.0,24233.0,0.6099,1453.0
+University of Nebraska-Lincoln,NE,Public,26535.0,16214.0,61819.0,19500.0,0.6931,19178.0
+Peru State College,NE,Public,22767.0,10005.0,47905.0,23013.0,0.3696,1092.0
+College of Saint Mary,NE,Private nonprofit,36510.0,14621.0,64178.0,19300.0,0.6019,445.0
+Union Adventist University,NE,Private nonprofit,43817.0,22424.0,58875.0,25115.0,0.5476,471.0
+Wayne State College,NE,Public,23476.0,15534.0,50482.0,18483.0,0.5643,3010.0
+York University,NE,Private nonprofit,36428.0,24373.0,50139.0,21418.0,0.4522,428.0
+University of Nevada-Las Vegas,NV,Public,19471.0,11062.0,62536.0,18450.0,0.5168,24622.0
+University of Nevada-Reno,NV,Public,24944.0,13797.0,67303.0,17978.0,0.6035,15599.0
+Colby-Sawyer College,NH,Private nonprofit,39738.0,26016.0,61214.0,25250.0,0.5606,771.0
+Dartmouth College,NH,Private nonprofit,91312.0,26707.0,111162.0,13000.0,0.9529,4541.0
+Franklin Pierce University,NH,Private nonprofit,65020.0,23023.0,64588.0,26937.0,0.547,992.0
+New England College,NH,Private nonprofit,60846.0,24059.0,47863.0,26000.0,0.375,1022.0
+Southern New Hampshire University,NH,Private nonprofit,41229.0,36764.0,56870.0,19999.0,0.4206,163164.0
+University of New Hampshire-Main Campus,NH,Public,37933.0,26150.0,71477.0,25000.0,0.7684,11261.0
+Keene State College,NH,Public,30129.0,17940.0,62326.0,25816.0,0.5617,2699.0
+University of New Hampshire at Manchester,NH,Public,25576.0,13247.0,71477.0,25000.0,0.631,443.0
+Plymouth State University,NH,Public,30474.0,19530.0,61199.0,25078.0,0.5179,3153.0
+Rivier University,NH,Private nonprofit,54513.0,26585.0,72105.0,24250.0,0.5551,1231.0
+Saint Anselm College,NH,Private nonprofit,69237.0,34382.0,83058.0,27000.0,0.8035,2087.0
+University of New Hampshire College of Professional Studies Online,NH,Public,17138.0,11339.0,71477.0,25000.0,0.1957,1157.0
+Thomas More College of Liberal Arts,NH,Private nonprofit,43800.0,18810.0,41534.0,23750.0,0.7143,97.0
+Berkeley College-Woodland Park,NJ,Private for-profit,41701.0,16902.0,46839.0,26000.0,0.4368,1778.0
+Bloomfield College of Montclair State University,NJ,Public,27940.0,13249.0,63846.0,19500.0,0.36,781.0
+Caldwell University,NJ,Private nonprofit,53194.0,15180.0,57671.0,21500.0,0.5663,1575.0
+Centenary University,NJ,Private nonprofit,52548.0,21655.0,60078.0,19500.0,0.665,910.0
+Drew University,NJ,Private nonprofit,66814.0,25614.0,66065.0,21585.0,0.7075,1533.0
+Fairleigh Dickinson University-Metropolitan Campus,NJ,Private nonprofit,53472.0,17923.0,62652.0,22500.0,0.5346,2627.0
+Felician University,NJ,Private nonprofit,48566.0,10378.0,64432.0,24000.0,0.4751,1774.0
+Fairleigh Dickinson University-Florham Campus,NJ,Private nonprofit,57150.0,24803.0,62652.0,22500.0,0.7054,1990.0
+Georgian Court University,NJ,Private nonprofit,50036.0,18380.0,56384.0,21487.0,0.627,1195.0
+Rowan University,NJ,Public,40459.0,23938.0,65776.0,18000.0,0.6895,15841.0
+New Jersey City University,NJ,Public,23555.0,10591.0,59538.0,17815.0,0.3898,3681.0
+Kean University,NJ,Public,28743.0,14465.0,62318.0,19500.0,0.4849,11433.0
+Monmouth University,NJ,Private nonprofit,63767.0,30978.0,72737.0,25500.0,0.7221,3684.0
+Montclair State University,NJ,Public,29060.0,15193.0,63846.0,19500.0,0.656,18376.0
+New Jersey Institute of Technology,NJ,Public,34374.0,18783.0,90769.0,20000.0,0.7211,9019.0
+Princeton University,NJ,Private nonprofit,87888.0,7815.0,133523.0,12400.0,0.9737,5709.0
+Rabbinical College of America,NJ,Private nonprofit,19686.0,9662.0,34281.0,,0.2222,181.0
+Ramapo College of New Jersey,NJ,Public,30241.0,16382.0,71282.0,18750.0,0.6774,4898.0
+Rider University,NJ,Private nonprofit,57491.0,24780.0,66376.0,23797.0,0.6234,3106.0
+Rutgers University-Camden,NJ,Public,30311.0,15732.0,80490.0,18974.0,0.6102,3753.0
+Rutgers University-New Brunswick,NJ,Public,36096.0,24897.0,80490.0,18974.0,0.8388,37751.0
+Rutgers University-Newark,NJ,Public,29317.0,16013.0,80490.0,18974.0,0.6488,7709.0
+Saint Peter's University,NJ,Private nonprofit,51000.0,8127.0,63525.0,16764.0,0.5455,2135.0
+Seton Hall University,NJ,Private nonprofit,69904.0,31552.0,80035.0,21500.0,0.7049,6036.0
+Saint Elizabeth University,NJ,Private nonprofit,52482.0,19010.0,55167.0,25000.0,0.4911,557.0
+Stevens Institute of Technology,NJ,Private nonprofit,80947.0,37396.0,118358.0,26117.0,0.8874,4222.0
+Stockton University,NJ,Public,38249.0,24030.0,63648.0,19500.0,0.6848,7537.0
+The College of New Jersey,NJ,Public,38657.0,26752.0,79651.0,22036.0,0.8526,7105.0
+William Paterson University of New Jersey,NJ,Public,29596.0,18533.0,61869.0,18423.0,0.4431,6614.0
+Eastern New Mexico University-Main Campus,NM,Public,18675.0,5238.0,44198.0,13750.0,0.3873,3357.0
+Institute of American Indian and Alaska Native Culture and Arts Development,NM,Public,25106.0,11199.0,26385.0,,0.1754,334.0
+New Mexico Highlands University,NM,Public,24657.0,18315.0,48104.0,11745.0,0.3018,1451.0
+New Mexico Institute of Mining and Technology,NM,Public,26354.0,20862.0,71723.0,13892.0,0.552,995.0
+University of New Mexico-Main Campus,NM,Public,24715.0,19966.0,50072.0,16500.0,0.5369,17244.0
+New Mexico State University-Main Campus,NM,Public,21766.0,6313.0,43922.0,14980.0,0.5357,11946.0
+University of the Southwest,NM,Private nonprofit,28504.0,17550.0,47669.0,15989.0,0.1923,346.0
+Western New Mexico University,NM,Public,21301.0,6328.0,41452.0,15875.0,0.4422,2026.0
+Adelphi University,NY,Private nonprofit,61893.0,26646.0,80969.0,24944.0,0.7091,5276.0
+Albany College of Pharmacy and Health Sciences,NY,Private nonprofit,56378.0,28425.0,128214.0,25557.0,0.2865,481.0
+Alfred University,NY,Private nonprofit,60721.0,22325.0,57978.0,24123.0,0.4563,1423.0
+Bard College,NY,Private nonprofit,88238.0,27126.0,54555.0,22500.0,0.6929,2414.0
+Barnard College,NY,Private nonprofit,93398.0,28930.0,98280.0,15000.0,0.9165,3264.0
+Berkeley College-New York,NY,Private for-profit,45868.0,32052.0,51098.0,32500.0,0.4223,1449.0
+Boricua College,NY,Private nonprofit,25646.0,15934.0,39682.0,,0.2222,391.0
+Bryant & Stratton College-Syracuse North,NY,Private nonprofit,24122.0,11093.0,37469.0,19816.0,0.2887,458.0
+Canisius University,NY,Private nonprofit,45546.0,18178.0,63820.0,22248.0,0.6138,1685.0
+Central Yeshiva Tomchei Tmimim Lubavitz,NY,Private nonprofit,31599.0,22939.0,32205.0,,0.2211,863.0
+Clarkson University,NY,Private nonprofit,81706.0,32137.0,92494.0,26000.0,0.7195,2196.0
+Colgate University,NY,Private nonprofit,91222.0,29409.0,96328.0,12000.0,0.888,3180.0
+Metropolitan College of New York,NY,Private nonprofit,38304.0,29006.0,48298.0,33538.0,0.3103,402.0
+Columbia University in the City of New York,NY,Private nonprofit,92198.0,15370.0,109430.0,20500.0,0.9517,8973.0
+The Cooper Union for the Advancement of Science and Art,NY,Private nonprofit,64164.0,12999.0,76895.0,19500.0,0.8182,842.0
+Cornell University,NY,Private nonprofit,92093.0,33934.0,113531.0,12000.0,0.9455,15995.0
+CUNY Bernard M Baruch College,NY,Public,12312.0,657.0,83742.0,12500.0,0.6966,16154.0
+CUNY Brooklyn College,NY,Public,12517.0,950.0,66519.0,12250.0,0.5313,10543.0
+College of Staten Island CUNY,NY,Public,13314.0,3153.0,59992.0,13500.0,0.3576,9657.0
+CUNY City College,NY,Public,12926.0,1557.0,69594.0,11695.0,0.4961,12505.0
+CUNY Graduate School and University Center,NY,Public,11928.0,4766.0,69504.0,12594.0,,3254.0
+CUNY Hunter College,NY,Public,12400.0,1051.0,70502.0,11908.0,0.5895,16289.0
+CUNY John Jay College of Criminal Justice,NY,Public,12497.0,1110.0,65870.0,10500.0,0.5378,11590.0
+CUNY Lehman College,NY,Public,12464.0,541.0,65181.0,12179.0,0.4823,10696.0
+CUNY Medgar Evers College,NY,Public,13283.0,3245.0,49242.0,11000.0,0.1949,3233.0
+CUNY New York City College of Technology,NY,Public,12528.0,2818.0,57019.0,11500.0,0.1938,13580.0
+CUNY Queens College,NY,Public,12914.0,1272.0,68324.0,10500.0,0.5316,12550.0
+CUNY York College,NY,Public,13293.0,1956.0,62351.0,11350.0,0.2709,4345.0
+D'Youville  University,NY,Private nonprofit,51965.0,22038.0,74104.0,21250.0,0.6157,1258.0
+Daemen University,NY,Private nonprofit,45399.0,19350.0,68139.0,21751.0,0.5888,1643.0
+Dominican University New York,NY,Private nonprofit,49049.0,25971.0,66205.0,26000.0,0.4334,1105.0
+Elmira College,NY,Private nonprofit,53202.0,23178.0,63320.0,27000.0,0.4839,708.0
+Five Towns College,NY,Private for-profit,41260.0,21094.0,46311.0,19300.0,0.5333,547.0
+Fordham University,NY,Private nonprofit,85904.0,42760.0,92809.0,25000.0,0.8088,10512.0
+Hamilton College,NY,Private nonprofit,88270.0,25793.0,84956.0,15000.0,0.8985,2030.0
+Hartwick College,NY,Private nonprofit,71308.0,36296.0,66557.0,26500.0,0.5319,1087.0
+Hilbert College,NY,Private nonprofit,42623.0,20955.0,55931.0,23625.0,0.5,921.0
+Hobart William Smith Colleges,NY,Private nonprofit,85685.0,31617.0,80471.0,26000.0,0.7112,1786.0
+Hofstra University,NY,Private nonprofit,71077.0,30647.0,76540.0,23000.0,0.6567,6488.0
+Houghton University,NY,Private nonprofit,34399.0,21959.0,52730.0,25250.0,0.6236,753.0
+Iona University,NY,Private nonprofit,59826.0,26250.0,76994.0,23250.0,0.5928,2951.0
+Ithaca College,NY,Private nonprofit,71876.0,33233.0,70258.0,22750.0,0.7168,4242.0
+Jewish Theological Seminary of America,NY,Private nonprofit,87965.0,48432.0,84604.0,,0.8158,172.0
+The Juilliard School,NY,Private nonprofit,86582.0,41799.0,43638.0,,0.9138,468.0
+Kehilath Yakov Rabbinical Seminary,NY,Private nonprofit,18450.0,3925.0,28230.0,,0.5814,205.0
+Keuka College,NY,Private nonprofit,57493.0,35459.0,62019.0,26000.0,0.4883,966.0
+LIM College,NY,Private for-profit,55206.0,41549.0,69579.0,23250.0,0.4353,1187.0
+Le Moyne College,NY,Private nonprofit,56017.0,23835.0,67320.0,21500.0,0.6728,2439.0
+Long Island University,NY,Private nonprofit,55604.0,23862.0,65934.0,22000.0,0.5947,5520.0
+Machzikei Hadath Rabbinical College,NY,Private nonprofit,22584.0,8628.0,27810.0,,0.1471,131.0
+Manhattan University,NY,Private nonprofit,65189.0,25074.0,92904.0,25000.0,0.678,2744.0
+Manhattan School of Music,NY,Private nonprofit,80515.0,55613.0,50584.0,26999.0,0.7692,539.0
+Manhattanville University,NY,Private nonprofit,56238.0,21572.0,64812.0,22250.0,0.5865,1362.0
+Marist University,NY,Private nonprofit,69841.0,42789.0,84453.0,24250.0,0.8063,5182.0
+Marymount Manhattan College,NY,Private nonprofit,67991.0,38195.0,60622.0,26000.0,0.531,1577.0
+Mercy University,NY,Private nonprofit,34607.0,15093.0,57532.0,23500.0,0.4505,5735.0
+Mesivta Torah Vodaath Rabbinical Seminary,NY,Private nonprofit,26250.0,9232.0,25618.0,,0.5714,399.0
+Molloy University,NY,Private nonprofit,52537.0,26735.0,86212.0,27000.0,0.6857,3162.0
+Mount Saint Mary College,NY,Private nonprofit,57721.0,26680.0,75320.0,25810.0,0.5476,1148.0
+University of Mount Saint Vincent,NY,Private nonprofit,56497.0,19758.0,70998.0,16668.0,0.5238,2692.0
+Nazareth University,NY,Private nonprofit,59680.0,30265.0,61794.0,26000.0,0.7267,1873.0
+The New School,NY,Private nonprofit,84878.0,48163.0,64471.0,21250.0,0.6781,6563.0
+New York University,NY,Private nonprofit,86574.0,35737.0,90957.0,19000.0,0.8783,28663.0
+Niagara University,NY,Private nonprofit,53671.0,17246.0,60491.0,24994.0,0.6336,2653.0
+New York Institute of Technology,NY,Private nonprofit,59774.0,22613.0,77833.0,22250.0,0.5872,3440.0
+Pace University,NY,Private nonprofit,72552.0,30721.0,77411.0,21500.0,0.5564,7665.0
+Paul Smiths College of Arts and Science,NY,Private nonprofit,50619.0,23753.0,52012.0,23250.0,0.4649,579.0
+Davis College,NY,Private nonprofit,27080.0,18614.0,38696.0,10000.0,,106.0
+Pratt Institute-Main,NY,Private nonprofit,82597.0,48876.0,63115.0,25000.0,0.7428,3910.0
+Rabbinical College Bobover Yeshiva Bnei Zion,NY,Private nonprofit,19483.0,8358.0,33293.0,,0.7727,473.0
+Rabbinical Seminary of America,NY,Private nonprofit,19700.0,7309.0,94782.0,,0.4536,397.0
+Rensselaer Polytechnic Institute,NY,Private nonprofit,85291.0,32758.0,113011.0,24250.0,0.8028,5714.0
+Roberts Wesleyan University,NY,Private nonprofit,54296.0,23239.0,64154.0,24898.0,0.3901,1149.0
+Rochester Institute of Technology,NY,Private nonprofit,77430.0,37405.0,84700.0,25500.0,0.7039,13215.0
+University of Rochester,NY,Private nonprofit,89562.0,34347.0,88358.0,19000.0,0.8337,6331.0
+Russell Sage College,NY,Private nonprofit,51697.0,21084.0,61760.0,22212.0,0.5855,1244.0
+St Bonaventure University,NY,Private nonprofit,59128.0,27673.0,66448.0,25000.0,0.6911,2012.0
+St. Francis College,NY,Private nonprofit,39014.0,17300.0,66961.0,20000.0,0.5139,1684.0
+St Lawrence University,NY,Private nonprofit,84550.0,31355.0,74500.0,26000.0,0.7864,1918.0
+St. Thomas Aquinas College,NY,Private nonprofit,55033.0,21253.0,65466.0,19500.0,0.5331,972.0
+Sarah Lawrence College,NY,Private nonprofit,86342.0,37096.0,55075.0,24000.0,0.6642,1530.0
+Siena University,NY,Private nonprofit,67508.0,33934.0,80879.0,26000.0,0.7509,3409.0
+Skidmore College,NY,Private nonprofit,88160.0,31829.0,79268.0,23251.0,0.8186,2694.0
+St. Joseph's University-New York,NY,Private nonprofit,43993.0,18853.0,69712.0,21500.0,0.6833,3144.0
+St. John Fisher University,NY,Private nonprofit,57224.0,29743.0,76156.0,22250.0,0.7421,2565.0
+St. John's University-New York,NY,Private nonprofit,64611.0,24508.0,77281.0,20500.0,0.6872,9477.0
+SUNY College of Technology at Canton,NY,Public,23073.0,12696.0,51652.0,21500.0,0.3707,2741.0
+SUNY College of Agriculture and Technology at Cobleskill,NY,Public,28512.0,19526.0,49814.0,17524.0,0.4466,1904.0
+Farmingdale State College,NY,Public,15354.0,6146.0,75278.0,14178.0,0.4852,9552.0
+University at Albany,NY,Public,30376.0,18266.0,72751.0,19500.0,0.6281,12564.0
+Binghamton University,NY,Public,30939.0,20907.0,89136.0,17750.0,0.8196,14655.0
+University at Buffalo,NY,Public,31688.0,21775.0,75679.0,19000.0,0.7283,20112.0
+Stony Brook University,NY,Public,31654.0,18902.0,83232.0,18500.0,0.7711,18101.0
+SUNY College of Environmental Science and Forestry,NY,Public,28694.0,18375.0,64530.0,15000.0,0.7195,1839.0
+SUNY Polytechnic Institute,NY,Public,24609.0,12893.0,73261.0,15250.0,0.5644,1849.0
+SUNY Brockport,NY,Public,27497.0,17315.0,60028.0,19500.0,0.5032,5784.0
+SUNY Buffalo State University,NY,Public,24279.0,10886.0,55028.0,19854.0,0.341,5097.0
+State University of New York at Cortland,NY,Public,28670.0,22125.0,67781.0,20500.0,0.7216,5901.0
+SUNY at Fredonia,NY,Public,25841.0,15275.0,56849.0,24247.0,0.5532,2755.0
+SUNY College at Geneseo,NY,Public,28344.0,18952.0,70405.0,19500.0,0.7031,3869.0
+State University of New York at New Paltz,NY,Public,29524.0,19499.0,65774.0,18734.0,0.6868,6086.0
+SUNY Oneonta,NY,Public,28709.0,18369.0,66840.0,19500.0,0.6614,4643.0
+State University of New York at Oswego,NY,Public,27791.0,16300.0,63727.0,19500.0,0.5823,5473.0
+SUNY College at Potsdam,NY,Public,25481.0,13628.0,53699.0,22250.0,0.5484,1823.0
+SUNY at Purchase College,NY,Public,30079.0,19338.0,53737.0,19500.0,0.6109,3197.0
+SUNY Old Westbury,NY,Public,19645.0,8991.0,65583.0,14000.0,0.4264,4162.0
+State University of New York at Plattsburgh,NY,Public,28193.0,15606.0,61867.0,21318.0,0.5567,3769.0
+Empire State University,NY,Public,20825.0,11131.0,59509.0,18750.0,0.4778,7585.0
+SUNY Maritime College,NY,Public,30503.0,22888.0,100966.0,21500.0,0.5378,1285.0
+Syracuse University,NY,Private nonprofit,87852.0,43336.0,85054.0,21500.0,0.8051,15477.0
+Talmudical Seminary Oholei Torah,NY,Private nonprofit,19217.0,9725.0,29313.0,,0.22,400.0
+Touro University,NY,Private nonprofit,40346.0,28433.0,57553.0,14750.0,0.6703,4040.0
+Union College,NY,Private nonprofit,87669.0,28128.0,95269.0,25081.0,0.8091,2046.0
+United Talmudical Seminary,NY,Private nonprofit,25159.0,9053.0,23315.0,,0.5045,2241.0
+United States Merchant Marine Academy,NY,Public,6923.0,1516.0,103283.0,5500.0,0.7804,962.0
+Utica University,NY,Private nonprofit,41385.0,24195.0,69651.0,20832.0,0.538,2278.0
+Vassar College,NY,Private nonprofit,91520.0,36924.0,75532.0,19000.0,0.8857,2444.0
+Villa Maria College,NY,Private nonprofit,33543.0,12863.0,38993.0,23090.0,0.3231,603.0
+School of Visual Arts,NY,Private for-profit,84868.0,59593.0,52320.0,27000.0,0.7784,3244.0
+Wagner College,NY,Private nonprofit,66385.0,30038.0,84179.0,25000.0,0.621,1651.0
+The College of Westchester,NY,Private for-profit,33455.0,17774.0,46746.0,24066.0,0.4474,759.0
+Yeshiva Karlin Stolin,NY,Private nonprofit,18644.0,6447.0,33847.0,,0.037,139.0
+Yeshiva of Nitra Rabbinical College,NY,Private nonprofit,24064.0,11908.0,32062.0,,0.25,243.0
+Yeshiva University,NY,Private nonprofit,74200.0,49210.0,77098.0,19000.0,0.8677,2852.0
+Yeshivath Viznitz,NY,Private nonprofit,22461.0,10421.0,20032.0,,0.5733,1159.0
+Appalachian State University,NC,Public,24140.0,16082.0,57488.0,19500.0,0.7131,19444.0
+Barton College,NC,Private nonprofit,52859.0,24367.0,52876.0,24875.0,0.4732,982.0
+Belmont Abbey College,NC,Private nonprofit,35667.0,25416.0,53850.0,23750.0,0.4973,1276.0
+Bennett College,NC,Private nonprofit,41964.0,27547.0,43355.0,27000.0,0.3243,178.0
+Brevard College,NC,Private nonprofit,49720.0,25617.0,49182.0,25000.0,0.3976,815.0
+Campbell University,NC,Private nonprofit,62825.0,25057.0,59026.0,20500.0,0.585,2680.0
+Catawba College,NC,Private nonprofit,50684.0,15993.0,52260.0,21181.0,0.4825,1235.0
+Chowan University,NC,Private nonprofit,43200.0,19783.0,41371.0,27000.0,0.27,603.0
+Davidson College,NC,Private nonprofit,84260.0,15060.0,89297.0,15000.0,0.901,1867.0
+Duke University,NC,Private nonprofit,90696.0,23706.0,113937.0,13000.0,0.9613,6442.0
+East Carolina University,NC,Public,25015.0,16880.0,60387.0,20500.0,0.6344,19896.0
+Elizabeth City State University,NC,Public,19278.0,8048.0,44614.0,20745.0,0.4619,1975.0
+Elon University,NC,Private nonprofit,65240.0,35785.0,82524.0,19500.0,0.8137,6452.0
+Fayetteville State University,NC,Public,18958.0,8500.0,47125.0,20500.0,0.3691,5762.0
+Gardner-Webb University,NC,Private nonprofit,51623.0,21150.0,53543.0,22000.0,0.4751,1856.0
+Greensboro College,NC,Private nonprofit,37024.0,18187.0,50121.0,25000.0,0.4176,708.0
+Guilford College,NC,Private nonprofit,56920.0,22813.0,52803.0,22660.0,0.4289,1001.0
+Heritage Bible College,NC,Private nonprofit,23339.0,17330.0,41471.0,,,22.0
+High Point University,NC,Private nonprofit,66670.0,41019.0,73547.0,23250.0,0.7171,5129.0
+Johnson C Smith University,NC,Private nonprofit,36350.0,21397.0,44849.0,30750.0,0.3354,1244.0
+Lees-McRae College,NC,Private nonprofit,53853.0,28253.0,52058.0,16500.0,0.4655,873.0
+Lenoir-Rhyne University,NC,Private nonprofit,45587.0,18641.0,54752.0,25316.0,0.4978,1359.0
+Livingstone College,NC,Private nonprofit,28286.0,17026.0,38502.0,31000.0,0.2041,924.0
+Mars Hill University,NC,Private nonprofit,52600.0,20442.0,48185.0,23250.0,0.4599,1044.0
+Meredith College,NC,Private nonprofit,61939.0,22801.0,54417.0,22000.0,0.7154,1188.0
+Methodist University,NC,Private nonprofit,57639.0,25760.0,54558.0,27000.0,0.3877,1448.0
+Montreat College,NC,Private nonprofit,50120.0,25095.0,53114.0,24150.0,0.4277,762.0
+University of Mount Olive,NC,Private nonprofit,39759.0,18927.0,54851.0,25000.0,0.4201,1796.0
+North Carolina A & T State University,NC,Public,21376.0,9884.0,50279.0,23288.0,0.561,12182.0
+University of North Carolina Asheville,NC,Public,25943.0,14999.0,50562.0,19500.0,0.5153,2910.0
+University of North Carolina at Chapel Hill,NC,Public,26949.0,11305.0,81094.0,12086.0,0.9111,20752.0
+University of North Carolina at Charlotte,NC,Public,23556.0,15142.0,63486.0,19500.0,0.6824,24453.0
+University of North Carolina at Greensboro,NC,Public,23264.0,12291.0,53402.0,20500.0,0.5793,14062.0
+North Carolina Central University,NC,Public,27916.0,16708.0,46956.0,26000.0,0.4741,6081.0
+University of North Carolina School of the Arts,NC,Public,27371.0,14859.0,46097.0,26450.0,0.8034,945.0
+North Carolina State University at Raleigh,NC,Public,27073.0,16486.0,77810.0,19500.0,0.8485,27371.0
+North Carolina Wesleyan University,NC,Private nonprofit,50704.0,20318.0,49264.0,25000.0,0.4493,1214.0
+University of North Carolina Wilmington,NC,Public,28004.0,19570.0,61019.0,18250.0,0.7163,14922.0
+William Peace University,NC,Private nonprofit,51287.0,23002.0,47869.0,16875.0,0.4865,666.0
+University of North Carolina at Pembroke,NC,Public,17991.0,10522.0,48029.0,21082.0,0.4374,5330.0
+Pfeiffer University,NC,Private nonprofit,50124.0,22696.0,54743.0,23293.0,0.4802,655.0
+Queens University of Charlotte,NC,Private nonprofit,69698.0,29421.0,58736.0,25000.0,0.5749,1211.0
+Mid-Atlantic Christian University,NC,Private nonprofit,33765.0,19001.0,43121.0,,0.2115,132.0
+Saint Augustine's University,NC,Private nonprofit,21996.0,6042.0,41117.0,,0.1597,172.0
+Salem College,NC,Private nonprofit,50783.0,18975.0,50734.0,20459.0,0.3148,423.0
+Shaw University,NC,Private nonprofit,31486.0,24242.0,38822.0,24439.0,0.2032,875.0
+Wake Forest University,NC,Private nonprofit,91202.0,28165.0,104443.0,19500.0,0.9029,5485.0
+Warren Wilson College,NC,Private nonprofit,59238.0,23319.0,39685.0,24907.0,0.3957,707.0
+Wingate University,NC,Private nonprofit,59650.0,21511.0,57646.0,23000.0,0.4331,2668.0
+Carolina Christian College,NC,Private nonprofit,36464.0,30355.0,33125.0,,0.1,52.0
+Winston-Salem State University,NC,Public,22875.0,12817.0,52558.0,24000.0,0.4725,4170.0
+Western Carolina University,NC,Public,21165.0,13025.0,53764.0,19500.0,0.6112,10024.0
+Dickinson State University,ND,Public,21845.0,14076.0,55221.0,15125.0,0.4041,1090.0
+University of Jamestown,ND,Private nonprofit,39142.0,19440.0,61350.0,27000.0,0.5176,1041.0
+University of Mary,ND,Private nonprofit,37172.0,23020.0,62839.0,21266.0,0.6566,2416.0
+Mayville State University,ND,Public,21720.0,13637.0,50306.0,20996.0,0.3905,733.0
+Minot State University,ND,Public,19059.0,11490.0,56245.0,19913.0,0.4487,2062.0
+University of North Dakota,ND,Public,25855.0,18131.0,67456.0,20500.0,0.6097,9981.0
+North Dakota State University-Main Campus,ND,Public,24407.0,15636.0,65925.0,21500.0,0.6548,9471.0
+Trinity Bible College and Graduate School,ND,Private nonprofit,33568.0,22322.0,38990.0,19809.0,0.4571,141.0
+Valley City State University,ND,Public,21988.0,13748.0,53886.0,21750.0,0.5,958.0
+University of Akron Main Campus,OH,Public,25482.0,13072.0,51221.0,21500.0,0.5323,9052.0
+University of Akron Wayne College,OH,Public,14428.0,6549.0,51221.0,21500.0,0.1121,457.0
+Art Academy of Cincinnati,OH,Private nonprofit,55080.0,35232.0,38613.0,26000.0,0.4133,205.0
+Ashland University,OH,Private nonprofit,48853.0,23678.0,56321.0,24058.0,0.5717,2199.0
+Baldwin Wallace University,OH,Private nonprofit,57526.0,27222.0,59100.0,26000.0,0.6848,2842.0
+Bluffton University,OH,Private nonprofit,53337.0,21315.0,53346.0,27000.0,0.5325,582.0
+Bowling Green State University-Main Campus,OH,Public,31674.0,21453.0,52269.0,23250.0,0.6625,12812.0
+Capital University,OH,Private nonprofit,57739.0,20550.0,58937.0,25000.0,0.5734,1585.0
+Case Western Reserve University,OH,Private nonprofit,88326.0,44622.0,89865.0,21500.0,0.8737,6437.0
+Cedarville University,OH,Private nonprofit,52159.0,23335.0,65805.0,20375.0,0.7429,4024.0
+Central State University,OH,Public,22374.0,13307.0,36832.0,18250.0,0.2087,2620.0
+The Christ College of Nursing and Health Sciences,OH,Private nonprofit,27433.0,17566.0,73495.0,18992.0,0.6042,713.0
+University of Cincinnati-Main Campus,OH,Public,33026.0,24917.0,60832.0,20500.0,0.7503,29882.0
+Ohio Christian University,OH,Private nonprofit,36168.0,19197.0,39861.0,27554.0,0.399,862.0
+Cleveland Institute of Art,OH,Private nonprofit,67135.0,31184.0,42757.0,27000.0,0.6194,539.0
+Cleveland Institute of Music,OH,Private nonprofit,72601.0,30269.0,27260.0,19500.0,0.8519,159.0
+Cleveland State University,OH,Public,27436.0,13754.0,56979.0,22000.0,0.5139,8969.0
+Columbus College of Art & Design,OH,Private nonprofit,57491.0,27723.0,47378.0,26500.0,0.6113,882.0
+University of Dayton,OH,Private nonprofit,68434.0,30366.0,83775.0,19500.0,0.8032,7682.0
+Defiance College,OH,Private nonprofit,45177.0,27873.0,50327.0,27000.0,0.3556,499.0
+Denison University,OH,Private nonprofit,86900.0,40163.0,73151.0,26932.0,0.7824,2380.0
+The University of Findlay,OH,Private nonprofit,56041.0,26406.0,63283.0,22500.0,0.6224,2223.0
+Franklin University,OH,Private nonprofit,33133.0,28451.0,57435.0,20571.0,0.2066,5562.0
+Heidelberg University,OH,Private nonprofit,47165.0,22046.0,56874.0,27000.0,0.6133,915.0
+Hiram College,OH,Private nonprofit,41920.0,20753.0,57745.0,26542.0,0.5551,777.0
+John Carroll University,OH,Private nonprofit,66958.0,27167.0,74509.0,25000.0,0.7434,2274.0
+Kent State University at Kent,OH,Public,31458.0,20294.0,51178.0,23000.0,0.5103,19320.0
+Kenyon College,OH,Private nonprofit,91010.0,33279.0,65780.0,21000.0,0.8563,1732.0
+Kettering College,OH,Private nonprofit,32787.0,20896.0,68877.0,24250.0,0.5714,549.0
+Lake Erie College,OH,Private nonprofit,52847.0,13324.0,54578.0,23250.0,0.4439,852.0
+Lourdes University,OH,Private nonprofit,44909.0,21245.0,50079.0,25000.0,0.3902,543.0
+Malone University,OH,Private nonprofit,50345.0,12621.0,54032.0,25000.0,0.5565,798.0
+Marietta College,OH,Private nonprofit,55590.0,22890.0,65386.0,27000.0,0.6092,952.0
+Mercy College of Ohio,OH,Private nonprofit,31748.0,15273.0,70306.0,20615.0,0.4839,939.0
+Miami University-Hamilton,OH,Public,15985.0,11513.0,63814.0,20500.0,0.2584,2043.0
+Miami University-Middletown,OH,Public,15282.0,10410.0,63814.0,20500.0,0.2748,837.0
+Miami University-Oxford,OH,Public,39576.0,29447.0,63814.0,20500.0,0.8124,16656.0
+Mount Carmel College of Nursing,OH,Private nonprofit,34804.0,23987.0,77859.0,21500.0,0.5946,532.0
+University of Mount Union,OH,Private nonprofit,51933.0,23956.0,64519.0,26511.0,0.6505,1995.0
+Mount Vernon Nazarene University,OH,Private nonprofit,53940.0,21193.0,52001.0,23625.0,0.6316,1358.0
+Mount St. Joseph University,OH,Private nonprofit,47982.0,19231.0,57689.0,27000.0,0.5382,1129.0
+Muskingum University,OH,Private nonprofit,46293.0,19145.0,50990.0,25000.0,0.5349,1376.0
+Oberlin College,OH,Private nonprofit,90692.0,41987.0,60877.0,25488.0,0.8089,2887.0
+Ohio Dominican University,OH,Private nonprofit,48248.0,17780.0,54622.0,24250.0,0.507,760.0
+Ohio Northern University,OH,Private nonprofit,56934.0,23969.0,82743.0,27000.0,0.7105,2489.0
+Ohio State University-Lima Campus,OH,Public,20829.0,12326.0,67080.0,19500.0,0.2394,621.0
+Ohio State University-Main Campus,OH,Public,31162.0,17269.0,67080.0,19500.0,0.8659,45638.0
+Ohio University-Eastern Campus,OH,Public,11075.0,5949.0,61938.0,20475.0,0.2039,298.0
+Ohio University-Lancaster Campus,OH,Public,11954.0,6593.0,61938.0,20475.0,0.1373,691.0
+Ohio University-Main Campus,OH,Public,31615.0,20666.0,61938.0,20475.0,0.6507,19633.0
+Ohio Wesleyan University,OH,Private nonprofit,70351.0,20196.0,61905.0,27000.0,0.6401,1516.0
+Otterbein University,OH,Private nonprofit,49960.0,20189.0,59196.0,25000.0,0.6067,2157.0
+Pontifical College Josephinum,OH,Private nonprofit,50423.0,47298.0,58369.0,,0.5714,60.0
+Shawnee State University,OH,Public,26409.0,17766.0,43200.0,19660.0,0.2876,2247.0
+Franciscan University of Steubenville,OH,Private nonprofit,46845.0,24629.0,53660.0,24250.0,0.7616,2901.0
+Tiffin University,OH,Private nonprofit,50227.0,26131.0,37551.0,24375.0,0.4174,2051.0
+University of Toledo,OH,Public,27112.0,16406.0,55537.0,20000.0,0.5751,9770.0
+Ursuline College,OH,Private nonprofit,53197.0,17186.0,62042.0,25000.0,0.5543,670.0
+Walsh University,OH,Private nonprofit,47886.0,19588.0,62879.0,24300.0,0.5787,1390.0
+Wilberforce University,OH,Private nonprofit,28212.0,16221.0,41874.0,20500.0,0.073,822.0
+Wilmington College,OH,Private nonprofit,50444.0,28567.0,54378.0,25188.0,0.4839,1006.0
+Wittenberg University,OH,Private nonprofit,59692.0,23310.0,60660.0,25000.0,0.6122,1215.0
+The College of Wooster,OH,Private nonprofit,78165.0,26433.0,62339.0,26530.0,0.7085,1730.0
+Wright State University-Main Campus,OH,Public,24829.0,13715.0,53497.0,21057.0,0.4199,6762.0
+Wright State University-Lake Campus,OH,Public,16415.0,9533.0,53497.0,21057.0,0.437,892.0
+Xavier University,OH,Private nonprofit,69060.0,31905.0,69118.0,25000.0,0.7106,4207.0
+Youngstown State University,OH,Public,19462.0,9161.0,46691.0,20568.0,0.5272,7961.0
+Oklahoma Wesleyan University,OK,Private nonprofit,47574.0,30061.0,66267.0,21500.0,0.4465,673.0
+Southern Nazarene University,OK,Private nonprofit,44607.0,15955.0,59257.0,22250.0,0.4645,1455.0
+Cameron University,OK,Public,16844.0,7472.0,42927.0,21504.0,0.2598,2492.0
+University of Central Oklahoma,OK,Public,27350.0,18348.0,51263.0,19580.0,0.3597,10170.0
+East Central University,OK,Public,19535.0,8722.0,47782.0,18350.0,0.2771,2467.0
+Randall University,OK,Private nonprofit,28521.0,19995.0,45886.0,23656.0,0.3692,267.0
+Northeastern State University,OK,Public,23052.0,12424.0,48728.0,17000.0,0.3724,4772.0
+Northwestern Oklahoma State University,OK,Public,19249.0,9433.0,49123.0,17891.0,0.3519,1498.0
+Oklahoma Christian University,OK,Private nonprofit,40514.0,23169.0,55959.0,17825.0,0.6263,1885.0
+Oklahoma Panhandle State University,OK,Public,16011.0,8380.0,48353.0,13000.0,0.1653,917.0
+Oklahoma State University-Main Campus,OK,Public,28615.0,17058.0,60713.0,19500.0,0.6936,21773.0
+Oklahoma Baptist University,OK,Private nonprofit,48675.0,15979.0,50249.0,19749.0,0.5167,1308.0
+Oklahoma City University,OK,Private nonprofit,51235.0,36514.0,62267.0,20500.0,0.5627,1514.0
+University of Oklahoma-Norman Campus,OK,Public,29286.0,15531.0,66905.0,19668.0,0.7466,22734.0
+Oral Roberts University,OK,Private nonprofit,51885.0,29244.0,52658.0,26000.0,0.5455,3487.0
+Rogers State University,OK,Public,25845.0,18042.0,45841.0,20000.0,0.3027,2657.0
+University of Science and Arts of Oklahoma,OK,Public,26422.0,13444.0,44726.0,18503.0,0.4246,941.0
+Southeastern Oklahoma State University,OK,Public,17321.0,7565.0,48391.0,17750.0,0.3147,3018.0
+Southwestern Christian University,OK,Private nonprofit,34029.0,20448.0,40962.0,17750.0,0.2871,377.0
+Southwestern Oklahoma State University,OK,Public,25648.0,15278.0,53203.0,14889.0,0.456,3514.0
+University of Tulsa,OK,Private nonprofit,66618.0,13511.0,65590.0,23250.0,0.689,2813.0
+Eastern Oregon University,OR,Public,26898.0,15665.0,53987.0,20000.0,0.3795,2172.0
+New Hope Christian College-Eugene,OR,Private nonprofit,29220.0,18634.0,43617.0,,0.2174,56.0
+George Fox University,OR,Private nonprofit,61471.0,31648.0,62873.0,23000.0,0.6855,2699.0
+Lewis & Clark College,OR,Private nonprofit,83548.0,34286.0,64090.0,20500.0,0.7391,2120.0
+Linfield University,OR,Private nonprofit,67260.0,24882.0,81101.0,25000.0,0.6166,1621.0
+Bushnell University,OR,Private nonprofit,48645.0,19624.0,58808.0,20500.0,0.5752,517.0
+Oregon Institute of Technology,OR,Public,30335.0,17499.0,78398.0,22000.0,0.4565,2892.0
+Oregon State University,OR,Public,34878.0,21504.0,67894.0,20500.0,0.676,30743.0
+University of Oregon,OR,Public,35556.0,22547.0,66990.0,18897.0,0.7078,20497.0
+Pacific University,OR,Private nonprofit,74844.0,35520.0,67497.0,23000.0,0.706,1516.0
+Portland State University,OR,Public,20561.0,8337.0,62447.0,19489.0,0.5292,13182.0
+University of Portland,OR,Private nonprofit,76816.0,28803.0,85634.0,20500.0,0.805,2957.0
+Reed College,OR,Private nonprofit,89016.0,32800.0,64977.0,22122.0,0.7354,1320.0
+Southern Oregon University,OR,Public,32229.0,20998.0,54657.0,20356.0,0.426,2751.0
+Warner Pacific University,OR,Private nonprofit,32221.0,17739.0,59212.0,22116.0,0.4815,375.0
+Corban University,OR,Private nonprofit,57708.0,32913.0,53254.0,20500.0,0.6098,678.0
+Willamette University,OR,Private nonprofit,71440.0,25908.0,62275.0,17500.0,0.71,1592.0
+Western Oregon University,OR,Public,28208.0,17140.0,56475.0,19000.0,0.4446,3103.0
+Bryn Athyn College of the New Church,PA,Private nonprofit,41791.0,20714.0,54575.0,20667.0,0.5556,244.0
+Albright College,PA,Private nonprofit,44881.0,20596.0,63312.0,25000.0,0.5149,1217.0
+Allegheny College,PA,Private nonprofit,73363.0,23895.0,68228.0,27000.0,0.697,1156.0
+DeSales University,PA,Private nonprofit,61819.0,29183.0,69129.0,27000.0,0.6952,2128.0
+Alvernia University,PA,Private nonprofit,60249.0,27122.0,60651.0,27000.0,0.5138,2152.0
+Arcadia University,PA,Private nonprofit,66617.0,25397.0,62618.0,27000.0,0.5803,1948.0
+Bryn Mawr College,PA,Private nonprofit,87320.0,44593.0,80291.0,22249.0,0.8316,1359.0
+Bucknell University,PA,Private nonprofit,87696.0,50021.0,109954.0,26486.0,0.8482,3876.0
+Carlow University,PA,Private nonprofit,51454.0,22455.0,56397.0,24481.0,0.6852,1348.0
+Carnegie Mellon University,PA,Private nonprofit,86759.0,35780.0,125257.0,19000.0,0.9431,7304.0
+Cedar Crest College,PA,Private nonprofit,60971.0,23513.0,61250.0,27000.0,0.6049,834.0
+Chatham University,PA,Private nonprofit,61097.0,25502.0,61561.0,23380.0,0.6401,1232.0
+Chestnut Hill College,PA,Private nonprofit,57946.0,21801.0,59414.0,23111.0,0.4928,815.0
+Cheyney University of Pennsylvania,PA,Public,26773.0,12255.0,43275.0,20000.0,0.2019,617.0
+Delaware Valley University,PA,Private nonprofit,61066.0,28226.0,57451.0,25000.0,0.5,1628.0
+Dickinson College,PA,Private nonprofit,85984.0,28634.0,83426.0,23507.0,0.7367,2273.0
+Drexel University,PA,Private nonprofit,78335.0,37529.0,92338.0,25166.0,0.7794,13233.0
+Duquesne University,PA,Private nonprofit,69856.0,37704.0,81698.0,25500.0,0.7629,5350.0
+East Stroudsburg University of Pennsylvania,PA,Public,31163.0,21084.0,59893.0,21500.0,0.4568,4814.0
+Eastern University,PA,Private nonprofit,55960.0,27498.0,54281.0,22533.0,0.5836,2404.0
+Elizabethtown College,PA,Private nonprofit,52061.0,25682.0,66572.0,27000.0,0.8152,1868.0
+Franklin and Marshall College,PA,Private nonprofit,88838.0,33445.0,81484.0,26758.0,0.7911,1799.0
+Gannon University,PA,Private nonprofit,56456.0,24443.0,64498.0,27000.0,0.7093,2365.0
+Geneva College,PA,Private nonprofit,46087.0,19090.0,54195.0,23250.0,0.6326,1096.0
+Gettysburg College,PA,Private nonprofit,86450.0,33015.0,80119.0,26500.0,0.7858,2099.0
+Gwynedd Mercy University,PA,Private nonprofit,56211.0,27541.0,74134.0,25000.0,0.584,1067.0
+Haverford College,PA,Private nonprofit,93406.0,31075.0,76397.0,13795.0,0.8898,1430.0
+Holy Family University,PA,Private nonprofit,42222.0,12882.0,70924.0,25081.0,0.6715,2464.0
+Immaculata University,PA,Private nonprofit,43363.0,23811.0,74080.0,27000.0,0.631,1320.0
+Indiana University of Pennsylvania,PA,Public,27286.0,17391.0,57182.0,24989.0,0.5175,6764.0
+Juniata College,PA,Private nonprofit,74817.0,24001.0,65666.0,27000.0,0.6902,1191.0
+Keystone College,PA,Private nonprofit,31687.0,22909.0,46892.0,25000.0,0.3765,771.0
+King's College,PA,Private nonprofit,57805.0,21439.0,66035.0,27000.0,0.6068,1484.0
+Kutztown University of Pennsylvania,PA,Public,30537.0,22146.0,57647.0,25000.0,0.5539,6180.0
+La Roche University,PA,Private nonprofit,54708.0,27449.0,57999.0,26500.0,0.4585,751.0
+La Salle University,PA,Private nonprofit,49842.0,19758.0,71235.0,23000.0,0.6018,1953.0
+Lafayette College,PA,Private nonprofit,87092.0,35879.0,102336.0,14000.0,0.8539,2757.0
+Lancaster Bible College,PA,Private nonprofit,45172.0,24806.0,49033.0,21500.0,0.6928,1569.0
+Lebanon Valley College,PA,Private nonprofit,69861.0,28059.0,67002.0,26000.0,0.6913,1684.0
+Lehigh University,PA,Private nonprofit,84497.0,25272.0,116342.0,21371.0,0.852,5898.0
+Lincoln University,PA,Public,29069.0,13517.0,53919.0,27000.0,0.447,1539.0
+Lycoming College,PA,Private nonprofit,66587.0,18815.0,60091.0,27000.0,0.5824,996.0
+Marywood University,PA,Private nonprofit,55880.0,21059.0,59635.0,26500.0,0.6833,1784.0
+Mercyhurst University,PA,Private nonprofit,60498.0,26486.0,55508.0,25998.0,0.6104,2191.0
+Messiah University,PA,Private nonprofit,58158.0,25955.0,60377.0,24250.0,0.7822,2259.0
+Millersville University of Pennsylvania,PA,Public,25590.0,18817.0,58443.0,21500.0,0.5481,5728.0
+Misericordia University,PA,Private nonprofit,56252.0,40348.0,69735.0,26000.0,0.7293,1672.0
+Moore College of Art and Design,PA,Private nonprofit,73709.0,44587.0,44219.0,27000.0,0.549,535.0
+Moravian University,PA,Private nonprofit,72245.0,35264.0,66967.0,26715.0,0.7424,1949.0
+Mount Aloysius College,PA,Private nonprofit,41773.0,21483.0,52584.0,23250.0,0.5331,1094.0
+Muhlenberg College,PA,Private nonprofit,80300.0,25253.0,76444.0,27000.0,0.8327,1727.0
+Neumann University,PA,Private nonprofit,59180.0,27749.0,59976.0,27000.0,0.4602,1533.0
+Pennsylvania State University-Penn State Erie-Behrend College,PA,Public,31913.0,23165.0,71762.0,24500.0,0.47,3240.0
+Pennsylvania State University-Penn State New Kensington,PA,Public,20628.0,10866.0,71762.0,24500.0,0.2574,416.0
+Pennsylvania State University-Penn State Shenango,PA,Public,20244.0,10802.0,71762.0,24500.0,0.3077,256.0
+Pennsylvania State University-Penn State Wilkes-Barre,PA,Public,21111.0,10521.0,71762.0,24500.0,0.1239,313.0
+Pennsylvania State University-Penn State Scranton,PA,Public,22446.0,12204.0,71762.0,24500.0,0.3117,793.0
+Pennsylvania State University-Penn State Lehigh Valley,PA,Public,22102.0,12029.0,71762.0,24500.0,0.1811,859.0
+Pennsylvania State University-Penn State Altoona,PA,Public,30876.0,21714.0,71762.0,24500.0,0.1593,2367.0
+Pennsylvania State University-Penn State Beaver,PA,Public,25677.0,16063.0,71762.0,24500.0,0.2526,482.0
+Pennsylvania State University-Penn State Berks,PA,Public,28258.0,19570.0,71762.0,24500.0,0.2866,1872.0
+Pennsylvania State University-Penn State Harrisburg,PA,Public,27186.0,16753.0,71762.0,24500.0,0.274,4031.0
+Pennsylvania State University-Penn State Brandywine,PA,Public,27779.0,18053.0,71762.0,24500.0,0.1899,1223.0
+Pennsylvania State University-Penn State DuBois,PA,Public,21866.0,11531.0,71762.0,24500.0,0.3033,349.0
+Pennsylvania State University-Penn State Fayette- Eberly,PA,Public,22017.0,11957.0,71762.0,24500.0,0.3642,402.0
+Pennsylvania State University-Penn State Hazleton,PA,Public,28255.0,14209.0,71762.0,24500.0,0.2264,501.0
+Pennsylvania State University-Main Campus,PA,Public,41003.0,33675.0,71762.0,24500.0,0.8542,42284.0
+Pennsylvania State University-Penn State Greater Allegheny,PA,Public,25082.0,14194.0,71762.0,24500.0,0.2647,349.0
+Pennsylvania State University-Penn State Mont Alto,PA,Public,25108.0,16748.0,71762.0,24500.0,0.3978,559.0
+Pennsylvania State University-Penn State Abington,PA,Public,24858.0,14429.0,71762.0,24500.0,0.2243,2877.0
+Pennsylvania State University-Penn State Schuylkill,PA,Public,27360.0,15199.0,71762.0,24500.0,0.3216,620.0
+Pennsylvania State University-Penn State York,PA,Public,21701.0,12374.0,71762.0,24500.0,0.1818,668.0
+Pennsylvania College of Art and Design,PA,Private nonprofit,49050.0,33456.0,36746.0,27000.0,0.6875,400.0
+University of Pennsylvania,PA,Private nonprofit,92288.0,29577.0,121687.0,15000.0,0.9688,10650.0
+Cairn University-Langhorne,PA,Private nonprofit,49297.0,31280.0,49435.0,25994.0,0.5388,775.0
+University of Pittsburgh-Bradford,PA,Public,29542.0,13598.0,73113.0,23000.0,0.3767,995.0
+University of Pittsburgh-Greensburg,PA,Public,30594.0,17075.0,73113.0,23000.0,0.4499,1305.0
+University of Pittsburgh-Johnstown,PA,Public,30152.0,16375.0,73113.0,23000.0,0.5546,1808.0
+University of Pittsburgh-Pittsburgh Campus,PA,Public,38719.0,29362.0,73113.0,23000.0,0.8576,20370.0
+Point Park University,PA,Private nonprofit,55211.0,26028.0,52251.0,27000.0,0.5446,2331.0
+Robert Morris University,PA,Private nonprofit,52537.0,21445.0,69633.0,23250.0,0.6402,2896.0
+Rosemont College,PA,Private nonprofit,40910.0,20820.0,60410.0,25000.0,0.4947,486.0
+Saint Francis University,PA,Private nonprofit,61203.0,28219.0,69383.0,27000.0,0.7683,1557.0
+Saint Joseph's University - Philadelphia,PA,Private nonprofit,70389.0,33840.0,85980.0,18250.0,0.8112,4948.0
+Saint Vincent College,PA,Private nonprofit,57715.0,23122.0,66391.0,27000.0,0.6955,1259.0
+University of Scranton,PA,Private nonprofit,70872.0,32132.0,85590.0,27000.0,0.8189,3554.0
+Seton Hill University,PA,Private nonprofit,58078.0,25519.0,55756.0,26497.0,0.6667,1492.0
+Shippensburg University of Pennsylvania,PA,Public,30416.0,21129.0,58077.0,22250.0,0.4876,4086.0
+Slippery Rock University of Pennsylvania,PA,Public,25971.0,19972.0,57995.0,23250.0,0.6828,6788.0
+Susquehanna University,PA,Private nonprofit,78385.0,28585.0,67676.0,27000.0,0.7855,2163.0
+Swarthmore College,PA,Private nonprofit,88696.0,17392.0,86311.0,15000.0,0.9161,1613.0
+Temple University,PA,Public,41338.0,23058.0,71027.0,24250.0,0.727,20970.0
+Thiel College,PA,Private nonprofit,56463.0,24478.0,51676.0,27000.0,0.5344,788.0
+Thomas Jefferson University,PA,Private nonprofit,62828.0,25555.0,78311.0,15000.0,0.7122,3755.0
+Ursinus College,PA,Private nonprofit,80372.0,30181.0,74571.0,27000.0,0.7256,1491.0
+University of Valley Forge,PA,Private nonprofit,46746.0,28436.0,43845.0,27000.0,0.3925,471.0
+Villanova University,PA,Private nonprofit,88293.0,41536.0,115382.0,25000.0,0.9281,6938.0
+Washington & Jefferson College,PA,Private nonprofit,44620.0,21629.0,75646.0,27000.0,0.6632,1295.0
+Waynesburg University,PA,Private nonprofit,45024.0,18810.0,62368.0,27000.0,0.5421,1009.0
+West Chester University of Pennsylvania,PA,Public,30531.0,24778.0,66629.0,21500.0,0.6784,14164.0
+Westminster College,PA,Private nonprofit,54168.0,19484.0,59487.0,26804.0,0.5978,1041.0
+Widener University,PA,Private nonprofit,73168.0,26151.0,76782.0,26000.0,0.6685,2951.0
+Wilkes University,PA,Private nonprofit,57565.0,25799.0,75038.0,26682.0,0.5921,1985.0
+Wilson College,PA,Private nonprofit,39715.0,20699.0,45795.0,25000.0,0.5505,865.0
+York College of Pennsylvania,PA,Private nonprofit,38436.0,21886.0,65507.0,24980.0,0.621,3265.0
+Brown University,RI,Private nonprofit,91676.0,26976.0,99974.0,14567.0,0.9564,7226.0
+Bryant University,RI,Private nonprofit,71362.0,39186.0,104456.0,23250.0,0.8101,3194.0
+Johnson & Wales University-Providence,RI,Private nonprofit,62760.0,29952.0,53928.0,27000.0,0.4936,3868.0
+Providence College,RI,Private nonprofit,83479.0,49594.0,90260.0,27000.0,0.8641,4229.0
+Rhode Island College,RI,Public,18940.0,10959.0,60399.0,19041.0,0.4466,5049.0
+University of Rhode Island,RI,Public,36252.0,22469.0,73439.0,20500.0,0.7232,13381.0
+Rhode Island School of Design,RI,Private nonprofit,85455.0,50513.0,69341.0,26898.0,0.9167,2084.0
+Roger Williams University,RI,Private nonprofit,66939.0,37645.0,77127.0,25000.0,0.6742,3946.0
+Salve Regina University,RI,Private nonprofit,73748.0,36528.0,73336.0,27000.0,0.7294,2121.0
+Northpoint Bible College,MA,Private nonprofit,27836.0,20550.0,44520.0,21500.0,0.1667,86.0
+Allen University,SC,Private nonprofit,25423.0,13432.0,32754.0,29000.0,0.2464,576.0
+Anderson University,SC,Private nonprofit,52108.0,24068.0,51191.0,21500.0,0.7174,3183.0
+Charleston Southern University,SC,Private nonprofit,45797.0,20661.0,52265.0,22500.0,0.4983,2893.0
+Benedict College,SC,Private nonprofit,31592.0,17734.0,36562.0,27000.0,0.4316,1536.0
+Bob Jones University,SC,Private nonprofit,37454.0,14632.0,49158.0,15750.0,0.7132,2005.0
+Southern Wesleyan University,SC,Private nonprofit,42296.0,16041.0,48710.0,24194.0,0.5155,747.0
+College of Charleston,SC,Public,33689.0,18177.0,63018.0,20500.0,0.6531,10558.0
+Citadel Military College of South Carolina,SC,Public,34464.0,22019.0,82609.0,18500.0,0.7895,2705.0
+Claflin University,SC,Private nonprofit,33874.0,16532.0,44351.0,27000.0,0.4705,1706.0
+Clemson University,SC,Public,35250.0,22032.0,79064.0,19500.0,0.8752,23300.0
+Clinton College,SC,Private nonprofit,34486.0,24037.0,32353.0,29500.0,0.6842,126.0
+Coker University,SC,Private nonprofit,50888.0,24908.0,45746.0,23111.0,0.365,840.0
+Columbia International University,SC,Private nonprofit,42083.0,18951.0,44657.0,21000.0,0.5034,716.0
+Columbia College,SC,Private nonprofit,38048.0,21611.0,46266.0,21944.0,0.4096,1343.0
+Converse University,SC,Private nonprofit,41330.0,23526.0,45726.0,24500.0,0.4375,1173.0
+Erskine College,SC,Private nonprofit,57166.0,19826.0,53830.0,26000.0,0.3407,766.0
+Francis Marion University,SC,Public,24585.0,10890.0,47527.0,25000.0,0.3787,2628.0
+Furman University,SC,Private nonprofit,79231.0,31764.0,70201.0,21500.0,0.7392,2379.0
+Lander University,SC,Public,28321.0,16659.0,45360.0,21847.0,0.5016,3397.0
+Morris College,SC,Private nonprofit,31576.0,22920.0,37276.0,25150.0,0.215,383.0
+Newberry College,SC,Private nonprofit,48412.0,22104.0,51404.0,22500.0,0.4152,1479.0
+North Greenville University,SC,Private nonprofit,43689.0,22235.0,47090.0,21500.0,0.535,1819.0
+Presbyterian College,SC,Private nonprofit,62851.0,20154.0,61828.0,23250.0,0.5205,852.0
+University of South Carolina Aiken,SC,Public,25625.0,14565.0,51703.0,22132.0,0.436,2962.0
+University of South Carolina Beaufort,SC,Public,30333.0,20646.0,51424.0,21930.0,0.3872,2052.0
+University of South Carolina-Columbia,SC,Public,32193.0,22197.0,69024.0,20500.0,0.7866,29820.0
+Coastal Carolina University,SC,Public,28982.0,15287.0,54702.0,22312.0,0.542,10377.0
+South Carolina State University,SC,Public,29846.0,18030.0,41531.0,26964.0,0.3156,2934.0
+University of South Carolina-Upstate,SC,Public,27810.0,15680.0,53988.0,21234.0,0.4318,4038.0
+Voorhees University,SC,Private nonprofit,25475.0,16674.0,36292.0,16904.0,0.2519,440.0
+Winthrop University,SC,Public,31746.0,16375.0,49727.0,25500.0,0.5159,3523.0
+Wofford College,SC,Private nonprofit,75573.0,23144.0,76744.0,25000.0,0.803,1816.0
+Augustana University,SD,Private nonprofit,57456.0,23283.0,61271.0,24250.0,0.7349,1965.0
+Black Hills State University,SD,Public,25744.0,19252.0,49283.0,19822.0,0.4195,1928.0
+Dakota State University,SD,Public,26671.0,20554.0,53378.0,21730.0,0.4874,2071.0
+Dakota Wesleyan University,SD,Private nonprofit,45259.0,24039.0,57757.0,26859.0,0.5442,670.0
+Mount Marty University,SD,Private nonprofit,49788.0,21395.0,52585.0,23250.0,0.6293,697.0
+National American University-Rapid City,SD,Private for-profit,34452.0,31654.0,38663.0,27615.0,0.3333,764.0
+Northern State University,SD,Public,22410.0,15279.0,51006.0,19500.0,0.5247,1273.0
+South Dakota School of Mines and Technology,SD,Public,26296.0,20827.0,78487.0,25166.0,0.5225,2071.0
+South Dakota State University,SD,Public,24781.0,19362.0,58802.0,21008.0,0.6218,9198.0
+University of Sioux Falls,SD,Private nonprofit,35949.0,21417.0,59404.0,21875.0,0.6404,1218.0
+University of South Dakota,SD,Public,25752.0,20028.0,58316.0,22000.0,0.5992,5439.0
+American Baptist College,TN,Private nonprofit,28753.0,11418.0,42312.0,,0.3182,46.0
+Austin Peay State University,TN,Public,21696.0,9049.0,48900.0,19570.0,0.4189,7560.0
+Baptist Health Sciences University,TN,Private nonprofit,26103.0,10165.0,70235.0,30252.0,0.3258,770.0
+Belmont University,TN,Private nonprofit,64800.0,32648.0,62789.0,20500.0,0.7124,7137.0
+Bethel University,TN,Private nonprofit,32047.0,13267.0,49011.0,27000.0,0.2902,1547.0
+Bryan College-Dayton,TN,Private nonprofit,33000.0,23601.0,55127.0,22031.0,0.5333,814.0
+Carson-Newman University,TN,Private nonprofit,50237.0,18130.0,51756.0,21500.0,0.536,1387.0
+Christian Brothers University,TN,Private nonprofit,49561.0,16842.0,55642.0,23250.0,0.5546,905.0
+Cumberland University,TN,Private nonprofit,40411.0,15965.0,66885.0,16750.0,0.4452,2104.0
+Lipscomb University,TN,Private nonprofit,56348.0,23178.0,62332.0,18750.0,0.7089,2997.0
+East Tennessee State University,TN,Public,25869.0,14208.0,48646.0,18636.0,0.553,10004.0
+Fisk University,TN,Private nonprofit,44373.0,37143.0,45614.0,25000.0,0.4043,1035.0
+Welch College,TN,Private nonprofit,35995.0,17090.0,44636.0,17547.0,0.5493,226.0
+Freed-Hardeman University,TN,Private nonprofit,39109.0,22036.0,48969.0,21500.0,0.7339,1212.0
+Johnson University,TN,Private nonprofit,36839.0,23549.0,44300.0,21485.0,0.597,743.0
+King University,TN,Private nonprofit,49948.0,22416.0,65781.0,21022.0,0.4356,908.0
+Lane College,TN,Private nonprofit,23527.0,12660.0,35657.0,20776.0,0.1787,736.0
+Le Moyne-Owen College,TN,Private nonprofit,18556.0,6993.0,41221.0,,0.2431,581.0
+Lee University,TN,Private nonprofit,38042.0,21034.0,47741.0,26000.0,0.6201,2617.0
+Lincoln Memorial University,TN,Private nonprofit,42631.0,21394.0,59630.0,20000.0,0.4851,1572.0
+The University of Tennessee Southern,TN,Public,21358.0,6690.0,46623.0,18125.0,0.3176,864.0
+Maryville College,TN,Private nonprofit,55706.0,20677.0,50006.0,25000.0,0.4816,1005.0
+University of Memphis,TN,Public,25805.0,12192.0,52227.0,22750.0,0.5289,12701.0
+Middle Tennessee State University,TN,Public,24577.0,12562.0,52702.0,18057.0,0.536,16301.0
+Rhodes College,TN,Private nonprofit,73874.0,28776.0,79506.0,19500.0,0.8124,1836.0
+The University of the South,TN,Private nonprofit,74398.0,31931.0,72175.0,21250.0,0.7862,1607.0
+Southern Adventist University,TN,Private nonprofit,41335.0,25979.0,58780.0,22750.0,0.5644,2773.0
+Tennessee Wesleyan University,TN,Private nonprofit,40873.0,14965.0,53474.0,20000.0,0.4872,846.0
+The University of Tennessee-Chattanooga,TN,Public,26951.0,15026.0,56442.0,18500.0,0.5584,10074.0
+The University of Tennessee-Knoxville,TN,Public,35064.0,18314.0,65090.0,18750.0,0.7447,30418.0
+The University of Tennessee-Martin,TN,Public,24017.0,10211.0,48116.0,19500.0,0.5143,4866.0
+Tennessee State University,TN,Public,25814.0,12154.0,47151.0,24250.0,0.3403,4848.0
+Tennessee Technological University,TN,Public,29486.0,16830.0,52901.0,17150.0,0.5604,8698.0
+Trevecca Nazarene University,TN,Private nonprofit,42813.0,19828.0,56862.0,19500.0,0.5128,1737.0
+Tusculum University,TN,Private nonprofit,44535.0,20508.0,48636.0,22482.0,0.3854,785.0
+Union University,TN,Private nonprofit,57191.0,22995.0,58910.0,22500.0,0.7477,1607.0
+Vanderbilt University,TN,Private nonprofit,94142.0,15497.0,99080.0,15000.0,0.9262,7208.0
+Abilene Christian University,TX,Private nonprofit,63262.0,27943.0,61376.0,20500.0,0.547,3195.0
+Angelo State University,TX,Public,23621.0,13394.0,51945.0,18564.0,0.4518,5643.0
+Arlington Baptist University,TX,Private nonprofit,38239.0,30957.0,46558.0,24849.0,0.3333,284.0
+Austin College,TX,Private nonprofit,65405.0,20077.0,62064.0,24000.0,0.6552,1165.0
+Baylor University,TX,Private nonprofit,78816.0,44441.0,72408.0,19500.0,0.8226,14785.0
+Concordia University Texas,TX,Private nonprofit,38703.0,26128.0,64677.0,23475.0,0.4316,1185.0
+Texas A & M University-Corpus Christi,TX,Public,24197.0,13843.0,55480.0,20000.0,0.3825,8034.0
+Dallas Baptist University,TX,Private nonprofit,55814.0,25954.0,58159.0,18000.0,0.5972,2403.0
+Dallas Christian College,TX,Private nonprofit,37411.0,26141.0,46823.0,21063.0,0.2353,224.0
+University of Dallas,TX,Private nonprofit,71737.0,68064.0,64930.0,22250.0,0.6649,1403.0
+East Texas Baptist University,TX,Private nonprofit,44797.0,23414.0,51124.0,21799.0,0.4522,1352.0
+Texas A&M University-Texarkana,TX,Public,24386.0,16934.0,49427.0,20000.0,0.2864,1982.0
+East Texas A&M University,TX,Public,24223.0,13974.0,52631.0,18349.0,0.4051,9912.0
+Hardin-Simmons University,TX,Private nonprofit,48315.0,19731.0,56313.0,22500.0,0.4447,1283.0
+Houston Christian University,TX,Private nonprofit,51936.0,19294.0,60634.0,22021.0,0.4791,2886.0
+University of Houston-Clear Lake,TX,Public,24931.0,11852.0,61521.0,17928.0,0.4549,6078.0
+University of Houston-Downtown,TX,Public,18864.0,9828.0,57404.0,18750.0,0.3047,12555.0
+Texas A&M University-Victoria,TX,Public,21353.0,8115.0,55871.0,18750.0,0.2168,2513.0
+University of Houston,TX,Public,23250.0,11439.0,68423.0,17250.0,0.6567,38380.0
+Howard Payne University,TX,Private nonprofit,49166.0,26563.0,49434.0,23125.0,0.3388,713.0
+Huston-Tillotson University,TX,Private nonprofit,37764.0,32089.0,46645.0,,0.3529,1005.0
+University of the Incarnate Word,TX,Private nonprofit,49626.0,17483.0,60110.0,25000.0,0.5294,4440.0
+Jarvis Christian University,TX,Private nonprofit,25280.0,12317.0,37810.0,23250.0,0.2333,577.0
+Lamar University,TX,Public,21777.0,7984.0,53857.0,21875.0,0.3938,8150.0
+Texas A & M International University,TX,Public,14117.0,336.0,51325.0,14500.0,0.4879,6667.0
+LeTourneau University,TX,Private nonprofit,53044.0,26985.0,61644.0,23250.0,0.6183,1468.0
+Lubbock Christian University,TX,Private nonprofit,44754.0,26595.0,54710.0,21689.0,0.4982,1252.0
+University of Mary Hardin-Baylor,TX,Private nonprofit,49491.0,29143.0,59613.0,25000.0,0.4677,2759.0
+McMurry University,TX,Private nonprofit,45332.0,19021.0,53830.0,26000.0,0.4235,1176.0
+Midwestern State University,TX,Public,23601.0,11793.0,59560.0,21375.0,0.4191,4087.0
+University of North Texas,TX,Public,27413.0,15358.0,59434.0,18000.0,0.629,34341.0
+Our Lady of the Lake University,TX,Private nonprofit,42524.0,15176.0,53299.0,21898.0,0.4364,1066.0
+The University of Texas Rio Grande Valley,TX,Public,17358.0,4858.0,52947.0,12250.0,0.5474,28666.0
+Paul Quinn College,TX,Private nonprofit,24449.0,14147.0,37049.0,17716.0,0.2808,620.0
+Prairie View A & M University,TX,Public,26555.0,13638.0,49183.0,25450.0,0.4626,8877.0
+Rice University,TX,Private nonprofit,87824.0,11164.0,90773.0,13000.0,0.9531,4776.0
+Saint Edward's University,TX,Private nonprofit,67783.0,26034.0,64695.0,21500.0,0.5727,2493.0
+University of St Thomas,TX,Private nonprofit,43329.0,15446.0,64410.0,18000.0,0.6726,3220.0
+Sam Houston State University,TX,Public,25474.0,14788.0,56877.0,21000.0,0.5553,17743.0
+Schreiner University,TX,Private nonprofit,50589.0,21252.0,54990.0,24895.0,0.4466,1053.0
+St. Mary's University,TX,Private nonprofit,48956.0,17775.0,59258.0,22000.0,0.5827,1951.0
+Southern Methodist University,TX,Private nonprofit,88892.0,39816.0,90037.0,18750.0,0.8274,7277.0
+Nelson University,TX,Private nonprofit,42133.0,26425.0,46684.0,23500.0,0.373,1479.0
+Southwestern University,TX,Private nonprofit,71580.0,29435.0,63314.0,23250.0,0.7381,1440.0
+Stephen F Austin State University,TX,Public,28762.0,15928.0,54376.0,21000.0,0.5516,8728.0
+Texas State University,TX,Public,28347.0,16660.0,60523.0,19500.0,0.5495,36177.0
+Southwestern Adventist University,TX,Private nonprofit,36410.0,12685.0,57299.0,25547.0,0.4954,570.0
+Sul Ross State University,TX,Public,26578.0,16255.0,47311.0,16500.0,0.3026,1396.0
+Tarleton State University,TX,Public,24352.0,20525.0,56673.0,18750.0,0.4917,12673.0
+Texas A&M University-Kingsville,TX,Public,25774.0,13212.0,55340.0,21887.0,0.4501,4748.0
+Texas A&M University-College Station,TX,Public,32796.0,21527.0,78159.0,17350.0,0.8453,59615.0
+The University of Texas at Arlington,TX,Public,28446.0,17040.0,72508.0,17534.0,0.5085,32294.0
+The University of Texas at Austin,TX,Public,31951.0,18554.0,81694.0,19000.0,0.892,42855.0
+The University of Texas at Dallas,TX,Public,29648.0,15271.0,74762.0,17567.0,0.7917,21751.0
+The University of Texas at El Paso,TX,Public,17245.0,6803.0,54599.0,16000.0,0.5077,21005.0
+The University of Texas at Tyler,TX,Public,25905.0,13476.0,58622.0,17000.0,0.4714,7440.0
+Texas Christian University,TX,Private nonprofit,83017.0,35045.0,77334.0,21500.0,0.8554,11026.0
+Texas College,TX,Private nonprofit,20530.0,12603.0,36030.0,26500.0,0.1596,614.0
+Texas Lutheran University,TX,Private nonprofit,50494.0,20716.0,59747.0,25000.0,0.5239,1304.0
+The University of Texas Permian Basin,TX,Public,21032.0,5070.0,61557.0,19000.0,0.4079,3911.0
+The University of Texas at San Antonio,TX,Public,24626.0,9872.0,60704.0,20000.0,0.5165,30580.0
+Texas Southern University,TX,Public,26907.0,16494.0,46064.0,26864.0,0.2387,6844.0
+Texas Tech University,TX,Public,28525.0,19890.0,67143.0,19500.0,0.6989,32394.0
+Texas Wesleyan University,TX,Private nonprofit,50549.0,16168.0,56582.0,19500.0,0.3841,1741.0
+Texas Woman's University,TX,Public,22820.0,11060.0,59216.0,18919.0,0.489,8767.0
+Trinity University,TX,Private nonprofit,70775.0,22962.0,79620.0,20500.0,0.8214,2505.0
+Wayland Baptist University,TX,Private nonprofit,38355.0,23421.0,55564.0,22000.0,0.1972,2041.0
+West Texas A & M University,TX,Public,24705.0,17909.0,55024.0,18750.0,0.505,6917.0
+Wiley University,TX,Private nonprofit,19319.0,6125.0,37604.0,20050.0,0.3973,712.0
+Brigham Young University,UT,Private nonprofit,21235.0,13397.0,80228.0,12250.0,0.8075,32952.0
+Brigham Young University-Hawaii,HI,Private nonprofit,22820.0,17608.0,57487.0,11000.0,0.4928,2889.0
+Southern Utah University,UT,Public,19527.0,10887.0,53925.0,13000.0,0.618,9289.0
+Utah State University,UT,Public,21204.0,12644.0,59177.0,15000.0,0.6043,20272.0
+University of Utah,UT,Public,37284.0,27314.0,72729.0,16878.0,0.6627,27264.0
+Westminster University,UT,Private nonprofit,58551.0,22516.0,70627.0,20833.0,0.636,823.0
+Bennington College,VT,Private nonprofit,90170.0,31507.0,46253.0,25500.0,0.7035,780.0
+Champlain College,VT,Private nonprofit,69043.0,39617.0,60573.0,26000.0,0.6058,2752.0
+Middlebury College,VT,Private nonprofit,88850.0,32102.0,85077.0,18437.0,0.9252,2738.0
+Norwich University,VT,Private nonprofit,68714.0,26676.0,78407.0,24429.0,0.6104,2428.0
+Saint Michael's College,VT,Private nonprofit,70748.0,29915.0,66136.0,25405.0,0.7066,1092.0
+Sterling College,VT,Private nonprofit,54410.0,31387.0,38978.0,14000.0,0.3333,50.0
+Vermont State University,VT,Public,31024.0,22358.0,54163.0,12000.0,0.4144,3590.0
+University of Vermont,VT,Public,36569.0,20277.0,68368.0,19500.0,0.8121,11743.0
+Averett University,VA,Private nonprofit,54840.0,27629.0,56693.0,25000.0,0.4487,1231.0
+Bluefield University,VA,Private nonprofit,39316.0,18402.0,52571.0,21814.0,0.2604,614.0
+Bridgewater College,VA,Private nonprofit,33270.0,21083.0,58669.0,25625.0,0.5216,1400.0
+William & Mary,VA,Public,45606.0,18880.0,83488.0,17417.0,0.8834,7055.0
+Regent University,VA,Private nonprofit,32617.0,18135.0,51408.0,25000.0,0.5177,4729.0
+Christopher Newport University,VA,Public,34411.0,22310.0,65183.0,20000.0,0.747,4365.0
+Emory & Henry University,VA,Private nonprofit,56003.0,24031.0,52287.0,23000.0,0.5776,1078.0
+Eastern Mennonite University,VA,Private nonprofit,58346.0,24731.0,58912.0,24124.0,0.6029,754.0
+Ferrum College,VA,Private nonprofit,44441.0,18070.0,48617.0,26000.0,0.3521,699.0
+George Mason University,VA,Public,26910.0,14697.0,79923.0,18500.0,0.6648,27752.0
+Hampden-Sydney College,VA,Private nonprofit,75676.0,26626.0,76989.0,25000.0,0.6272,946.0
+Hampton University,VA,Private nonprofit,48132.0,26214.0,63602.0,21843.0,0.6425,3727.0
+Hollins University,VA,Private nonprofit,60539.0,21238.0,48102.0,27000.0,0.6865,665.0
+James Madison University,VA,Public,33276.0,23550.0,75482.0,19500.0,0.796,20888.0
+Liberty University,VA,Private nonprofit,43989.0,29235.0,46945.0,22500.0,0.639,50012.0
+Longwood University,VA,Public,36596.0,20773.0,55653.0,23250.0,0.6201,3015.0
+University of Lynchburg,VA,Private nonprofit,52277.0,27198.0,57425.0,25118.0,0.587,1577.0
+Mary Baldwin University,VA,Private nonprofit,48338.0,15810.0,48703.0,25000.0,0.3833,1090.0
+University of Mary Washington,VA,Public,30969.0,23821.0,66028.0,18688.0,0.6453,3566.0
+Marymount University,VA,Private nonprofit,58986.0,28521.0,74032.0,21500.0,0.5476,1810.0
+Norfolk State University,VA,Public,26026.0,12180.0,49237.0,26000.0,0.3525,5392.0
+Old Dominion University,VA,Public,29739.0,12913.0,60482.0,22956.0,0.4309,17514.0
+Radford University,VA,Public,29771.0,13701.0,59134.0,20500.0,0.4799,6038.0
+Randolph-Macon College,VA,Private nonprofit,64841.0,28145.0,64714.0,27000.0,0.7425,1639.0
+Randolph College,VA,Private nonprofit,46845.0,22101.0,53121.0,26812.0,0.5385,658.0
+University of Richmond,VA,Private nonprofit,84768.0,34256.0,92362.0,21500.0,0.8654,2980.0
+Roanoke College,VA,Private nonprofit,55155.0,25867.0,64329.0,27000.0,0.6438,1767.0
+Shenandoah University,VA,Private nonprofit,53540.0,31149.0,66382.0,23250.0,0.6282,2116.0
+Southern Virginia University,VA,Private nonprofit,35746.0,23913.0,53570.0,20000.0,0.3971,936.0
+Strayer University-Virginia,VA,Private for-profit,25158.0,17213.0,44016.0,39188.0,0.2143,1668.0
+Sweet Briar College,VA,Private nonprofit,45462.0,21856.0,54986.0,23500.0,0.5728,443.0
+University of Virginia's College at Wise,VA,Public,26683.0,5869.0,50389.0,17009.0,0.4377,1101.0
+Virginia Polytechnic Institute and State University,VA,Public,39324.0,25808.0,88716.0,20500.0,0.8587,30923.0
+Virginia Commonwealth University,VA,Public,43180.0,25037.0,64442.0,19500.0,0.6466,20753.0
+University of Virginia-Main Campus,VA,Public,41803.0,18056.0,96468.0,15000.0,0.9441,17597.0
+Virginia Military Institute,VA,Public,35706.0,15585.0,85178.0,23000.0,0.7175,1527.0
+Virginia University of Lynchburg,VA,Private nonprofit,27689.0,20240.0,31749.0,24625.0,0.35,125.0
+Virginia State University,VA,Public,28338.0,14893.0,49358.0,25000.0,0.3709,5074.0
+Virginia Union University,VA,Private nonprofit,35614.0,29932.0,44816.0,26000.0,0.2836,1203.0
+Virginia Wesleyan University,VA,Private nonprofit,51940.0,20237.0,54390.0,25000.0,0.4503,1256.0
+Washington and Lee University,VA,Private nonprofit,91700.0,25279.0,102966.0,17500.0,0.9589,1881.0
+Central Washington University,WA,Public,32722.0,21201.0,65578.0,19170.0,0.5099,7833.0
+Eastern Washington University,WA,Public,24879.0,13647.0,62463.0,18000.0,0.4317,6222.0
+The Evergreen State College,WA,Public,30051.0,25154.0,48982.0,19500.0,0.379,2160.0
+Gonzaga University,WA,Private nonprofit,75461.0,32750.0,89110.0,21500.0,0.8545,5198.0
+Heritage University,WA,Private nonprofit,30168.0,10747.0,58279.0,15000.0,0.5667,812.0
+Northwest University,WA,Private nonprofit,50432.0,22071.0,61237.0,21500.0,0.6684,645.0
+Pacific Lutheran University,WA,Private nonprofit,64176.0,20652.0,71109.0,19500.0,0.6409,2401.0
+University of Puget Sound,WA,Private nonprofit,83875.0,32507.0,71918.0,23250.0,0.6927,1594.0
+Saint Martin's University,WA,Private nonprofit,61772.0,25472.0,70376.0,22500.0,0.5582,1158.0
+Seattle Pacific University,WA,Private nonprofit,60283.0,25419.0,71277.0,22827.0,0.5521,1762.0
+Seattle University,WA,Private nonprofit,75128.0,34324.0,84728.0,19500.0,0.7072,4062.0
+Walla Walla University,WA,Private nonprofit,49362.0,27786.0,67140.0,25712.0,0.5768,1252.0
+Washington State University,WA,Public,27914.0,13462.0,72280.0,18500.0,0.6285,21099.0
+University of Washington-Seattle Campus,WA,Public,33524.0,13663.0,83105.0,14008.0,0.8525,31942.0
+Western Washington University,WA,Public,30422.0,19963.0,64305.0,16500.0,0.6082,13544.0
+Whitman College,WA,Private nonprofit,81247.0,29486.0,70813.0,18525.0,0.7529,1531.0
+Whitworth University,WA,Private nonprofit,69684.0,23009.0,64055.0,25000.0,0.6691,1858.0
+Appalachian Bible College,WV,Private nonprofit,31632.0,12190.0,42377.0,,0.6757,193.0
+Bethany College,WV,Private nonprofit,54890.0,22129.0,49672.0,27000.0,0.4762,614.0
+Bluefield State University,WV,Public,22066.0,11130.0,45981.0,21000.0,0.3351,1042.0
+University of Charleston,WV,Private nonprofit,48156.0,23793.0,56207.0,18250.0,0.4672,2259.0
+Concord University,WV,Public,22143.0,9484.0,45054.0,18087.0,0.4071,1504.0
+Davis & Elkins College,WV,Private nonprofit,46429.0,18810.0,45563.0,26383.0,0.4366,661.0
+Fairmont State University,WV,Public,20285.0,10060.0,49370.0,18392.0,0.5539,2590.0
+Glenville State University,WV,Public,24636.0,10748.0,44924.0,19500.0,0.2886,1096.0
+Marshall University,WV,Public,24443.0,7341.0,49444.0,21625.0,0.5288,7266.0
+Salem University,WV,Private for-profit,19978.0,12107.0,42194.0,23750.0,0.2426,892.0
+Shepherd University,WV,Public,18628.0,7940.0,54833.0,18978.0,0.5031,2344.0
+West Virginia State University,WV,Public,21391.0,13624.0,43742.0,20610.0,0.3633,1321.0
+West Liberty University,WV,Public,26835.0,8988.0,49503.0,22717.0,0.5208,1511.0
+West Virginia University Institute of Technology,WV,Public,28440.0,14942.0,62910.0,21146.0,0.2987,981.0
+West Virginia Wesleyan College,WV,Private nonprofit,51054.0,17980.0,55361.0,26837.0,0.5,954.0
+West Virginia University,WV,Public,31716.0,18020.0,62910.0,21146.0,0.6595,17385.0
+Wheeling University,WV,Private nonprofit,44615.0,11350.0,64655.0,23000.0,0.359,589.0
+Alverno College,WI,Private nonprofit,48263.0,20863.0,59707.0,26100.0,0.4706,631.0
+Bellin College,WI,Private nonprofit,40038.0,34765.0,78273.0,17988.0,0.6667,372.0
+Beloit College,WI,Private nonprofit,73840.0,23216.0,59443.0,26000.0,0.749,926.0
+Carroll University,WI,Private nonprofit,55204.0,24205.0,64501.0,27000.0,0.6907,2523.0
+Carthage College,WI,Private nonprofit,52599.0,26444.0,59594.0,23250.0,0.6584,2660.0
+Concordia University-Wisconsin,WI,Private nonprofit,55653.0,29239.0,61992.0,24656.0,0.6736,2197.0
+Edgewood University,WI,Private nonprofit,52534.0,28487.0,64869.0,24250.0,0.6058,1107.0
+Lakeland University,WI,Private nonprofit,49071.0,23722.0,61368.0,25000.0,0.3797,1212.0
+Lawrence University,WI,Private nonprofit,71697.0,22758.0,59025.0,27000.0,0.7868,1396.0
+Maranatha Baptist University,WI,Private nonprofit,39618.0,27172.0,46953.0,14646.0,0.656,541.0
+Marian University,WI,Private nonprofit,47431.0,22225.0,59860.0,22722.0,0.4645,1010.0
+Marquette University,WI,Private nonprofit,69833.0,30561.0,83810.0,21500.0,0.7938,7660.0
+Milwaukee Institute of Art & Design,WI,Private nonprofit,55312.0,28129.0,47843.0,27000.0,0.586,837.0
+Milwaukee School of Engineering,WI,Private nonprofit,66281.0,27027.0,92761.0,27000.0,0.6334,2654.0
+Mount Mary University,WI,Private nonprofit,48552.0,17607.0,54273.0,24990.0,0.536,631.0
+Ripon College,WI,Private nonprofit,65019.0,20233.0,55453.0,27000.0,0.5928,688.0
+Saint Norbert College,WI,Private nonprofit,60626.0,28822.0,62317.0,24525.0,0.7239,1662.0
+Viterbo University,WI,Private nonprofit,48661.0,22797.0,65641.0,24350.0,0.6277,1249.0
+University of Wisconsin-Whitewater,WI,Public,19211.0,13737.0,59084.0,20688.0,0.5562,9405.0
+University of Wisconsin-Eau Claire,WI,Public,21956.0,16133.0,62438.0,19500.0,0.6201,8895.0
+University of Wisconsin-Green Bay,WI,Public,19131.0,12211.0,56401.0,19000.0,0.4667,6341.0
+University of Wisconsin-La Crosse,WI,Public,21006.0,17064.0,65850.0,20500.0,0.7101,9277.0
+Wisconsin Lutheran College,WI,Private nonprofit,50396.0,24761.0,68940.0,23393.0,0.6573,943.0
+University of Wisconsin-Oshkosh,WI,Public,22379.0,16492.0,59275.0,20888.0,0.4716,6877.0
+University of Wisconsin-Parkside,WI,Public,18226.0,11233.0,57115.0,19500.0,0.4125,2844.0
+University of Wisconsin-Stout,WI,Public,23477.0,17533.0,62537.0,22887.0,0.525,5842.0
+University of Wisconsin-Superior,WI,Public,21350.0,13843.0,51871.0,20928.0,0.4338,1807.0
+University of Wisconsin-Madison,WI,Public,29943.0,16600.0,80330.0,18375.0,0.8975,36902.0
+University of Wisconsin-Milwaukee,WI,Public,24000.0,15625.0,59268.0,21875.0,0.4999,16758.0
+University of Wisconsin-Platteville,WI,Public,21759.0,15451.0,66166.0,20500.0,0.5834,5837.0
+University of Wisconsin-River Falls,WI,Public,20950.0,14703.0,56914.0,19500.0,0.5796,4205.0
+University of Wisconsin-Stevens Point,WI,Public,21430.0,14757.0,54432.0,20664.0,0.5338,7306.0
+University of Wyoming,WY,Public,26104.0,13647.0,62764.0,15967.0,0.6135,7944.0
+University of Guam,GU,Public,16259.0,9051.0,40364.0,19164.0,0.3932,2515.0
+Universidad Adventista de las Antillas,PR,Private nonprofit,15628.0,8562.0,34288.0,12100.0,0.4608,830.0
+Atlantic University,PR,Private nonprofit,12775.0,6021.0,27588.0,5500.0,0.5387,1451.0
+Universidad Central de Bayamon,PR,Private nonprofit,12982.0,3642.0,27514.0,8500.0,0.3598,539.0
+Albizu University-San Juan,PR,Private nonprofit,18385.0,9235.0,48006.0,5500.0,0.5946,728.0
+Caribbean University-Carolina,PR,Private nonprofit,18777.0,14600.0,27834.0,10500.0,0.3529,99.0
+Pontifical Catholic University of Puerto Rico-Arecibo,PR,Private nonprofit,16937.0,8875.0,30445.0,12500.0,0.4,273.0
+Pontifical Catholic University of Puerto Rico-Ponce,PR,Private nonprofit,18987.0,10578.0,30445.0,12500.0,0.4304,3874.0
+Universidad Teologica del Caribe,PR,Private nonprofit,11510.0,9045.0,20666.0,9000.0,0.1167,173.0
+Universidad Ana G. Mendez-Cupey Campus,PR,Private nonprofit,14557.0,6826.0,28331.0,16500.0,0.2972,4540.0
+Puerto Rico Conservatory of Music,PR,Public,15420.0,8025.0,30994.0,9250.0,,307.0
+Escuela de Artes Plasticas y Diseno de Puerto Rico,PR,Public,10858.0,7225.0,24622.0,,0.3962,466.0
+Inter American University of Puerto Rico-San German,PR,Private nonprofit,18388.0,11050.0,29577.0,6750.0,0.4598,2569.0
+Inter American University of Puerto Rico-Aguadilla,PR,Private nonprofit,16826.0,9252.0,28062.0,5500.0,0.4032,2906.0
+Inter American University of Puerto Rico-Arecibo,PR,Private nonprofit,18531.0,10910.0,28947.0,7500.0,0.3995,2220.0
+Inter American University of Puerto Rico-Barranquitas,PR,Private nonprofit,17684.0,10036.0,26284.0,5000.0,0.3788,937.0
+Inter American University of Puerto Rico-Metro,PR,Private nonprofit,17654.0,10081.0,36036.0,9500.0,0.3349,2607.0
+Inter American University of Puerto Rico-Ponce,PR,Private nonprofit,16860.0,9683.0,30335.0,7500.0,0.4207,2404.0
+Inter American University of Puerto Rico-Fajardo,PR,Private nonprofit,16913.0,9597.0,28660.0,6225.0,0.4388,1072.0
+Inter American University of Puerto Rico-Bayamon,PR,Private nonprofit,16865.0,9597.0,32838.0,6500.0,0.3576,3476.0
+University of Puerto Rico-Aguadilla,PR,Public,14850.0,7564.0,31231.0,5500.0,0.4443,1883.0
+University of Puerto Rico-Arecibo,PR,Public,19945.0,13088.0,33308.0,5500.0,0.5152,2669.0
+University of Puerto Rico,PR,Public,13536.0,9644.0,37789.0,5500.0,0.3537,2851.0
+University of Puerto Rico-Carolina,PR,Public,19478.0,12472.0,35146.0,5500.0,0.3951,2404.0
+University of Puerto Rico at Cayey,PR,Public,18191.0,10880.0,35022.0,5500.0,0.4214,2069.0
+University of Puerto Rico-Humacao,PR,Public,20046.0,12577.0,34452.0,5500.0,0.4972,2529.0
+University of Puerto Rico-Mayaguez,PR,Public,22508.0,14997.0,47912.0,8250.0,0.4673,9539.0
+University of Puerto Rico at Ponce,PR,Public,18049.0,10710.0,35162.0,5500.0,0.5049,2278.0
+University of Puerto Rico-Rio Piedras,PR,Public,18901.0,11860.0,38928.0,5500.0,0.497,8572.0
+Universidad Ana G. Mendez-Carolina Campus,PR,Private nonprofit,14787.0,7362.0,28770.0,14147.0,0.3012,4468.0
+Universidad del Sagrado Corazon,PR,Private nonprofit,19281.0,11772.0,35345.0,12750.0,0.4252,4442.0
+Universidad Politecnica de Puerto Rico,PR,Private nonprofit,21060.0,13797.0,50437.0,21700.0,0.2834,3594.0
+Pontifical Catholic University of Puerto Rico-Mayaguez,PR,Private nonprofit,17168.0,9655.0,30445.0,12500.0,0.3423,555.0
+Universidad Ana G. Mendez-Gurabo Campus,PR,Private nonprofit,15152.0,7531.0,30580.0,11000.0,0.3152,7868.0
+University of the Virgin Islands,VI,Public,18363.0,7071.0,43157.0,15000.0,0.2353,1518.0
+Stanford University,CA,Private nonprofit,92892.0,12307.0,125340.0,10750.0,0.9164,7554.0
+Purdue University-Main Campus,IN,Public,25610.0,14851.0,80082.0,18750.0,0.8403,44503.0
+Parker University,TX,Private nonprofit,43327.0,28806.0,56771.0,12500.0,0.8333,607.0
+St. John's College,NM,Private nonprofit,58018.0,22480.0,45537.0,20000.0,0.7027,368.0
+Mid-America Christian University,OK,Private nonprofit,35274.0,21544.0,46785.0,25000.0,0.3137,1666.0
+South University-Columbia,SC,Private for-profit,32317.0,25119.0,39314.0,26417.0,0.0556,450.0
+University of Massachusetts Global,CA,Public,39388.0,35957.0,68286.0,23000.0,0.0,4491.0
+New College of Florida,FL,Public,23976.0,8222.0,53164.0,12000.0,0.619,843.0
+Yeshivah Gedolah Rabbinical College,FL,Private nonprofit,19300.0,11983.0,49146.0,,0.0,60.0
+Caribbean University-Ponce,PR,Private nonprofit,18839.0,11630.0,27834.0,10500.0,0.3514,414.0
+Caribbean University-Vega Baja,PR,Private nonprofit,18089.0,11643.0,27834.0,10500.0,0.25,152.0
+California State University-San Marcos,CA,Public,23131.0,10939.0,67217.0,16000.0,0.549,14877.0
+Nossi College of Art and Design,TN,Private for-profit,26909.0,24518.0,36368.0,30312.0,0.4,247.0
+Yeshiva Gedolah Imrei Yosef D'spinka,NY,Private nonprofit,16533.0,7392.0,25247.0,,0.25,226.0
+Northwest College of Art & Design,WA,Private for-profit,38558.0,25900.0,39289.0,24163.0,0.4348,139.0
+University of Washington-Bothell Campus,WA,Public,30109.0,13802.0,83105.0,14008.0,0.6814,5457.0
+University of Washington-Tacoma Campus,WA,Public,28325.0,11900.0,83105.0,14008.0,0.6046,4185.0
+Provo College,UT,Private for-profit,30594.0,26863.0,42739.0,30144.0,0.6129,669.0
+Beacon College,FL,Private nonprofit,74249.0,55698.0,28501.0,23875.0,0.7143,506.0
+Everglades University,FL,Private nonprofit,42612.0,29825.0,48760.0,40874.0,0.5828,2789.0
+College of Biblical Studies-Houston,TX,Private nonprofit,22131.0,14069.0,44156.0,22772.0,0.8571,419.0
+Soka University of America,CA,Private nonprofit,58536.0,16383.0,66071.0,20500.0,0.8796,484.0
+World Mission University,CA,Private nonprofit,22605.0,15820.0,24300.0,,0.5909,207.0
+Schiller International University,FL,Private for-profit,33560.0,28612.0,48333.0,,0.2857,43.0
+Rabbinical College of Ohr Shimon Yisroel,NY,Private nonprofit,41425.0,33034.0,23663.0,,0.45,232.0
+California State University-Monterey Bay,CA,Public,27498.0,13861.0,63891.0,11000.0,0.6255,6819.0
+Capella University,MN,Private for-profit,23267.0,18458.0,51254.0,9772.0,0.1818,18364.0
+Trine University-Regional/Non-Traditional Campuses,IN,Private nonprofit,23326.0,18728.0,65360.0,25500.0,,607.0
+Messenger College,TX,Private nonprofit,32350.0,26367.0,42383.0,,0.0,24.0
+Yeshiva D'monsey Rabbinical College,NY,Private nonprofit,21819.0,9068.0,28704.0,,0.0417,84.0
+Arizona College of Nursing-Tempe,AZ,Private for-profit,45494.0,32411.0,41223.0,28791.0,0.8333,1202.0
+Eastern International College-Jersey City,NJ,Private for-profit,23033.0,17756.0,46594.0,35249.0,0.5584,495.0
+Embry-Riddle Aeronautical University-Worldwide,FL,Private nonprofit,25339.0,19741.0,92069.0,22000.0,0.3061,9139.0
+Strayer University-Maryland,MD,Private for-profit,25158.0,17773.0,44016.0,39188.0,0.8,1043.0
+Western Governors University,UT,Private nonprofit,16919.0,12748.0,76999.0,12500.0,0.5037,155088.0
+California Aeronautical University,CA,Private for-profit,53695.0,46310.0,46345.0,28667.0,0.4091,347.0
+Florida Gulf Coast University,FL,Public,21260.0,11555.0,59401.0,16289.0,0.5691,13874.0
+University of Connecticut-Waterbury Campus,CT,Public,23366.0,8616.0,82098.0,20313.0,0.5128,733.0
+University of Connecticut-Avery Point,CT,Public,23738.0,11184.0,82098.0,20313.0,0.5052,454.0
+University of Connecticut-Stamford,CT,Public,30439.0,14226.0,82098.0,20313.0,0.554,2432.0
+American InterContinental University-Atlanta,GA,Private for-profit,25806.0,18490.0,42612.0,30084.0,0.1667,734.0
+The King's University,TX,Private nonprofit,31701.0,27363.0,47308.0,28125.0,0.5263,251.0
+Pillar College,NJ,Private nonprofit,35552.0,2785.0,46968.0,20000.0,0.36,498.0
+Oregon State University-Cascades Campus,OR,Public,34044.0,17853.0,67894.0,20500.0,0.5444,1044.0
+Nevada State University,NV,Public,24443.0,14262.0,58648.0,18177.0,0.3645,3762.0
+California State University-Channel Islands,CA,Public,23432.0,8534.0,66328.0,14000.0,0.5493,5013.0
+Franklin W Olin College of Engineering,MA,Private nonprofit,89669.0,17057.0,138832.0,13845.0,0.9643,377.0
+University of Arkansas Grantham,AR,Public,17558.0,9940.0,40581.0,19588.0,0.4991,2833.0
+Faith International University,WA,Private nonprofit,31435.0,22817.0,57111.0,17749.0,0.2857,276.0
+West Coast University-Texas,TX,Private for-profit,57779.0,52439.0,104344.0,33500.0,0.0,2673.0
+DigiPen Institute of Technology,WA,Private for-profit,59680.0,42428.0,80038.0,27000.0,0.6324,995.0
+Dewey University-Hato Rey,PR,Private nonprofit,12180.0,3836.0,22263.0,11080.0,0.6154,244.0
+American InterContinental University System,AZ,Private for-profit,23414.0,16125.0,42612.0,30084.0,0.098,7111.0
+American InterContinental University-Houston,TX,Private for-profit,18213.0,9618.0,42612.0,30084.0,0.125,94.0
+University of California-Merced,CA,Public,41008.0,11583.0,69352.0,13500.0,0.6767,8372.0
+Central Methodist University-College of Graduate and Extended Studies,MO,Private nonprofit,23474.0,16532.0,53620.0,18500.0,0.0,2092.0
+Ave Maria University,FL,Private nonprofit,47931.0,25893.0,56969.0,20500.0,0.5323,1298.0
+Ecclesia College,AR,Private nonprofit,33106.0,20458.0,43102.0,15875.0,0.325,108.0
+Los Angeles College of Music,CA,Private for-profit,52086.0,42853.0,44742.0,29094.0,0.4655,227.0
+Uta Mesivta of Kiryas Joel,NY,Private nonprofit,22723.0,5694.0,31810.0,,0.7143,2957.0
+Harrisburg University of Science and Technology,PA,Private nonprofit,35865.0,14133.0,48379.0,25975.0,0.3575,615.0
+Georgia Gwinnett College,GA,Public,17523.0,10080.0,48736.0,19000.0,0.2177,11344.0
+SUM Bible College and Theological Seminary,CA,Private nonprofit,27374.0,24260.0,41407.0,21334.0,0.8644,198.0
+American Public University System,WV,Private for-profit,19691.0,11116.0,41320.0,18277.0,0.6012,40074.0
+Gnomon,CA,Private for-profit,62565.0,57379.0,124464.0,28166.0,0.9,294.0
+Bais Medrash Toras Chesed,NJ,Private nonprofit,14000.0,6306.0,84562.0,,0.5926,132.0
+South University-Tampa,FL,Private for-profit,34692.0,27200.0,39314.0,26417.0,0.1429,388.0
+Columbia Southern University,AL,Private for-profit,20771.0,15834.0,66855.0,18888.0,0.3042,12176.0
+Yeshivas Be'er Yitzchok,NJ,Private nonprofit,28662.0,13395.0,67184.0,,0.5,90.0
+Yeshiva Toras Chaim,NJ,Private nonprofit,18385.0,1391.0,35583.0,,0.1698,227.0
+Talmudical Seminary of Bobov,NY,Private nonprofit,16000.0,5091.0,19545.0,,0.5,602.0
+Strayer University-North Carolina,NC,Private for-profit,25158.0,18695.0,44016.0,39188.0,0.0,2671.0
+Chamberlain University-Illinois,IL,Private for-profit,45932.0,38263.0,96897.0,19746.0,0.35,14027.0
+Chamberlain University-Ohio,OH,Private for-profit,44371.0,35431.0,96897.0,19746.0,0.2727,257.0
+Chamberlain University-Arizona,AZ,Private for-profit,47505.0,41882.0,96897.0,19746.0,0.4,693.0
+Ottawa University-Online,KS,Private nonprofit,34066.0,13986.0,59897.0,22000.0,,259.0
+Aspen University,AZ,Private for-profit,23790.0,12698.0,49178.0,28125.0,0.0932,1466.0
+Yeshiva of Machzikai Hadas,NY,Private nonprofit,27905.0,14533.0,25792.0,,0.6778,515.0
+Providence Christian College,CA,Private nonprofit,54112.0,22839.0,39140.0,,0.2286,168.0
+Polytechnic University of Puerto Rico-Orlando,FL,Private nonprofit,36077.0,30412.0,50437.0,21700.0,0.6,96.0
+University of Minnesota-Rochester,MN,Public,31092.0,13319.0,74314.0,19350.0,0.6074,568.0
+Chamberlain University-Florida,FL,Private for-profit,44371.0,37672.0,96897.0,19746.0,0.0,821.0
+Pacific Rim Christian University,HI,Private nonprofit,26439.0,20718.0,51712.0,,0.4,129.0
+West Coast University-Anaheim-Orange County,CA,Private for-profit,40470.0,36240.0,104344.0,33500.0,0.25,3192.0
+West Coast University-Ontario,CA,Private for-profit,52946.0,47072.0,104344.0,33500.0,0.5556,2671.0
+Strayer University-Georgia,GA,Private for-profit,25158.0,17159.0,44016.0,39188.0,0.3333,4299.0
+Strayer University-South Carolina,SC,Private for-profit,25158.0,22593.0,44016.0,39188.0,0.3333,1868.0
+South University-Richmond,VA,Private for-profit,36528.0,27241.0,39314.0,26417.0,0.0,232.0
+South University-Virginia Beach,VA,Private for-profit,36528.0,24432.0,39314.0,26417.0,0.1667,240.0
+Touro University Worldwide,CA,Private nonprofit,22645.0,12436.0,77590.0,22000.0,0.3704,454.0
+Herzing University-Kenosha,WI,Private nonprofit,28444.0,20276.0,44255.0,17676.0,0.6667,522.0
+Texas A&M University-San Antonio,TX,Public,24088.0,14298.0,58747.0,20457.0,0.3444,6599.0
+Strayer University-Global Region,DC,Private for-profit,25158.0,23175.0,44016.0,39188.0,0.1,9376.0
+Johnson & Wales University-Online,RI,Private nonprofit,28723.0,22071.0,53928.0,27000.0,0.0,2202.0
+Chamberlain University-Virginia,VA,Private for-profit,47505.0,44710.0,96897.0,19746.0,0.0,557.0
+Crestpoint University,AZ,Private for-profit,15683.0,9975.0,44444.0,30147.0,0.3626,385.0
+New York Film Academy,CA,Private for-profit,61617.0,38975.0,43578.0,25250.0,0.51,849.0
+North American University,TX,Private nonprofit,32700.0,24462.0,38538.0,15558.0,0.4082,609.0
+John Paul the Great Catholic University,CA,Private nonprofit,44396.0,24156.0,53787.0,23375.0,0.6575,286.0
+University of Connecticut-Hartford Campus,CT,Public,28430.0,13961.0,82098.0,20313.0,0.6553,1525.0
+Ottawa University-Surprise,AZ,Private nonprofit,55808.0,36118.0,59897.0,22000.0,0.2381,836.0
+Chamberlain University-Missouri,MO,Private for-profit,44371.0,38850.0,96897.0,19746.0,0.5,284.0
+Chamberlain University-Texas,TX,Private for-profit,44776.0,39545.0,96897.0,19746.0,0.4,2270.0
+South University-Savannah Online,GA,Private for-profit,35821.0,26966.0,39314.0,26417.0,0.0855,6433.0
+Criswell College,TX,Private nonprofit,30456.0,4570.0,50531.0,,0.4091,132.0
+Chamberlain University-Georgia,GA,Private for-profit,44911.0,38666.0,96897.0,19746.0,0.5,1940.0
+Chamberlain University-Indiana,IN,Private for-profit,44371.0,42158.0,96897.0,19746.0,0.0,144.0
+Be'er Yaakov Talmudic Seminary,NY,Private nonprofit,18999.0,3313.0,25457.0,,0.5385,765.0
+Colorado State University Global,CO,Public,24046.0,17732.0,82047.0,23000.0,0.2632,6563.0
+Pennsylvania State University-World Campus,PA,Public,21968.0,12651.0,71762.0,24500.0,0.5094,7877.0
+South University-Austin,TX,Private for-profit,36528.0,27423.0,39314.0,26417.0,0.0769,211.0
+Midwives College of Utah,UT,Private nonprofit,66290.0,61360.0,56589.0,25337.0,0.5,234.0
+Grace Mission University,CA,Private nonprofit,10282.0,3148.0,22112.0,,0.3333,68.0
+South University-High Point,NC,Private for-profit,24596.0,18546.0,39314.0,26417.0,,67.0
+Augusta University,GA,Public,22794.0,12017.0,52071.0,20000.0,0.4818,5613.0
+Middle Georgia State University,GA,Public,19433.0,11448.0,48459.0,18000.0,0.2645,6574.0
+DeVry University-Georgia,GA,Private for-profit,43792.0,34523.0,51716.0,17038.0,0.5172,516.0
+DeVry University-Ohio,OH,Private for-profit,43792.0,33882.0,51716.0,17038.0,0.3636,210.0
+University of North Georgia,GA,Public,23315.0,14185.0,55822.0,16495.0,0.3799,16146.0
+Texas A&M University-Central Texas,TX,Public,17125.0,4107.0,55645.0,18750.0,0.3333,1750.0
+Arizona State University Digital Immersion,AZ,Public,32989.0,11594.0,69111.0,19151.0,,53782.0
+University of Florida-Online,FL,Public,18200.0,4336.0,78456.0,13496.0,0.8264,4627.0
+University of Phoenix-Arizona,AZ,Private for-profit,20728.0,13916.0,43584.0,26090.0,0.2072,85991.0
+West Coast University-Miami,FL,Private for-profit,44077.0,37774.0,104344.0,33500.0,0.25,961.0
+Bet Medrash Gadol Ateret Torah,NY,Private nonprofit,15720.0,3033.0,28059.0,,0.8276,112.0
+Kennesaw State University,GA,Public,25668.0,16325.0,62766.0,21500.0,0.5011,41254.0
+Milligan University,TN,Private nonprofit,53539.0,20000.0,57255.0,24549.0,0.6195,818.0
+Chamberlain University-Nevada,NV,Private for-profit,46695.0,41032.0,96897.0,19746.0,0.25,652.0
+Chamberlain University-New Jersey,NJ,Private for-profit,47505.0,42922.0,96897.0,19746.0,0.6,1226.0
+Arizona College of Nursing-Las Vegas,NV,Private for-profit,41581.0,32127.0,41223.0,28791.0,1.0,1222.0
+Husson University,ME,Private nonprofit,38081.0,22146.0,57136.0,27000.0,0.6014,2618.0
+Northwest University-Center for Online and Extended Education,WA,Private nonprofit,37710.0,31325.0,61237.0,21500.0,0.3636,405.0
+Indiana Wesleyan University-National & Global,IN,Private nonprofit,22317.0,17069.0,65692.0,23375.0,0.2779,6656.0
+Chamberlain University-North Carolina,NC,Private for-profit,45181.0,38460.0,96897.0,19746.0,0.0,202.0
+Chamberlain University-California,CA,Private for-profit,47991.0,46658.0,96897.0,19746.0,,751.0
+Carolina University,NC,Private nonprofit,35335.0,12351.0,37560.0,20500.0,0.2712,460.0
+Purdue University Northwest,IN,Public,16107.0,6223.0,58620.0,20250.0,0.4428,5671.0
+Chamberlain University-Louisiana,LA,Private for-profit,44371.0,36976.0,96897.0,19746.0,0.0,622.0
+Drury University-College of Continuing Professional Studies,MO,Private nonprofit,20401.0,12743.0,45136.0,22581.0,0.5094,632.0
+Indiana Institute of Technology-College of Professional Studies,IN,Private nonprofit,27179.0,20111.0,47076.0,26007.0,0.0952,2686.0
+Arizona College of Nursing-Dallas,TX,Private for-profit,40070.0,29318.0,41223.0,28791.0,0.0,588.0
+Arizona College of Nursing-Tampa,FL,Private for-profit,35734.0,21185.0,41223.0,28791.0,,335.0
+Arizona College of Nursing-Tucson,AZ,Private for-profit,41449.0,27016.0,41223.0,28791.0,,562.0
+Arizona College of Nursing-Phoenix,AZ,Private for-profit,48203.0,34629.0,41223.0,28791.0,,1229.0
+Provo College-Idaho Falls Campus,ID,Private for-profit,36028.0,32478.0,42739.0,30144.0,,257.0
+Eagle Gate College-Boise Campus,ID,Private for-profit,34078.0,32637.0,41796.0,30459.0,,594.0
+Abilene Christian University-Undergraduate Online,TX,Private nonprofit,24856.0,16741.0,61376.0,20500.0,0.0,1219.0
+Arizona College of Nursing-Salt Lake City,UT,Private for-profit,29818.0,17182.0,41223.0,28791.0,,306.0
+Evangel University-College of Online Learning,MO,Private nonprofit,26106.0,17753.0,47597.0,21516.0,0.1,240.0
+Arizona College of Nursing-Southfield,MI,Private for-profit,41701.0,32556.0,41223.0,28791.0,,594.0
+Arizona College of Nursing-Falls Church,VA,Private for-profit,45376.0,32806.0,41223.0,28791.0,,348.0
+Commonwealth University of Pennsylvania,PA,Public,26335.0,17468.0,56416.0,19500.0,0.5388,9210.0
+Pennsylvania Western University,PA,Public,26786.0,17839.0,51161.0,17250.0,0.5137,7451.0
+Arizona College of Nursing-Sarasota,FL,Private for-profit,42496.0,28197.0,41223.0,28791.0,,133.0
+Arizona College of Nursing-Aurora,CO,Private for-profit,39458.0,31514.0,41223.0,28791.0,,336.0
+Arizona College of Nursing-Cincinnati,OH,Private for-profit,47220.0,38464.0,41223.0,28791.0,,77.0
+Arizona College of Nursing-Cleveland,OH,Private for-profit,39106.0,24815.0,41223.0,28791.0,,164.0
+Arizona College of Nursing - Chesapeake,VA,Private for-profit,48113.0,35466.0,41223.0,28791.0,,149.0
+Arizona College of Nursing - Hartford,CT,Private for-profit,41351.0,34371.0,41223.0,28791.0,,334.0
+Arizona College of Nursing-St Louis,MO,Private for-profit,44515.0,33711.0,41223.0,28791.0,,131.0
+West Coast University-Los Angeles,CA,Private for-profit,54681.0,50529.0,104344.0,33500.0,0.5714,
