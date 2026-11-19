@@ -15,8 +15,8 @@
 
 <main>
 <section class="hook">
-  <p>Stanford lists a price of <b>$92.9K</b> a year. The average Stanford student pays <b>$12.3K</b>. That is less than the <b>$14.8K</b> a UCSD student pays.</p>
-  <p>So what does a college really cost you, and what do you get back? We plotted <b>1,682</b> four-year schools from the U.S. Department of Education College Scorecard to find out.</p>
+  <p>Stanford lists a price of <b>$92.9K</b> a year. Your average Stanford student pays <b>$12.3K</b>. A UCSD student pays <b>$14.8K</b>.</p>
+  <p>What does college cost you, and what do you get back? We plotted <b>1,682</b> four-year schools from the U.S. Department of Education College Scorecard to answer this.</p>
 </section>
 
 <section class="viz-section">
@@ -49,10 +49,10 @@
   <h2>Prototype writeup</h2>
 
   <h3>What have we done so far?</h3>
-  <p>We picked the College Scorecard institution-level file and cleaned it down to 1,682 schools that mainly award bachelor's degrees and report both cost and earnings. We kept nine columns per school: name, state, type, sticker cost, net price after aid, median earnings 10 years after entry, median debt, graduation rate, and enrollment. We built the main D3 scatterplot of cost against earnings, colored by school type. The chart has three working interactions: a toggle between sticker price and net price with an animated transition, checkboxes to filter by school type, and a search box that highlights one school and labels it. Hovering over any dot shows a tooltip with the school's cost, net price, earnings, debt, and graduation rate. We also wrote the opening hook and added reference annotations for UCSD and Stanford.</p>
+  <p>We cleaned the College Scorecard file down to 1,682 schools. Each school awards mostly bachelor's degrees and reports both cost and earnings 10 years after entry. We kept nine columns: name, state, type, sticker cost, net price, earnings, debt, graduation rate, and enrollment. We built the main D3 scatterplot of cost against earnings, colored by school type. You switch between sticker price and net price, and the dots slide to the new position. You filter by school type with checkboxes. You search for your school, and the chart labels the dot and dims the rest. You hover over any dot to see cost, earnings, debt, graduation rate, and three ranks: value, cost, and earnings. Labels mark UCSD and Stanford so you see the gap between listed price and paid price.</p>
 
   <h3>What will be the most challenging part to design, and why?</h3>
-  <p>The hardest part will be telling a clear story on top of a dense chart with 1,682 points. Dots overlap heavily in the $20K to $40K range, so we need zoom, brushing, or a binned view to keep the chart readable without hiding schools. A second challenge is the value metric. Earnings divided by net price explodes for schools with a net price near $0, so a raw ratio ranks CUNY campuses above MIT, and we need a fairer measure such as earnings minus four years of net price. We also want linked views for debt and graduation rate that update when you select schools, and keeping several D3 charts in sync takes careful state management. Finally, we have to write scroll-driven steps that guide you through the and-but-therefore arc without making you read a wall of text.</p>
+  <p>The chart holds 1,682 dots, and most sit between $20K and $40K a year. Overlap hides schools in this range, so we plan to add zoom or a brush. The value metric needs work. Earnings divided by net price jumps past 100 for schools with a net price near $0, so CUNY Baruch ranks above MIT. We plan to test earnings minus four years of net price as a fairer measure. Linked charts for debt and graduation rate need to update with your selection, and we need clean state handling across views. We also need scroll steps to walk you through the and-but-therefore story with short text.</p>
 </section>
 </main>
 
